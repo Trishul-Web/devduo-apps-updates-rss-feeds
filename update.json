@@ -1,0 +1,42 @@
+[
+  {
+    "id": "10.1.1",
+    "force_update": false,
+    "title": "Critical AI Fixes (v10.1.1) 🛠️",
+    "message": "We've resolved the download and initialization issues for the offline AI engines! Important: If you use the Standard or High Power models, please delete and re-download them in the AI Configuration menu.",
+    "points": [
+      "✅ Fixed offline AI model downloads and stability.",
+      "⚠️ Action Required: Re-download Standard/High Power models to apply fixes.",
+      "💬 Fixed missing AI chat responses in the editor.",
+      "✨ UI polish and smoother animations."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
+    "id": "10.1.0",
+    "force_update": false,
+    "title": "Limitless AI Update (v10.1.0) 🚀",
+    "message": "Take your coding to the next level with our brand new Smart Debugger and Magic Inputs. Update now to unlock these powerful tools!",
+    "points": [
+      "🧠 On-Device AI with offline support, no limits, and full privacy.",
+      "🛠️ Smart AI Debugger for instant error explanation and auto-fix.",
+      "📑 AI Sub-Tabs to keep your file workspace clean and organized.",
+      "🪄 Magic Input Detection for automatic stdin handling.",
+      "🔄 Easily switch between Cloud AI and Local AI on the fly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
+    "id": "10.0.0",
+    "force_update": false,
+    "title": "A Massive Leap Forward (v10.0.0) ✨",
+    "message": "Experience the next generation of development with our biggest update yet. 100% Offline AI is finally here.",
+    "points": [
+      "📱 DevDuo Lite - Ultra-fast & lightweight (4GB RAM).",
+      "⚡ DevDuo Standard - Balanced performance (6GB RAM).",
+      "🔥 DevDuo High Power - Advanced reasoning (8GB+ RAM).",
+      "🔒 Run fully offline with zero internet dependency and absolute privacy."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  }
+]
