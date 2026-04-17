@@ -1,6 +1,6 @@
 [
   {
-    "id": "10.1.1",
+    "id": "10.1.2",
     "force_update": false,
     "title": "Critical AI Fixes (v10.1.1) 🛠️",
     "message": "We've resolved the download and initialization issues for the offline AI engines! Important: If you use the Standard or High Power models, please delete and re-download them in the AI Configuration menu.",
