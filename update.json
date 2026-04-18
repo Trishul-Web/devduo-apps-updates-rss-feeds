@@ -1,8 +1,8 @@
 [
   {
-    "id": "10.1.4",
+    "id": "10.1.5",
     "force_update": false,
-    "title": "Instant AI Initialization (v10.1.4) ⚡",
+    "title": "Instant AI Initialization (v10.1.5) ⚡",
     "message": "We've resolved a critical issue preventing offline AI models from booting correctly when opening the app. Your local AI is now instantly ready to code whenever you are!",
     "points": [
       "✅ Fixed a bug where the AI engine failed to start on the first launch.",
