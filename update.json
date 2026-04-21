@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.1.7",
+    "force_update": false,
+    "title": "Massive Price Drop & AI Boost (v10.1.7) 🎉",
+    "message": "We've significantly reduced our Premium prices! Unlock the Elite tier for less. Plus, DevDuo Lite, Standard, and High Power models are now faster and more stable for a flawless offline AI experience.",
+    "points": [
+      "📉 Massive Price Drop: Elite Premium is now more affordable than ever!",
+      "⚡ AI Enhancements: Faster responses, better memory optimization, and improved stability.",
+      "⚙️ System Improvements: Smoother file handling, navigation, and editor performance.",
+      "🛠️ Fixes: Resolved AI startup issues and applied general bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.1.5",
     "force_update": false,
     "title": "Instant AI Initialization (v10.1.5) ⚡",
