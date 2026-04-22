@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.2.0",
+    "force_update": true,
+    "title": "Critical AI Fix & Memory Control (v10.2.0) 🚀",
+    "message": "We have completely overhauled the AI engine to fix startup crashes! We also introduced a new Hardware Allocation feature, giving you full control over the AI's memory usage. Please update to enjoy a flawless, blazing-fast offline coding experience.",
+    "points": [
+      "🚨 Critical AI Fix: Resolved the engine initialization crashes. All Local AI models now boot and run perfectly!",
+      "🎛️ New Hardware Allocation: Control the AI's token memory limit directly in settings to match your device's RAM (Supports 4GB up to 12GB+).",
+      "🚀 Multimodal Engine: Full support added for the new Gemma 4 (.litertlm) engine for smarter, faster code generation.",
+      "⚡ Performance Boost: Significant under-the-hood optimizations for faster compile times and a smoother UI."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.1.7",
     "force_update": false,
     "title": "Massive Price Drop & AI Boost (v10.1.7) 🎉",
