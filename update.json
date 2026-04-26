@@ -1,5 +1,19 @@
 [
   {
+    "id": "10.3.0",
+    "force_update": false,
+    "title": "AI Project Playground & Smart Input (v10.3.0) 🏗️",
+    "message": "Step into the future of mobile development! Architect full projects, manage complex folder structures, and use AI to intelligently detect inputs for a seamless coding experience. Build faster and code smarter with DevDuo Apps.",
+    "points": [
+      "🏗️ AI Project Playground: Create structured projects with manual folder and file management. Generate or update code using AI and organize your entire system in one workspace.",
+      "🧠 AI Input Detection: Effortlessly scan your code to detect required inputs and automatically generate custom fields for accurate program execution.",
+      "📸 Version Snapshots: Manage file versions with snapshots to branch your code and revert to previous states without losing progress.",
+      "🎨 Premium UI & Experience: A completely redesigned mesh-gradient interface with fluid animations and smoother performance for large files.",
+      "🛠️ Workspace Improvements: Enhanced editor experience with keyboard overscroll support and precise controls for managing your AI workspaces."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.2.0",
     "force_update": true,
     "title": "Critical AI Fix & Memory Control (v10.2.0) 🚀",
