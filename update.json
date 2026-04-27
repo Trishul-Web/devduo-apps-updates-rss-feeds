@@ -1,5 +1,17 @@
 [
   {
+    "id": "10.3.2",
+    "force_update": false,
+    "title": "File Organization & Version Control (v10.3.2) 📁",
+    "message": "We've improved the way your files and AI updates are organized! Enjoy a cleaner workspace with nested revisions, enhanced version control, and smoother navigation across the app.",
+    "points": [
+      "🗂️ Organized File Explorer: AI-generated updates and Playground revisions are now neatly organized into a subfolder hierarchy under their original parent file.",
+      "🗑️ Advanced Version Control: You can now easily delete specific subfolder updates directly within the AI Playground and Editor tabs.",
+      "⚙️ Under-the-Hood Improvements: Enhanced database initialization for a smoother onboarding experience for new users."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.1",
     "force_update": false,
     "title": "AI Project Playground & Smart Input (v10.3.1) 🏗️",
