@@ -1,5 +1,17 @@
 [
   {
+    "id": "10.3.3",
+    "force_update": false,
+    "title": "Premium Sync & Restore Fix (v10.3.3) 💎",
+    "message": "We've resolved an issue preventing some users from restoring their premium purchases on new devices. Update now to easily sync your DevDuo Elite access across all your Android devices!",
+    "points": [
+      "🛒 Restore Purchase Fix: Resolved a bug where the 'Restore Purchases' button was unresponsive for users switching devices or reinstalling.",
+      "🔄 Account Syncing: Successfully sync your DevDuo Elite or Pro access across multiple devices using the same Google Play account.",
+      "✨ UI Improvements: Added clearer status messages and visual feedback when verifying your premium status."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.2",
     "force_update": false,
     "title": "File Organization & Version Control (v10.3.2) 📁",
