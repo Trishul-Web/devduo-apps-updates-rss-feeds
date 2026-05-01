@@ -1,4 +1,15 @@
 [
+  { "id": "10.3.4", 
+    "force_update": false, 
+    "title": "Mobile Limitations Guide (v10.3.4) 📱", 
+    "message": "We've added a new dedicated section to clarify how mobile environments differ from desktop IDEs, helping you better manage your multi-file web projects and background execution tasks.", 
+    "points": [ 
+      "ℹ️ New 'Mobile Limitations' guide available in the Editor Actions drawer.", 
+      "📝 Clear explanations regarding single-file execution requirements and mobile sandboxing restrictions.", 
+      "🛠️ Useful guidance for correctly formatting CSS/JS in HTML web previews.", 
+      "⚙️ General stability and performance improvements across the IDE." ], 
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer" 
+  }, 
   {
     "id": "10.3.3",
     "force_update": false,
