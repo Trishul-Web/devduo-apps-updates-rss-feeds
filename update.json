@@ -1,4 +1,17 @@
 [
+  {
+    "id": "10.3.5",
+    "force_update": false,
+    "title": "Cloud AI Transparency Update (v10.3.5) 💡",
+    "message": "Due to high server costs, Cloud AI has strict daily usage limits for BOTH Free and Premium users.\n\nTo bypass these limits and get unlimited AI access, you can download a 100% free Offline Model in the AI Config menu, or connect your own personal Gemini API key (standard Google API pricing applies to you).",
+    "points": [
+      "ℹ️ Cloud AI Notice: Added clear information explaining that Cloud AI has strict daily usage limits for both Free and Premium users due to high server costs.",
+      "🔓 100% Free Offline AI: Bypassing limits is easy! Download any of our local On-Device models for completely free, unlimited, and private coding.",
+      "🔑 Custom API Keys: Prefer the cloud? You can now easily bypass quotas by connecting your own personal Gemini API key (standard Google API pricing applies to you).",
+      "✨ UI Improvements: Enhanced the AI Configuration menu layout for better readability and a smoother setup experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
   { "id": "10.3.4", 
     "force_update": false, 
     "title": "Mobile Limitations Guide (v10.3.4) 📱", 
