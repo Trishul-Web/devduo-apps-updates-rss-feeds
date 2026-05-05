@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.3.6",
+    "force_update": false,
+    "title": "Unlimited On Device AI & Smart Fallback (v10.3.6) 🚀",
+    "message": "Our Cloud AI is currently experiencing unusually high demand. To continue coding with zero limits, please switch to our 100% Offline On-Device AI models! They are much more powerful than the cloud, completely secure, and provide infinite usage.",
+    "points": [
+      "🚀 Cloud AI Demand & Smart Fallback: Due to high demand on our Cloud servers, we've added intelligent alerts that guide you seamlessly to our more powerful offline models.",
+      "♾️ Unlimited & Powerful On-Device AI: Easily switch to our 100% Offline On-Device AI models directly from the AI Configuration menu. They are much more powerful and offer infinite, uninterrupted coding assistance.",
+      "🔒 Enhanced Privacy & Security: Because these models run entirely on your hardware, they are completely secure. Zero data leaves your device.",
+      "⚙️ Stability & Performance: Under-the-hood stability improvements for local model memory allocation and offline engine booting."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.5",
     "force_update": false,
     "title": "Cloud AI Transparency Update (v10.3.5) 💡",
