@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.3.8",
+    "force_update": true,
+    "title": "Critical Stability Fix & Bug Resolution (v10.3.8) 🚨",
+    "message": "This update delivers a crucial fix for a major bug that was impacting core functionality during code execution. We strongly require updating to ensure a stable, reliable, and uninterrupted coding experience.",
+    "points": [
+      "🐛 Critical Bug Fix: Resolved a major issue that was causing failures and instability during code execution workflows.",
+      "🛡️ Improved Reliability: Fixed unexpected interruptions and ensured smoother operation across all core IDE features.",
+      "⚡ Performance Enhancements: Optimized execution handling for faster response times and reduced system strain.",
+      "⚙️ Stability Improvements: Strengthened internal processes to prevent crashes and improve overall consistency."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.6",
     "force_update": false,
     "title": "Unlimited On Device AI & Smart Fallback (v10.3.6) 🚀",
