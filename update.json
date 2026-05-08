@@ -1,5 +1,17 @@
 [
   {
+    "id": "10.3.9",
+    "force_update": true,
+    "title": "Critical Startup & AI Crash Fixes (v10.3.9) 🛠️",
+    "message": "Thank you to everyone who reported the recent issues! We have completely resolved the 'blank screen' bug during app launch and fixed the AI engine crashes on older devices. Update now for a smooth, crash-free coding experience.",
+    "points": [
+      "🐛 Blank Screen Fix: Resolved a major issue that caused the app to hang on a blank screen during startup for some users.",
+      "🛡️ AI Crash Prevention: Added intelligent hardware checks. The Local AI Engine will now safely fall back to Cloud AI on unsupported devices without crashing the app.",
+      "⚡ Improved Launch Reliability: Enhanced the splash screen and background initialization sequence to guarantee you get into your workspace flawlessly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.8",
     "force_update": true,
     "title": "Critical Stability Fix & Bug Resolution (v10.3.8) 🚨",
