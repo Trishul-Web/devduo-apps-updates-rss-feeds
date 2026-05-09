@@ -13,6 +13,7 @@
 | <img src="https://play-lh.googleusercontent.com/exFCMg3IKVv6jqjfUlT5-ikRQUI3x2enIRYvNRKNg_AVTPDFRgOVGDU10C5Gj5PZfb9D3kz2fOgTzYHVpux92Q=s512-rw" width="100" height="100"><br>**DevDuo IDE** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/update.json) |
 | <img src="https://play-lh.googleusercontent.com/KtpGbymZoif_OB6mnFhIc-uoi5nBFzFQCKXJEFqrNBp4vpKyZ5jRqduqUx9r0FR9iUI0SYU5cZsWpHeD9xzdlw=s512-rw" width="100" height="100"><br>**Discipline Forge** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Discipline_Forge_Habit_Tracker.json) |
 | <img src="https://play-lh.googleusercontent.com/DheZ43QvWfA5nPyawQKrnCLxFxQUKgk6pNiy7Od6gzG1pD1GlN61-c6uHgYywL_Hztt6jHeZXdIFCkw-J2At=s512-rw" width="100" height="100"><br>**Newszio** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Newszio_Personalize_Your_News.json) |
+| <img src="https://play-lh.googleusercontent.com/HSDpQXH1EtUjbbD3w7NjBRG9AN5Gd09sW7d4_kTld-nZdbNfmxfWBajxbfOj2VcXB7E3Ac7M641HyiMmU9a4rUI=s512-rw" width="100" height="100"><br>**Newszio** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Newszio_Personalize_Your_News.json) |
 
 ---
 
