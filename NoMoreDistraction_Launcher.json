@@ -1,35 +1,15 @@
 [
   {
-    "id": "8.4.0",
-    "force_update": true,
-    "title": "Critical Bug Fixes & Hidden Space",
-    "message": "Important updates and the highly requested Hidden Apps feature.",
+    "id": "8.4.1",
+    "force_update": false,
+    "title": "✨ The Update Hub is Here! 🚀",
+    "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest productivity tools and features. 🌿",
     "points": [
-      "Hidden Space: Secure apps with Biometrics or a PIN.",
-      "Fixed battery drain issue on the home screen."
+      "🔔 New In-App Updater: Get instantly notified about fresh features directly from your home screen.",
+      "📖 Interactive Changelogs: Discover exactly what's new the moment you update your app.",
+      "🔄 Manual Check: Instantly check for new updates anytime with our new quick-action button.",
+      "⚡ Performance Boost: Under-the-hood tweaks for an even smoother, distraction-free experience."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
-  },
-  {
-    "id": "8.3.1",
-    "force_update": true,
-    "title": "Critical Bug Fixes & Hidden Space",
-    "message": "Important updates and the highly requested Hidden Apps feature.",
-    "points": [
-      "Hidden Space: Secure apps with Biometrics or a PIN.",
-      "Fixed battery drain issue on the home screen."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
-  },
-  {
-    "id": "8.2.0",
-    "force_update": true,
-    "title": "Critical Bug Fixes & Hidden Space",
-    "message": "Important updates and the highly requested Hidden Apps feature.",
-    "points": [
-      "Hidden Space: Secure apps with Biometrics or a PIN.",
-      "Fixed battery drain issue on the home screen."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.launcher"
   }
 ]
