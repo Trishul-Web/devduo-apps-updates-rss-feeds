@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1.1.0",
+    "force_update": false,
+    "title": "✨ The AI Career Hub is Here! 🚀",
+    "message": "We've added powerful new AI tools to supercharge your job search and resume building experience. 💼",
+    "points": [
+      "🤖 AI Resume Chat: Talk directly to your resume to find skill gaps and get tailored advice.",
+      "📊 ATS Scanner: Instantly score your resume against real-world Applicant Tracking Systems.",
+      "🔥 Daily Challenges: Keep your skills sharp with bite-sized interview and job hunt challenges.",
+      "🎨 New Premium Themes: Stand out with 'Cyber Dark' and 'Deep Space' portfolio themes.",
+      "⚡ Performance Boost: Faster PDF exports and smoother animations across the app."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.yourdomain.resumateai"
+  },
+  {
+    "id": "1.0.1",
+    "force_update": true,
+    "title": "🛡️ Critical Security & Stability Update",
+    "message": "This update includes vital bug fixes for saving templates and ensures your data syncs perfectly.",
+    "points": [
+      "🐛 Fixed a crash occurring on older Android devices when exporting to PDF.",
+      "🔒 Enhanced privacy and security protocols for user data."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.yourdomain.resumateai"
+  }
+]
