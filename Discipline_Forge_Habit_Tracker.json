@@ -1,6 +1,6 @@
 [
   {
-    "id": "3.7.0",
+    "id": "3.7.1",
     "title": "⚒️ THE FORGE POSTERS ARE HERE!",
     "message": "Your discipline deserves more than just a log—it deserves a spotlight. 🔥 Turn your daily grind into premium, shareable art and showcase your journey to the world. 🖼️💪",
     "points": [
@@ -11,6 +11,6 @@
       "🚀 Optimized Performance: Smoother transitions and refined UI across the Forge."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
-    "isForced": true
+    "isForced": false
   }
 ]
