@@ -18,5 +18,5 @@
 <div align="center">
   <img src="https://play-lh.googleusercontent.com/TIgNRaUE1v47-3QsAw_QkLmfQSSmqTATnIvDtkXN0-dVrWLra4kGlwsDkG6HFW5Oqss=s188-rw" width="32" height="32">
   <br>
-  © 2026 <b>DevDuo Brand</b> | <i>Reforging Discipline through Code.</i>
+  © 2026 <b>DevDuo Apps</b>
 </div>
