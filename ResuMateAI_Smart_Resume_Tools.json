@@ -1,4 +1,31 @@
-[
+[ {
+    "id": "12.12.0",
+    "force_update": true,
+    "title": "✨ The AI Career Hub is Here! 🚀",
+    "message": "We've added powerful new AI tools to supercharge your job search and resume building experience. 💼",
+    "points": [
+      "🤖 AI Resume Chat: Talk directly to your resume to find skill gaps and get tailored advice.",
+      "📊 ATS Scanner: Instantly score your resume against real-world Applicant Tracking Systems.",
+      "🔥 Daily Challenges: Keep your skills sharp with bite-sized interview and job hunt challenges.",
+      "🎨 New Premium Themes: Stand out with 'Cyber Dark' and 'Deep Space' portfolio themes.",
+      "⚡ Performance Boost: Faster PDF exports and smoother animations across the app."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+   {
+    "id": "1.12.0",
+    "force_update": false,
+    "title": "✨ The AI Career Hub is Here! 🚀",
+    "message": "We've added powerful new AI tools to supercharge your job search and resume building experience. 💼",
+    "points": [
+      "🤖 AI Resume Chat: Talk directly to your resume to find skill gaps and get tailored advice.",
+      "📊 ATS Scanner: Instantly score your resume against real-world Applicant Tracking Systems.",
+      "🔥 Daily Challenges: Keep your skills sharp with bite-sized interview and job hunt challenges.",
+      "🎨 New Premium Themes: Stand out with 'Cyber Dark' and 'Deep Space' portfolio themes.",
+      "⚡ Performance Boost: Faster PDF exports and smoother animations across the app."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
   {
     "id": "1.1.0",
     "force_update": false,
