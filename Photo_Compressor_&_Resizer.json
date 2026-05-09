@@ -10,7 +10,7 @@
       "📦 ZIP Export: Compress hundreds of photos and share them as a single ZIP archive.",
       "⚡ Hardware Acceleration: Faster processing times for batch operations."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.yourbrand.photocompressor"
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
   },
   {
     "id": "1.1.0",
@@ -23,7 +23,7 @@
       "📦 ZIP Export: Compress hundreds of photos and share them as a single ZIP archive.",
       "⚡ Hardware Acceleration: Faster processing times for batch operations."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.yourbrand.photocompressor"
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
   },
   {
     "id": "1.0.1",
@@ -34,6 +34,6 @@
       "Fixed memory leaks during heavy batch compression",
       "Improved EXIF metadata preservation"
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.yourbrand.photocompressor"
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
   }
 ]
