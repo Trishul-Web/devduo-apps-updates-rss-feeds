@@ -14,6 +14,7 @@
 | <img src="https://play-lh.googleusercontent.com/KtpGbymZoif_OB6mnFhIc-uoi5nBFzFQCKXJEFqrNBp4vpKyZ5jRqduqUx9r0FR9iUI0SYU5cZsWpHeD9xzdlw=s512-rw" width="100" height="100"><br>**Discipline Forge** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Discipline_Forge_Habit_Tracker.json) |
 | <img src="https://play-lh.googleusercontent.com/DheZ43QvWfA5nPyawQKrnCLxFxQUKgk6pNiy7Od6gzG1pD1GlN61-c6uHgYywL_Hztt6jHeZXdIFCkw-J2At=s512-rw" width="100" height="100"><br>**Newszio** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Newszio_Personalize_Your_News.json) |
 | <img src="https://play-lh.googleusercontent.com/HSDpQXH1EtUjbbD3w7NjBRG9AN5Gd09sW7d4_kTld-nZdbNfmxfWBajxbfOj2VcXB7E3Ac7M641HyiMmU9a4rUI=s512-rw" width="100" height="100"><br>**NoMoreDistraction Launcher** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/NoMoreDistraction_Launcher.json) |
+| <img src="https://play-lh.googleusercontent.com/3PIP6CtS9TKEkOGoyyqcXO_g-Ze5FDWR2DnGe-94UH0zV2BZJbIXEQwl4lnIKhWvxegaTHOgtZsNdlg70n4asw=s512-rw" width="100" height="100"><br>**NoMoreDistraction Launcher** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Photo_Compressor_%26_Resizer.json) |
 
 ---
 
