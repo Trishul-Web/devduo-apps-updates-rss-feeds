@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1.1.0",
+    "force_update": false,
+    "title": "🧹 Storage Sweeper & Heatmaps! 🚀",
+    "message": "We've added powerful new tools to help you reclaim even more space and see exactly how compression works.",
+    "points": [
+      "🔍 Storage Sweeper: Automatically scan and find the largest photos hiding in your gallery.",
+      "🔥 Heatmap Vision: Toggle 'Show Loss' to see exactly which pixels are compressed.",
+      "📦 ZIP Export: Compress hundreds of photos and share them as a single ZIP archive.",
+      "⚡ Hardware Acceleration: Faster processing times for batch operations."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.yourbrand.photocompressor"
+  },
+  {
+    "id": "1.0.1",
+    "force_update": true,
+    "title": "Critical Core Update",
+    "message": "Important under-the-hood fixes for compression stability on older Android versions.",
+    "points": [
+      "Fixed memory leaks during heavy batch compression",
+      "Improved EXIF metadata preservation"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.yourbrand.photocompressor"
+  }
+]
