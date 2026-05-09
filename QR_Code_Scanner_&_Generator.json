@@ -1,64 +1,14 @@
 [
   {
-    "id": "11.4.0",
-    "force_update": true,
-    "title": "🎉 Welcome to PRO Studio!",
-    "message": "We've completely revamped the QR generation experience to give you absolute creative freedom.",
-    "points": [
-      "🚀 UPI Payment QR: Create instant 'Scan to Pay' codes for your business.",
-      "✨ Custom Branding Banners: Add verified badges, titles, and descriptions directly inside your QR code.",
-      "🎨 12 New Premium Frames: From Polaroid and Neon to Ticket and Bubble styles.",
-      "🛡️ Flash Deals: Keep an eye out for hidden scratch cards to unlock lifetime premium discounts!"
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
-  },{
-    "id": "1.4.0",
+    "id": "1.4.1",
     "force_update": false,
-    "title": "🎉 Welcome to PRO Studio!",
-    "message": "We've completely revamped the QR generation experience to give you absolute creative freedom.",
+    "title": "🔔 The Update Hub is Here!",
+    "message": "We've added a beautiful new way to keep you perfectly in sync with our latest tools and features.",
     "points": [
-      "🚀 UPI Payment QR: Create instant 'Scan to Pay' codes for your business.",
-      "✨ Custom Branding Banners: Add verified badges, titles, and descriptions directly inside your QR code.",
-      "🎨 12 New Premium Frames: From Polaroid and Neon to Ticket and Bubble styles.",
-      "🛡️ Flash Deals: Keep an eye out for hidden scratch cards to unlock lifetime premium discounts!"
+      "✨ In-App Notifications: See when new updates are available right from your home screen.",
+      "📖 Interactive Version History: Tap the checkmark icon to read past update notes anytime.",
+      "🚀 Performance Boost: Faster QR generation and smoother scrolling."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
-  },
-  {
-    "id": "1.2.0",
-    "force_update": false,
-    "title": "🎉 Welcome to PRO Studio!",
-    "message": "We've completely revamped the QR generation experience to give you absolute creative freedom.",
-    "points": [
-      "🚀 UPI Payment QR: Create instant 'Scan to Pay' codes for your business.",
-      "✨ Custom Branding Banners: Add verified badges, titles, and descriptions directly inside your QR code.",
-      "🎨 12 New Premium Frames: From Polaroid and Neon to Ticket and Bubble styles.",
-      "🛡️ Flash Deals: Keep an eye out for hidden scratch cards to unlock lifetime premium discounts!"
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
-  },
-  {
-    "id": "1.1.0",
-    "force_update": false,
-    "title": "🎉 Welcome to PRO Studio!",
-    "message": "We've completely revamped the QR generation experience to give you absolute creative freedom.",
-    "points": [
-      "🚀 UPI Payment QR: Create instant 'Scan to Pay' codes for your business.",
-      "✨ Custom Branding Banners: Add verified badges, titles, and descriptions directly inside your QR code.",
-      "🎨 12 New Premium Frames: From Polaroid and Neon to Ticket and Bubble styles.",
-      "🛡️ Flash Deals: Keep an eye out for hidden scratch cards to unlock lifetime premium discounts!"
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
-  },
-  {
-    "id": "1.0.5",
-    "force_update": true,
-    "title": "⚡ Critical Performance Boost",
-    "message": "We squashed some bugs and improved the scanning engine.",
-    "points": [
-      "🔍 Faster Decoding: Uploaded images are now scanned 2x faster.",
-      "🐛 Bug Fixes: Resolved an issue where Wi-Fi passwords were not encoding properly."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.qrcode" 
   }
 ]
