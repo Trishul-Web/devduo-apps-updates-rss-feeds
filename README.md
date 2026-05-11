@@ -19,6 +19,7 @@
 | <img src="https://play-lh.googleusercontent.com/PSf_7c1gVKWyxJFuuVXwxFDievaG8rma1wBfV90bcm_EhXBBV5TkHKHmS3yKV7WNUPA_vLQpKqxqQG2-F8Ov=s512-rw" width="100" height="100"><br>**ResuMateAI Smart Resume Tools** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/ResuMateAI_Smart_Resume_Tools.json) |
 | <img src="https://play-lh.googleusercontent.com/tJKzTaRWh-QRKpwSa5UkYj4nFSLVbUaw5obCS0Wad2k8V5R23P6XZNv0AVyclelnrLEAXK_KefqbKYtFxAjIcQ=s512-rw" width="100" height="100"><br>**SkillSprint Learning App** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SkillSprint_Learning_App.json) |
 | <img src="https://play-lh.googleusercontent.com/FIrBkwfgzyOz-0E1-ip0PM9Z8cxC9voXLVHRvY3faXkk9WTpr9m9_pyTy9wTN-QuA80OFJsKDhW5FlZ7DSgLKLs=s512-rw" width="100" height="100"><br>**Tymio: Aesthetic Clock & Timer** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Tymio_Aesthetic_Clock_%26_Timer.json) |
+| <img src="https://play-lh.googleusercontent.com/-YSkETFKDcweeJ6ayK2UQxxgFsk_btZWSut3qu8PY17tkXKNT8O4-bYeUaWT04gNVIpm3tzXNx4V43Az_TmDaQ=s512-rw" width="100" height="100"><br>**Web to PDF: URL & HTML** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Web_to_PDF_URL_%26_HTML.json) |
 
 ---
 
