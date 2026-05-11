@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1.0.1",
+    "force_update": false,
+    "title": "✨ The Zenith Update is Here!",
+    "message": "We've refined the void. Experience smoother animations, interactive clock faces, and the new Zen Focus tools.",
+    "points": [
+      "🌌 New Interactive Globe: Explore timezones with the new 3D spatial view.",
+      "🧘 Zen Focus Mode: Lock your phone down. No escapes, no distractions.",
+      "📈 Progress Timeline: Capture and track your focus sessions visually.",
+      "⚡ Performance Boost: Smoother glassmorphism rendering across all devices."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.tymio"
+  },
+  {
+    "id": "1.0.0",
+    "force_update": true,
+    "title": "🚀 Tymio Launch",
+    "message": "Welcome to the future of time and focus tracking.",
+    "points": [
+      "Initial Release",
+      "Universal Clock Engine",
+      "Neon & Void Themes"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.tymio"
+  }
+]
