@@ -1,26 +1,15 @@
-[ 
+[
   {
     "id": "5.2.0",
     "force_update": false,
-    "title": "🛠️ Critical Core Architecture Patch",
-    "message": "Mandatory security updates and system navigation improvements.",
+    "title": "✨ The Update Hub is Here! 🚀",
+    "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest courses and features.",
     "points": [
-      "🔒 Secure Sync: Hardened the offline database encryption protocols.",
-      "🐛 Navigation Fixed: Resolved the system navigation overlap issue on newer Android versions."
+      "🔔 In-App Updater: Get instantly notified about fresh content directly from your dashboard.",
+      "📖 Interactive Changelogs: Discover exactly what's new the moment we drop an update.",
+      "🔄 Manual Check: Instantly check for new features anytime with the new cloud sync button.",
+      "⚡ Performance Boost: Under-the-hood tweaks for an even smoother, distraction-free experience."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
-  },
-  {
-    "id": "5.1.0",
-    "force_update": false,
-    "title": "✨ Zen Focus & Timeline! 🚀",
-    "message": "We've crafted a beautiful new way to keep you perfectly in sync with your learning goals. Lock in and track your growth.",
-    "points": [
-      "🧠 Zen Focus Mode: Lock down your device. No escapes, no distractions while you learn.",
-      "📊 Progress Timeline: Capture and track your learning milestones visually over time.",
-      "🔄 Quick-Action Sync: Instantly check for new courses and updates directly from the dashboard.",
-      "⚡ Performance Boost: Under-the-hood tweaks for an even smoother, lag-free experience."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+    "url": "https://play.google.com/store/apps/details?id=com.skillsprint.app"
   }
 ]
