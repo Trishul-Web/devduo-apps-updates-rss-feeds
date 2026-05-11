@@ -1,4 +1,27 @@
-[
+[ {
+    "id": "15.2.1",
+    "force_update": false,
+    "title": "✨ The Update Hub is Here! 🚀",
+    "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest Web to PDF tools and features.",
+    "points": [
+      "🔔 In-App Updater: Get instantly notified about fresh features directly when you open the app.",
+      "📖 Interactive Changelogs: Discover exactly what's new the moment you update.",
+      "⚡ Performance Boost: Under-the-hood rendering tweaks for even faster HTML and URL to PDF conversions."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.yourpackage.name"
+  }, 
+  {
+    "id": "5.12.1",
+    "force_update": true,
+    "title": "✨ The Update Hub is Here! 🚀",
+    "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest Web to PDF tools and features.",
+    "points": [
+      "🔔 In-App Updater: Get instantly notified about fresh features directly when you open the app.",
+      "📖 Interactive Changelogs: Discover exactly what's new the moment you update.",
+      "⚡ Performance Boost: Under-the-hood rendering tweaks for even faster HTML and URL to PDF conversions."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.yourpackage.name"
+  },
   {
     "id": "5.2.1",
     "force_update": false,
