@@ -1,11 +1,11 @@
 [
   {
-    "id": "1.1.0",
+    "id": "1.3.1",
     "force_update": false,
     "title": "✨ The Update Hub is Here! 🚀",
     "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest SaveAnything features.",
     "points": [
-      "🔔 In-App Updater: Get instantly notified about fresh features directly when you open the app.",
+      "🔔 In-App Updater: Get instantly notified about fresh features directly when you open your vault.",
       "📖 Interactive Changelogs: Discover exactly what's new the moment you update.",
       "⚡ Performance Boost: Under-the-hood tweaks for an even faster link saving experience."
     ],
