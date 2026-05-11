@@ -10,7 +10,7 @@
       "🔄 Quick-Action Sync: Instantly check for new courses and updates directly from the dashboard.",
       "⚡ Performance Boost: Under-the-hood tweaks for an even smoother, lag-free experience."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.skillsprint.app"
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
   },
   {
     "id": "10.1.0",
@@ -21,6 +21,6 @@
       "🔒 Secure Sync: Hardened the offline database encryption protocols.",
       "🐛 Navigation Fixed: Resolved the system navigation overlap issue on newer Android versions."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.skillsprint.app"
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
   }
 ]
