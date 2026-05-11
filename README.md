@@ -22,6 +22,7 @@
 | <img src="https://play-lh.googleusercontent.com/-YSkETFKDcweeJ6ayK2UQxxgFsk_btZWSut3qu8PY17tkXKNT8O4-bYeUaWT04gNVIpm3tzXNx4V43Az_TmDaQ=s512-rw" width="100" height="100"><br>**Web to PDF: URL & HTML** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Web_to_PDF_URL_%26_HTML.json) |
 | <img src="https://play-lh.googleusercontent.com/fL1szEF80gdjwkI9JD393XiW8Njy5qw38oTTWs9QRLGb_hAAkHoQl2gL1EQnGmKGme8Qn7rD9xDFzeO-TaKRUA=s512-rw" width="100" height="100"><br>**SafeKey: Password Manager Safe** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SafeKey_Password_Manager_Safe.json) |
 | <img src="https://play-lh.googleusercontent.com/Y-vEXw1NXdcXe6uSVeucD6Bv2TtN5uBQTNT8ah07H--sXo9IcO5E8h0WYPADhyMp8w=s512-rw" width="100" height="100"><br>**SafeKey: Password Manager Safe** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Safekeep_Secure_Folder_Vault.json) |
+| <img src="https://play-lh.googleusercontent.com/ddvFW3biXwZqg5CRC3Kz3shsYXH4eP7bLaIHuwUr3nTOcnhybmLZXzerzCppRk4w7lTRUdyM-z7rVOdBu2EdrA=s512-rw" width="100" height="100"><br>**SaveAnything: Link & File Save** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SaveAnything_Link_%26_File_Save.json) |
 
 ---
 
