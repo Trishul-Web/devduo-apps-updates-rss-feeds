@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1.2.0",
+    "force_update": false,
+    "title": "✨ The Update Hub is Here! 🚀",
+    "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest SafeKeep features and security patches.",
+    "points": [
+      "🔔 In-App Updater: Get instantly notified about fresh features directly when you open your vault.",
+      "📖 Interactive Changelogs: Discover exactly what's new the moment you update.",
+      "⚡ Security Boost: Under-the-hood file encryption tweaks for an even faster, zero-lag experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.safekeep"
+  }
+]
