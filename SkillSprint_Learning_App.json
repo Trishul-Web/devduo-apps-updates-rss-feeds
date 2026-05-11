@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10.3.1",
+    "force_update": false,
+    "title": "✨ Zen Focus & Timeline! 🚀",
+    "message": "We've crafted a beautiful new way to keep you perfectly in sync with your learning goals. Lock in and track your growth.",
+    "points": [
+      "🧠 Zen Focus Mode: Lock down your device. No escapes, no distractions while you learn.",
+      "📊 Progress Timeline: Capture and track your learning milestones visually over time.",
+      "🔄 Quick-Action Sync: Instantly check for new courses and updates directly from the dashboard.",
+      "⚡ Performance Boost: Under-the-hood tweaks for an even smoother, lag-free experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.skillsprint.app"
+  },
+  {
+    "id": "10.1.0",
+    "force_update": true,
+    "title": "🛠️ Critical Core Architecture Patch",
+    "message": "Mandatory security updates and system navigation improvements.",
+    "points": [
+      "🔒 Secure Sync: Hardened the offline database encryption protocols.",
+      "🐛 Navigation Fixed: Resolved the system navigation overlap issue on newer Android versions."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.skillsprint.app"
+  }
+]
