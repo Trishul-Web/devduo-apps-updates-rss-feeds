@@ -1,6 +1,6 @@
 [
   {
-    "id": "10.3.1",
+    "id": "5.9.0",
     "force_update": false,
     "title": "✨ Zen Focus & Timeline! 🚀",
     "message": "We've crafted a beautiful new way to keep you perfectly in sync with your learning goals. Lock in and track your growth.",
@@ -14,7 +14,7 @@
   },
   {
     "id": "10.1.0",
-    "force_update": true,
+    "force_update": false,
     "title": "🛠️ Critical Core Architecture Patch",
     "message": "Mandatory security updates and system navigation improvements.",
     "points": [
