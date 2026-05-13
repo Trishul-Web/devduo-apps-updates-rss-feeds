@@ -1,37 +1,14 @@
-[ 
+[
   {
-    "id": "21.2.0",
+    "id": "1.2.1",
     "force_update": false,
-    "title": "🎉 Welcome to All In One Tracker",
-    "message": "The launch of your ultimate productivity and habit tracking companion.",
+    "title": "✨ The Update Hub is Here! 🚀",
+    "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest productivity tools and features.",
     "points": [
-      "✅ Daily habit tracking",
-      "📅 Event and irregular task tracking",
-      "⏱️ Countdowns and Milestones"
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
-  },
-  {
-    "id": "12.2.0",
-    "force_update": true,
-    "title": "🎉 Welcome to All In One Tracker",
-    "message": "The launch of your ultimate productivity and habit tracking companion.",
-    "points": [
-      "✅ Daily habit tracking",
-      "📅 Event and irregular task tracking",
-      "⏱️ Countdowns and Milestones"
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
-  },
-  {
-    "id": "1.1.1",
-    "force_update": false,
-    "title": "✨ Track Better, Share Better! 🚀",
-    "message": "We've added fantastic new features to help you track your life seamlessly.",
-    "points": [
-      "📊 Enhanced Analytics: Dive deeper into your progress with our new lifetime and consistency charts.",
-      "🎉 Viral Sharing: Generate beautiful posters of your milestones and share them directly to Instagram!",
-      "🐞 Squashed Bugs: Under-the-hood performance improvements for a smoother experience."
+      "🔔 New In-App Updater: Get instantly notified about fresh features directly from your home screen.",
+      "📖 Interactive Changelogs: Discover exactly what's new the moment you update your app.",
+      "🔄 Manual Check: Instantly check for new updates anytime with the dashboard status icon.",
+      "⚡ Performance Boost: Under-the-hood tweaks for an even smoother, distraction-free experience."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
   }
