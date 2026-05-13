@@ -1,4 +1,26 @@
 [
+   {
+    "id": "21.0.1",
+    "force_update": false,
+    "title": "🚨 Critical Core Patch",
+    "message": "A required update to patch rendering engines for newer Android devices.",
+    "points": [
+      "Fixed 3D Canvas rendering crashes.",
+      "Optimized texture memory loading."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
+    "id": "11.0.1",
+    "force_update": true,
+    "title": "🚨 Critical Core Patch",
+    "message": "A required update to patch rendering engines for newer Android devices.",
+    "points": [
+      "Fixed 3D Canvas rendering crashes.",
+      "Optimized texture memory loading."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
   {
     "id": "1.4.0",
     "force_update": false,
@@ -9,17 +31,6 @@
       "📸 3D Snapshot Export: Capture and share crisp images of your cards with full 3D physics applied.",
       "🎛️ Hardware Gyroscope: Tilt your phone to organically explore the sheen and reflections of your cards.",
       "🗂️ Multi-Page Architecture: Add unlimited pages to a single project and flip through them seamlessly."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
-  },
-  {
-    "id": "1.0.1",
-    "force_update": true,
-    "title": "🚨 Critical Core Patch",
-    "message": "A required update to patch rendering engines for newer Android devices.",
-    "points": [
-      "Fixed 3D Canvas rendering crashes.",
-      "Optimized texture memory loading."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
   }
