@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1.0.1",
+    "force_update": false,
+    "title": "✨ Track Better, Share Better! 🚀",
+    "message": "We've added fantastic new features to help you track your life seamlessly.",
+    "points": [
+      "📊 Enhanced Analytics: Dive deeper into your progress with our new lifetime and consistency charts.",
+      "🎉 Viral Sharing: Generate beautiful posters of your milestones and share them directly to Instagram!",
+      "🐞 Squashed Bugs: Under-the-hood performance improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
+    "id": "1.0.0",
+    "force_update": false,
+    "title": "🎉 Welcome to All In One Tracker",
+    "message": "The launch of your ultimate productivity and habit tracking companion.",
+    "points": [
+      "✅ Daily habit tracking",
+      "📅 Event and irregular task tracking",
+      "⏱️ Countdowns and Milestones"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  }
+]
