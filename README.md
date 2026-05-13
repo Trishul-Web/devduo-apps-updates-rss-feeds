@@ -23,6 +23,7 @@
 | <img src="https://play-lh.googleusercontent.com/fL1szEF80gdjwkI9JD393XiW8Njy5qw38oTTWs9QRLGb_hAAkHoQl2gL1EQnGmKGme8Qn7rD9xDFzeO-TaKRUA=s512-rw" width="100" height="100"><br>**SafeKey: Password Manager Safe** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SafeKey_Password_Manager_Safe.json) |
 | <img src="https://play-lh.googleusercontent.com/Y-vEXw1NXdcXe6uSVeucD6Bv2TtN5uBQTNT8ah07H--sXo9IcO5E8h0WYPADhyMp8w=s512-rw" width="100" height="100"><br>**SafeKey: Password Manager Safe** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Safekeep_Secure_Folder_Vault.json) |
 | <img src="https://play-lh.googleusercontent.com/ddvFW3biXwZqg5CRC3Kz3shsYXH4eP7bLaIHuwUr3nTOcnhybmLZXzerzCppRk4w7lTRUdyM-z7rVOdBu2EdrA=s512-rw" width="100" height="100"><br>**SaveAnything: Link & File Save** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SaveAnything_Link_%26_File_Save.json) |
+| <img src="https://play-lh.googleusercontent.com/zc4D6jz4eLdJVOhAA_9yNmFRVQn3ts_yCsAM0JpFCI-Rsu2Ia0d2_w6ZmLI3f12_gIYJJ-P3p0Onz-j7mFBfi0Q=s512-rw" width="100" height="100"><br>**3D ID Wallet & Card Scanner** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/3D_ID_Wallet_%26_Card_Scanner.json) |
 
 ---
 
