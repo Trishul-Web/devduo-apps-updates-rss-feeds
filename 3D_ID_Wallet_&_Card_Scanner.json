@@ -1,36 +1,14 @@
 [
-   {
-    "id": "21.0.1",
-    "force_update": false,
-    "title": "🚨 Critical Core Patch",
-    "message": "A required update to patch rendering engines for newer Android devices.",
-    "points": [
-      "Fixed 3D Canvas rendering crashes.",
-      "Optimized texture memory loading."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
-  },
   {
-    "id": "11.0.1",
-    "force_update": true,
-    "title": "🚨 Critical Core Patch",
-    "message": "A required update to patch rendering engines for newer Android devices.",
-    "points": [
-      "Fixed 3D Canvas rendering crashes.",
-      "Optimized texture memory loading."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
-  },
-  {
-    "id": "1.4.0",
+    "id": "1.3.3",
     "force_update": false,
-    "title": "✨ The Studio Vault Expands!",
-    "message": "We've added powerful new tools to elevate your 3D Card experience.",
+    "title": "✨ Introducing the Update Hub",
+    "message": "We've added a dedicated space to keep your 3D Vault perfectly in sync with our latest innovations.",
     "points": [
-      "📄 PDF Import Support: Extract high-res pages directly from your PDF documents.",
-      "📸 3D Snapshot Export: Capture and share crisp images of your cards with full 3D physics applied.",
-      "🎛️ Hardware Gyroscope: Tilt your phone to organically explore the sheen and reflections of your cards.",
-      "🗂️ Multi-Page Architecture: Add unlimited pages to a single project and flip through them seamlessly."
+      "New Update Hub: Access interactive changelogs and version history.",
+      "Smart Notifications: Stay informed about important security and feature patches.",
+      "UI Refinement: Moved update controls to the navigation dock for a cleaner workspace.",
+      "System Stability: Optimized remote configuration fetching for faster app launches."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
   }
