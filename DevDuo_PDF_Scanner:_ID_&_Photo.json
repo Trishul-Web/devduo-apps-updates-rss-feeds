@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1.1.0",
+    "force_update": false,
+    "title": "✨ The Update Hub is Here! 🚀",
+    "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest scanning tools and features. 🌿",
+    "points": [
+      "🔔 New In-App Updater: Get instantly notified about fresh features directly from your home screen.",
+      "📖 Interactive Changelogs: Discover exactly what's new the moment you update your app.",
+      "⚡ Performance Boost: Under-the-hood tweaks for an even smoother scanning experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscanner"
+  },
+  {
+    "id": "1.0.1",
+    "force_update": true,
+    "title": "Critical Bug Fixes",
+    "message": "Fixed an issue with the camera on certain devices.",
+    "points": [],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscanner"
+  }
+]
