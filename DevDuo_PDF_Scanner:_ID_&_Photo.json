@@ -1,5 +1,21 @@
 [
   {
+    "id": "28.51.0",
+    "force_update": false,
+    "title": "Critical Bug Fixes",
+    "message": "Fixed an issue with the camera on certain devices.",
+    "points": [],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscanner"
+  },
+  {
+    "id": "18.51.0",
+    "force_update": true,
+    "title": "Critical Bug Fixes",
+    "message": "Fixed an issue with the camera on certain devices.",
+    "points": [],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscanner"
+  },
+  {
     "id": "8.51.0",
     "force_update": false,
     "title": "Critical Bug Fixes",
