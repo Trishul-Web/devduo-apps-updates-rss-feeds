@@ -1,38 +1,15 @@
 [
-  {
-    "id": "28.51.0",
+ {
+    "id": "8.5.1",
     "force_update": false,
-    "title": "Critical Bug Fixes",
-    "message": "Fixed an issue with the camera on certain devices.",
-    "points": [],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscanner"
-  },
-  {
-    "id": "18.51.0",
-    "force_update": true,
-    "title": "Critical Bug Fixes",
-    "message": "Fixed an issue with the camera on certain devices.",
-    "points": [],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscanner"
-  },
-  {
-    "id": "8.51.0",
-    "force_update": false,
-    "title": "Critical Bug Fixes",
-    "message": "Fixed an issue with the camera on certain devices.",
-    "points": [],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscanner"
-  },
-  {
-    "id": "1.1.0",
-    "force_update": false,
-    "title": "✨ The Update Hub is Here! 🚀",
+    "title": "✨ The Smart Update Hub! 🚀",
     "message": "We've crafted a beautiful new way to keep you perfectly in sync with our latest scanning tools and features. 🌿",
     "points": [
-      "🔔 New In-App Updater: Get instantly notified about fresh features directly from your home screen.",
+      "🔔 Smart In-App Updater: Get instantly notified about fresh features directly from your home screen.",
       "📖 Interactive Changelogs: Discover exactly what's new the moment you update your app.",
-      "⚡ Performance Boost: Under-the-hood tweaks for an even smoother scanning experience."
+      "🔄 Manual Check: Check your update status anytime with the new button next to your streak counter.",
+      "⚡ Performance Boost: UI polish and under-the-hood tweaks for an even smoother experience."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscanner"
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
   }
 ]
