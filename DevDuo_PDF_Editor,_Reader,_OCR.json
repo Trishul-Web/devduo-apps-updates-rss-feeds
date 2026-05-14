@@ -1,4 +1,46 @@
 [
+   {
+    "id": "11.1.0",
+    "force_update": false,
+    "title": "⚡ The Power Tools Update!",
+    "message": "We just supercharged your PDF experience! You now have a complete suite of professional PDF utilities right in your pocket—100% free and offline.",
+    "points": [
+      "🗜️ Smart Compress: Shrink PDF file sizes accurately without losing quality.",
+      "✂️ Split & Extract: Pull specific pages out of massive documents instantly.",
+      "🖼️ PDF to Images & Images to PDF: Convert between photos and documents seamlessly.",
+      "📑 Advanced Merge: Visually reorder and combine multiple PDFs using our new 3D grid.",
+      "🔒 Secure Offline Processing: All tools run directly on your device. Zero cloud uploads, total privacy."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+   {
+    "id": "11.1.0",
+    "force_update": false,
+    "title": "⚡ The Power Tools Update!",
+    "message": "We just supercharged your PDF experience! You now have a complete suite of professional PDF utilities right in your pocket—100% free and offline.",
+    "points": [
+      "🗜️ Smart Compress: Shrink PDF file sizes accurately without losing quality.",
+      "✂️ Split & Extract: Pull specific pages out of massive documents instantly.",
+      "🖼️ PDF to Images & Images to PDF: Convert between photos and documents seamlessly.",
+      "📑 Advanced Merge: Visually reorder and combine multiple PDFs using our new 3D grid.",
+      "🔒 Secure Offline Processing: All tools run directly on your device. Zero cloud uploads, total privacy."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+   {
+    "id": "6.21.0",
+    "force_update": true,
+    "title": "⚡ The Power Tools Update!",
+    "message": "We just supercharged your PDF experience! You now have a complete suite of professional PDF utilities right in your pocket—100% free and offline.",
+    "points": [
+      "🗜️ Smart Compress: Shrink PDF file sizes accurately without losing quality.",
+      "✂️ Split & Extract: Pull specific pages out of massive documents instantly.",
+      "🖼️ PDF to Images & Images to PDF: Convert between photos and documents seamlessly.",
+      "📑 Advanced Merge: Visually reorder and combine multiple PDFs using our new 3D grid.",
+      "🔒 Secure Offline Processing: All tools run directly on your device. Zero cloud uploads, total privacy."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
   {
     "id": "1.1.0",
     "force_update": false,
