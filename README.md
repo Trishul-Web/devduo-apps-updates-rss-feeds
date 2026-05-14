@@ -26,6 +26,7 @@
 | <img src="https://play-lh.googleusercontent.com/zc4D6jz4eLdJVOhAA_9yNmFRVQn3ts_yCsAM0JpFCI-Rsu2Ia0d2_w6ZmLI3f12_gIYJJ-P3p0Onz-j7mFBfi0Q=s512-rw" width="100" height="100"><br>**3D ID Wallet & Card Scanner** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/3D_ID_Wallet_%26_Card_Scanner.json) |
 | <img src="https://play-lh.googleusercontent.com/3z-nA1Y_Hy_f2nqC0zx0vkDDgN6PjgDmAEQXleZbruwONRwiaNzA4zFIAzl7hWxpfZ4v-CfREMJcn9HNI2gd-w=s512-rw" width="100" height="100"><br>**All in One Habit Tracker Daily** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/All_in_One_Habit_Tracker_Daily.json) |
 | <img src="https://play-lh.googleusercontent.com/_x7vdqbf6QZ6KWjVmzjE9JPZ9RnrdQn1y6a-Pen9oS6y9QwQq6_MZmua8cMJ78l9LV3Dd2aRbFELmRR9l8tht4E=s512-rw" width="100" height="100"><br>**DevDuo PDF Editor, Reader, OCR** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/DevDuo_PDF_Editor%2C_Reader%2C_OCR.json) |
+| <img src="https://play-lh.googleusercontent.com/o262zVMenKFEQ9zyRpg_rO72VpStzfhHBmKpn1msf7wgANftLYRK0WgjUiHBzhvTO0OrlI76zYDZt6eOe3cA=s512-rw" width="100" height="100"><br>**DevDuo PDF Scanner: ID & Photo** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/DevDuo_PDF_Scanner%3A_ID_%26_Photo.json) |
 
 ---
 
