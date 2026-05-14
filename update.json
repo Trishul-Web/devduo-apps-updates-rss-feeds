@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.3.10",
+    "force_update": false,
+    "title": "Share Beautiful Code Snippets! (v10.3.10) 📸",
+    "message": "The highly requested Code Beautifier is here! You can now turn your code into stunning, shareable images directly from your editor. Update now to access 15+ premium themes and custom export tools.",
+    "points": [
+      "📸 Code to Image: Export your scripts as beautiful, high-resolution images ready for social media.",
+      "🎨 15+ Stunning Themes: Show off your code with macOS, Cyberpunk, Synthwave, Hacker Terminal, and Dracula styles.",
+      "⚙️ Total Control: Adjust font sizes, custom widths, word wrapping, and transparent backgrounds.",
+      "🛡️ Stability Enhancements: Improved compiler memory handling and faster ad load times for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.9",
     "force_update": true,
     "title": "Critical Startup & AI Crash Fixes (v10.3.9) 🛠️",
