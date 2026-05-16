@@ -1,5 +1,19 @@
 [
   {
+    "id": "4.0.0",
+    "title": "🧠 NEURAL CORE AI HAS AWAKENED!",
+    "message": "The Forge has evolved. Introducing Neural Core AI—your private, on-device tactical intelligence. Forge your path with the power of localized AI and master your discipline like never before. ⚒️🔥",
+    "points": [
+      "🤖 On-Device AI: Chat with your personal discipline mentor—100% private and offline.",
+      "⚡ AI Task Generation: Create Habits, Trackers, and DOT protocols entirely through chat.",
+      "🎯 Tactical Commands: Instantly set Timeline Targets and Focus Timers using AI insights.",
+      "🛡️ Privacy Absolute: Your AI conversations are processed locally and never touch the cloud.",
+      "🚀 Engine Overhaul: Massive performance boosts and refined UI for the v4.0.0 era."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": true
+  },
+  {
     "id": "3.7.1",
     "title": "⚒️ THE FORGE POSTERS ARE HERE!",
     "message": "Your discipline deserves more than just a log—it deserves a spotlight. 🔥 Turn your daily grind into premium, shareable art and showcase your journey to the world. 🖼️💪",
