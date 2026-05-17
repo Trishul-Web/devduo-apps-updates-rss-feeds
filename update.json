@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.3.11",
+    "force_update": false,
+    "title": "Lightning Fast Performance & Stability! (v10.3.11) 🚀",
+    "message": "We've completely overhauled our engine! The app now launches instantly and handles opening massive code files without freezing. Enjoy a much smoother, crash-free coding experience.",
+    "points": [
+      "⚡ Instant Launch: Eliminated startup freezing. Background systems are now delayed to ensure the app opens instantly so you can get right to coding.",
+      "📁 Massive File Support: Fixed screen freezing (ANR) when opening huge database dumps or minified files. Large files now load effortlessly!",
+      "🛡️ Enhanced Security & Stability: Improved the core logic of our free limits, ad loading, and premium systems to ensure fair usage and zero crashes.",
+      "⚙️ Core Optimizations: Background API compilers and UI rendering threads have been highly optimized to prevent lag and save battery."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.10",
     "force_update": false,
     "title": "Share Beautiful Code Snippets! (v10.3.10) 📸",
