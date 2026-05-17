@@ -1,5 +1,18 @@
 [
   {
+    "id": "2.6.0",
+    "force_update": false,
+    "title": "The Ultimate Reading Experience! 📖⚡",
+    "message": "We've completely upgraded how you read articles. Say goodbye to web clutter and hello to lightning-fast, distraction-free news.",
+    "points": [
+      "👓 Clean Reader Mode: Instantly switch between the live website and a beautiful, ad-free text view with a single tap.",
+      "⚡ Quick Read (Focus Mode): Read 2x faster! Turn this on to bold the start of every word, boosting your focus and reading speed.",
+      "📊 Reading Progress Bar: A sleek new indicator lets you know exactly how far you are in the story.",
+      "🛠️ Smoother Transitions: Faster article loading and seamless shifting between web and reader views."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.5.1",
     "force_update": false,
     "title": "Welcome to the Update Hub! ✨🚀",
