@@ -1,5 +1,18 @@
 [
   {
+    "id": "8.5.0",
+    "force_update": false,
+    "title": "🛑 Break Bad Habits with Mindful Intercepts! 🧠",
+    "message": "Do you open distracting apps purely out of muscle memory? We've added a powerful new tool to act as your personal focus coach and break the dopamine loop. ✨",
+    "points": [
+      "🧠 Mindful Intercepts: Add healthy friction to distracting apps to force a conscious pause before opening them.",
+      "🚧 4 Custom Friction Modes: Choose between a calming 5-Second Delay, a Random PIN, Conscious Phrase typing, or a Tap Challenge.",
+      "🛠️ Standalone Toggles: Easily configure friction for any specific app instantly from the new Mindful Intercepts settings menu.",
+      "⚡ UX Improvements: Smoother keyboard handling during searches and highly optimized battery usage under the hood."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.4.2",
     "force_update": false,
     "title": "✨ The Update Hub is Here! 🚀",
