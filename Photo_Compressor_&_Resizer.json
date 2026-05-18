@@ -1,5 +1,18 @@
 [ 
  {
+    "id": "1.5.0",
+    "force_update": false,
+    "title": "📄 PDF Exports & Smarter Sweeping! 🧹",
+    "message": "We've supercharged your workflow with brand new export options and advanced storage cleaning tools. ⚡",
+    "points": [
+      "📄 Instant PDF Export: Merge your compressed images directly into a single, shareable PDF document.",
+      "🎛️ Custom Sweeper Size: Set your own exact MB limit in the Storage Sweeper to find exactly what you want.",
+      "🔄 Quick Rescan: Easily restart your gallery scans with our new quick-action button in the Sweeper.",
+      "🛠️ Under-the-hood performance improvements for faster batch processing."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+ {
     "id": "1.4.1",
     "force_update": false,
     "title": "✨ The Update Hub is Here! 🚀",
