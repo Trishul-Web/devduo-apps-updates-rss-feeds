@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.3.0",
+    "force_update": false,
+    "title": "🔒 Password Protected QRs!",
+    "message": "Take control of your data with our biggest security update yet. Now you can lock your QR codes behind a secure password.",
+    "points": [
+      "🔐 Secret QRs: Password-protect URLs, Wi-Fi, Contacts, and more!",
+      "🖼️ Fresh Branding: Added beautiful new banner styles to make your QRs pop.",
+      "⚡ Faster History: We've optimized the history tab so your past creations load instantly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+  },
+  {
     "id": "1.2.1",
     "force_update": false,
     "title": "🔔 The Update Hub is Here!",
