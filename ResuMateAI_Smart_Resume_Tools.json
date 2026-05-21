@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.13.0",
+    "force_update": false,
+    "title": "🧠 AI Evolution: On-Device & Custom Cloud Access! 🚀",
+    "message": "We're taking your career growth to the next level by bringing advanced AI power right into your pocket, whether you're online or offline! 🌿",
+    "points": [
+      "🧠 On-Device AI Models: Run 'Resumate Standard' or 'Resumate High Power' models locally on your device for private, offline AI assistance.",
+      "☁️ Custom Cloud API: Added full support for personal Gemini API keys—use your own keys for unlimited, personalized cloud AI power.",
+      "⚙️ Redesigned AI Settings: A dedicated, intuitive tab to manage your models, tokens, and API keys effortlessly.",
+      "⚡ Lightning-Fast Performance: Optimized AI engine handling for smoother, faster resume auditing and career tool usage."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.12.1",
     "force_update": false,
     "title": "✨ The Update Hub is Here! 🚀",
