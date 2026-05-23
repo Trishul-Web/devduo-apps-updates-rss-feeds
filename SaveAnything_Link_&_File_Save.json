@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.4.0",
+    "force_update": false,
+    "title": "🎲 Welcome to Vault Roulette! ✨",
+    "message": "Stop hoarding and start exploring! We've added a stunning new way to rediscover the links and files you've saved.",
+    "points": [
+      "📱 The Reel Experience: Swipe vertically through your forgotten saves in an immersive, full-screen reel.",
+      "🎨 Rich Color Previews: Experience beautiful, dynamic background gradients that adapt to your saved images.",
+      "⚡ Clean Up & Consume: Instantly open forgotten links or trash them with one tap while scrolling.",
+      "💎 UI Polish: Smoother animations and enhanced premium visual touches across the app."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.3.1",
     "force_update": false,
     "title": "✨ The Update Hub is Here! 🚀",
