@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.3.13",
+    "force_update": false,
+    "title": "Better Support & Bug Reporting! (v10.3.12) 🛠️",
+    "message": "We've upgraded our support tools to help you faster! You can now easily send us screenshots or report AI download errors directly to our development team.",
+    "points": [
+      "🐛 Smart Bug Reports: If an offline AI model fails to download, you can now report it instantly. The app automatically attaches the exact error log so we can fix it fast!",
+      "📎 Media Attachments: Have a screenshot or screen recording of an issue? Our new feedback form includes a quick button to email us your media directly.",
+      "✨ UI Polish: Enhanced the feedback and support sheets with clean, glass-morphic design improvements.",
+      "⚙️ Under the Hood: Minor bug fixes and stability improvements to keep your coding environment running smoothly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.11",
     "force_update": false,
     "title": "Lightning Fast Performance & Stability! (v10.3.11) 🚀",
