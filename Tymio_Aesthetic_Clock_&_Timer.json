@@ -1,5 +1,18 @@
 [
   {
+    "id": "3.4.2",
+    "force_update": false,
+    "title": "✨ The Chrono Precision Update! ⏱️",
+    "message": "We've fine-tuned our engine tracking and tailored the interfaces to ensure every single tick of your clock stays buttery-smooth.",
+    "points": [
+      "⏱️ Zero-Guard Counter Fix: Resolved a bug where the countdown timer could become unresponsive or trigger incorrectly when resting at absolute zero.",
+      "📅 Immersive Event Tracker: Smart-hiding controls now automatically clear away play/pause configurations when tracking non-stoppable future date events.",
+      "🎨 Compact Input Formats: Re-engineered layout padding inside the custom duration dials to eliminate text clipping across varied device displays.",
+      "🧼 Clean Capture Mode: Enhanced screen-sharing workflows to drop system elements cleanly so you can display your personalized focus dashboard."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.4.1",
     "force_update": false,
     "title": "✨ The Zenith Update Hub! 🚀",
