@@ -1,5 +1,18 @@
 [
   {
+    "id": "3.4.3",
+    "force_update": false,
+    "title": "⚡ The Seamless Flow Update! 🚀",
+    "message": "We've rolled out essential under-the-hood polish and initialization safeguards to keep your app loading securely and swiftly across all devices.",
+    "points": [
+      "⚡ Startup Guard: Resolved a rare background synchronization bug to ensure your focus engines load smoothly from the absolute first launch.",
+      "🔧 Platform Alignment: Enhanced core plugin channel routing rules to fix unhandled native exceptions on specific Android versions.",
+      "📱 Memory Optimization: Cleaned up background lifecycle threads for reduced system footprints and maximum idle battery savings.",
+      "🧹 Framework Stability: General code refactoring to protect live counter views from unexpected termination behaviors."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.4.2",
     "force_update": false,
     "title": "✨ The Chrono Precision Update! ⏱️",
