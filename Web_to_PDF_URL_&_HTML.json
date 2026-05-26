@@ -1,5 +1,19 @@
 [
   {
+    "id": "2.2.0",
+    "force_update": false,
+    "title": "⚡ Multi-URL Workspace is Live! 🚀",
+    "message": "We have engineered a powerful new batch environment! You can now compile, arrange, and stitch multiple websites simultaneously into a flawless continuous master document with full premium plan control.",
+    "points": [
+      "🔗 Multi-URL Workspace Builder: Group multiple websites or custom raw HTML codes side-by-side into a unified project list. (Free Tier: Max 3 items | PRO Tier: UNLIMITED sites!)",
+      "📜 Continuous Canvas Rendering: Combines all configured workspace snapshots sequentially into a single continuous scrolling output, completely eliminating broken page margins and padding gaps.",
+      "🤚 Drag-and-Drop Sequence Arranger: Seamlessly reorder the conversion hierarchy of your web links on the fly using responsive row dragging gestures.",
+      "🗂️ Smart Vault Batch Storage: Saves your entire active workspace list as a structured entry in your history database so you can re-open the entire batch with one tap.",
+      "👑 Premium Freedom Unlock: Upgrading to PRO permanently removes the 3-site workspace restriction, unlocks unlimited daily workspace operations, and wipes out all processing interstitial ads entirely."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.1.1",
     "force_update": false,
     "title": "✨ The Update Hub is Here! 🚀",
