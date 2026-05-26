@@ -1,4 +1,17 @@
 [
+    {
+    "id": "6.0.0",
+    "force_update": false,
+    "title": "🧠 SkillSprint AI Engine Unlocked! 🚀",
+    "message": "We have forged a revolutionary update that puts local Artificial Intelligence directly into your hands to create completely customized learning paths.",
+    "points": [
+      "🤖 Local SkillSprint AI: Choose your topic and difficulty to forge completely dynamic course blueprints right on your device.",
+      "🎮 Automated Gameplay: Your custom blueprints instantly transform into playable masterclass theory cards and gamified quizzes.",
+      "⚙️ AI RAM Optimizer: Memory structures auto-offload immediately following stream generations to keep lightweight phone specs running flawlessly.",
+      "💎 Generation Locks: Free tier updates support 1 active forged module blueprint at a time; upgrade to Premium for unlimited generation capability."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
   {
     "id": "5.1.1",
     "force_update": false,
