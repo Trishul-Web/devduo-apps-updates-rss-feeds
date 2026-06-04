@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.4.0",
+    "force_update": false,
+    "title": "Native GitHub Workspaces & Multi-Account Sync! (v10.4.0) 🌐",
+    "message": "Bring your cloud repositories straight to your pocket! You can now authenticate your GitHub PAT, view your remote workspaces, cleanly separate multiple profile modules, and clear offline cache pools.",
+    "points": [
+      "🌐 Cloud Code Sync: Securely connect your GitHub Personal Access Tokens to search, browse, and switch repositories natively inside the app pipeline.",
+      "🏷️ Multi-Workspace Profiles: Create distinctive workspace tags to organize different accounts or scopes without data collisions or crossover leaks.",
+      "🧹 Cache & Space Control: Safely mount remote trees or clear individual repository offline storage sandboxes in a tap to keep local spaces organized.",
+      "🛡️ Ironclad Reliability: Upgraded internal structural verification checks to handle complex background integrations smoothly with zero app lag."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.3.13",
     "force_update": false,
     "title": "Better Support & Bug Reporting! (v10.3.12) 🛠️",
