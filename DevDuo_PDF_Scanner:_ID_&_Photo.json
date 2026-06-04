@@ -1,5 +1,18 @@
 [
  {
+    "id": "8.6.0",
+    "force_update": false,
+    "title": "✨ The Continuous Layout Update! 📜🚀",
+    "message": "We have engineered an incredibly elegant, new layout option that stitches your scanned pages vertically into a beautiful continuous single-sheet document layout! 🌿",
+    "points": [
+      "📜 One-Page Document Mode: Combine all scanned pages vertically into a single continuous vertical document layout option automatically.",
+      "📐 Unified Aspect Alignment: Every page image scales to match reference dimensions cleanly to enforce perfect, flat uniform borders side-by-side.",
+      "💾 Memory Optimization Protection: Smart memory safety limits protect compilation workflows from heavy background lag or runtime device crashes.",
+      "🔒 Enhanced Connection Shield: Updated error handling keeps editing platforms stable with alert prompts for uninterrupted premium safety loops."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+ {
     "id": "8.5.1",
     "force_update": false,
     "title": "✨ The Smart Update Hub! 🚀",
