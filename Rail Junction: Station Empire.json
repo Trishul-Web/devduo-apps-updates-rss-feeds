@@ -1,7 +1,7 @@
 [
     {
     "id": "2.1.0",
-    "force_update": false,
+    "force_update": true,
     "title": "✨ High-Speed Rails & Glassmorphism Dashboards! 🚀",
     "message": "Welcome to the ultimate station overhaul. We have refreshed the command decks and optimized route tracking layouts.",
     "points": [
