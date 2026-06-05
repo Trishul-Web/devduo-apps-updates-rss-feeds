@@ -1,6 +1,6 @@
 [
   {
-    "id": "10.1.0",
+    "id": "1.0.0",
     "force_update": false,
     "title": "✨ High-Speed Rails & Glassmorphism Dashboards! 🚀",
     "message": "Welcome to the ultimate station overhaul. We have refreshed the command decks and optimized route tracking layouts.",
@@ -12,8 +12,8 @@
     "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
   },
   {
-    "id": "10.0.1",
-    "force_update": true,
+    "id": "0.0.1",
+    "force_update": false,
     "title": "🔧 Critical Core Stabilization Engine",
     "message": "This critical maintenance patches necessary structural databases for yard management operations.",
     "points": [
