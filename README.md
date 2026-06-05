@@ -28,6 +28,7 @@
 | <img src="https://play-lh.googleusercontent.com/_x7vdqbf6QZ6KWjVmzjE9JPZ9RnrdQn1y6a-Pen9oS6y9QwQq6_MZmua8cMJ78l9LV3Dd2aRbFELmRR9l8tht4E=s512-rw" width="100" height="100"><br>**DevDuo PDF Editor, Reader, OCR** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/DevDuo_PDF_Editor%2C_Reader%2C_OCR.json) |
 | <img src="https://play-lh.googleusercontent.com/o262zVMenKFEQ9zyRpg_rO72VpStzfhHBmKpn1msf7wgANftLYRK0WgjUiHBzhvTO0OrlI76zYDZt6eOe3cA=s512-rw" width="100" height="100"><br>**DevDuo PDF Scanner: ID & Photo** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/DevDuo_PDF_Scanner%3A_ID_%26_Photo.json) |
 | <img src="https://play-lh.googleusercontent.com/rQSzSGKDpG3EZLuA0oLN8JruZAgA3rraJu2PHV4OLU5qBRhrXOnITYi69wTQGsqnskjFLRGG8CXVhlewiet_jq4=s512-rw" width="100" height="100"><br>**10 Min Stretch: Posture Fix** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/10%20Min%20Stretch%3A%20Posture%20Fix.json) |
+| <img src="https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=s512-rw" width="100" height="100"><br>**Rail Junction: Station Empire** | Android | [📡 Access Feed](https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Rail%20Junction%3A%20Station%20Empire.json) |
 
 ---
 
