@@ -1,5 +1,17 @@
 [
   {
+  "id": "1.2.0",
+  "force_update": false,
+  "title": "🔊 Sound Correction & Performance Engine Optimization! ⚡",
+  "message": "We have cleared the junction lines and tuned the command decks! This update stabilizes the audio pipeline focus and optimizes crowd rendering layers for an ultra-smooth station operations cycle.",
+  "points": [
+    "🔊 Balanced Audio Mix: Fixed sound channel drops by mixing background soundtracks cleanly alongside upgrade actions.",
+    "⚡ GPU Crowd Isolation: Optimized busy plaza platforms with layout repaint boundaries to eliminate frame lag.",
+    "🔒 Secure Time Frameworks: Implemented an unalterable local quota countdown system to keep ad-free pass boundaries safe."
+  ],
+  "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.1.0",
     "force_update": false,
     "title": "✨ Live Update Hub Connected! 🚀",
