@@ -1,13 +1,13 @@
 [
   {
-    "id": "1.0.1",
+    "id": "1.1.0",
     "force_update": false,
-    "title": "✨ High-Speed Rails & Glassmorphism Dashboards! 🚀",
-    "message": "Welcome to the ultimate station overhaul. We have refreshed the command decks and optimized route tracking layouts.",
+    "title": "✨ Live Update Hub Connected! 🚀",
+    "message": "We have added a brand new system notice window to keep you perfectly in sync with our latest station features and improvements.",
     "points": [
-      "🚄 Fleet Expansion: Introducing sleek modern high-speed compositions to increase track throughput.",
-      "💎 Polished Aesthetics: Applied signature glassmorphism elements across administrative panels.",
-      "⚡ Signal Automation: Under-the-hood synchronization adjustments for heavy yard traffic."
+      "📡 New In-App Notifications: Get notified immediately about new app versions right from your main station screen.",
+      "📖 Easy-to-Read Changelogs: Discover exactly what is new in the latest patch list whenever an update drops.",
+      "🔄 Manual Update Check: Tap the new network button anytime to instantly check if your app is on the current version."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
   }
