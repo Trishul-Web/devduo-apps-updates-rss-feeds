@@ -1,5 +1,18 @@
 [
   {
+    "id": "10.4.1",
+    "force_update": false,
+    "title": "GitHub Profile Support & Resilient AI Downloads! (v10.4.1) 🚀",
+    "message": "Manage cloud repos and download offline intelligence models with absolute stability! This version introduces complete GitHub workspace modules and an upgraded, drop-proof local AI extraction pipeline.",
+    "points": [
+      "🌐 Native GitHub Integration: Authenticate your GitHub personal tokens to search, browse, and switch repositories cleanly. Free users can link 1 profile module, while Elite users enjoy unlimited multi-account syncing.",
+      "🧠 Resilient AI Downloads: Upgraded the local model download architecture with strict drop-guards. Downloads now gracefully catch network socket dropping, keeping your screen awake to prevent silent background resets.",
+      "📡 Signal Stability Desk: Added a proactive network diagnostic panel within the AI sheet, offering hotspot setup tips and an instant error-reporting diagnostic link to our dev team if a connection is lost.",
+      "⚡ Fixed Stream Exceptions: Eliminated background platform stream de-activation crashes when clearing profile memory banks out of local sandbox directories."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.4.0",
     "force_update": false,
     "title": "Native GitHub Workspaces & Multi-Account Sync! (v10.4.0) 🌐",
