@@ -1,4 +1,17 @@
 [ 
+  {
+  "id": "1.6.0",
+  "force_update": false,
+  "title": "📐 Target Resolution & Individual Studio Mode! 🎨",
+  "message": "Desktop-class image resolution downscaling and manual item-by-item batch editing are finally here! ⚡",
+  "points": [
+    "📐 Target Resolution: Manually downscale image canvas dimensions (75%, 50%, 24%) to strip megapixels away instantly.",
+    "🎨 Individual Studio Mode: Turn off global rules in batch mode to adjust custom presets, sizes, and formats on each photo independently.",
+    "⚡ Dynamic Sizing Refreshes: Summary card metrics and new sizing rows now update instantly upon altering resolution dropdown configurations.",
+    "🛠️ Under-the-hood optimization improvements for faster, safer multi-threaded batch operations."
+  ],
+  "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+ },
  {
     "id": "1.5.0",
     "force_update": false,
