@@ -1,5 +1,18 @@
 [
   {
+    "id": "8.6.0",
+    "force_update": false,
+    "title": "🎨 Personalize Your Productivity Canvas! 🕒",
+    "message": "Your distraction-free home screen just got a massive aesthetic upgrade! Express your personal style while maintaining maximum deep focus with all-new clock systems and background engines. ✨",
+    "points": [
+      "🕒 10 Digital Clock Layouts: Choose from bold typography, retro terminal fonts, minimal inline indicators, or glowing neon cyber layouts.",
+      "🖼️ Custom Background Sandbox: Instantly load rich solid color blocks, premium pre-built studio gradients, or your own offline device gallery photos securely.",
+      "🎚️ Darkness Tint Slider: Dynamic real-time backdrop opacity controls let you adjust overlay dimming so your wallpaper never ruins text scannability.",
+      "🧼 Dashboard Interface Polish: Cleaner visual indicators, restored menu placeholders, and zero-latency state handling under the hood."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.5.0",
     "force_update": false,
     "title": "🛑 Break Bad Habits with Mindful Intercepts! 🧠",
