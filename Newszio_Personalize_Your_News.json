@@ -1,5 +1,17 @@
 [
   {
+    "id": "2.7.0",
+    "force_update": false,
+    "title": "Instant Startup & Secure Mixes! ⚡🎬",
+    "message": "We've listened to your feedback! This update introduces a highly requested option to completely skip the opening splash video, along with vital security and limit enhancements across your custom feeds.",
+    "points": [
+      "🎬 Toggle Splash Video: Take control of your startup experience! Go to the Library tab to completely turn off the opening animation and jump straight to your news feed instantly.",
+      "🔒 Secure Quick Mix Builder: Upgraded custom mix profiles with premium gating checks to protect your feed data integrity.",
+      "🛠️ Layout & Syntax Polish: Resolved layout glitches across tab configurations and fixed syntax constraints to keep your app running smoothly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.6.0",
     "force_update": false,
     "title": "The Ultimate Reading Experience! 📖⚡",
