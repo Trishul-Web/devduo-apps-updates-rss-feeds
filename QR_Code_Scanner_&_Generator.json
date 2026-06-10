@@ -1,5 +1,18 @@
 [
   {
+  "id": "1.4.0",
+  "force_update": false,
+  "title": "🎛️ Layout Fine-Tuning Studio!",
+  "message": "Ultimate design freedom is here. We've added precise spacing and padding sliders so you can craft perfectly balanced, professional QR code artwork.",
+  "points": [
+    "🎛️ Fine-Tuning Studio: A new expandable workbench to adjust your layouts in real-time.",
+    "📐 Pixel-Perfect Spacing: Complete slider control over Frame Padding, Banner Gaps, and Global Card Margins.",
+    "🖼️ Zero Overlaps: Keep your branding banners cleanly separated from your QR data matrix perfectly.",
+    "⚙️ Migration Safety: Your custom spacing settings are securely saved to your history history log database seamlessly."
+  ],
+  "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+  },
+  {
     "id": "1.3.0",
     "force_update": false,
     "title": "🔒 Password Protected QRs!",
