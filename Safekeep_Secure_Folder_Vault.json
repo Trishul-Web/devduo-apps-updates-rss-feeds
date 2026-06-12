@@ -1,5 +1,17 @@
 [
      {
+        "id": "7.6.1",
+        "force_update": false,
+        "title": "🛡️ Workspace Cleanup in Version 7.6.1!",
+        "message": "We have cleared out visual glitches! This micro-update addresses home screen launcher duplicates and solidifies your core entry points.",
+        "points": [
+          "🧹 Launcher Icon Fix: Resolved a duplicate component registry issue that caused multiple icons to show up on your home screen layout.",
+          "🔐 Direct Entry Optimization: Streamlined initialization pipelines across layout masks to ensure a swift, singular, and secure path into your vault.",
+          "🛠️ Subtitle Switching Stability: Hardened background thread performance around active navigation loops to eliminate subtle system lifecycle crashes."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider"
+     },
+     {
        "id": "7.6.0",
        "force_update": false,
        "title": "⚡ Launch Faster with Version 7.6.0!",
