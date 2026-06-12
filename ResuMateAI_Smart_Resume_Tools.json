@@ -1,5 +1,18 @@
 [
   {
+  "id": "1.14.0",
+  "force_update": false,
+  "title": "⚡ Speed Booster: Custom Startup Control & Smart Quotas! 🚀",
+  "message": "We've optimized your workspace architecture to give you absolute control over your app startup speed and daily tool workflows! 🌿",
+  "points": [
+    "⚡ Instant Launch Mode: Added a 'Show Splash Screen' toggle in Themes. Switch it off to bypass intro animations and dive straight into your documents!",
+    "🎁 Daily Ad-Free Quota: Enjoy 3 completely ad-free career tool or resume actions every single calendar day—resetting automatically at midnight.",
+    "🧩 Smart Ad-Network Fallbacks: Upgraded error handling layer to gracefully handle network dropouts and ad inventory constraints with zero endless loading hangs.",
+    "📱 Responsive Layout Fixes: Resolved RenderFlex horizontal overflow bugs on compact layout panels to ensure pixel-perfect text reading."
+  ],
+  "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.13.0",
     "force_update": false,
     "title": "🧠 AI Evolution: On-Device & Custom Cloud Access! 🚀",
