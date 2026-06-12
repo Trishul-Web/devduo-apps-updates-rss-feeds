@@ -1,5 +1,17 @@
 [
      {
+       "id": "7.6.0",
+       "force_update": false,
+       "title": "⚡ Launch Faster with Version 7.6.0!",
+       "message": "Control your app startup experience with our new customization features. We've added toggles for faster loading and optimized your security loops!",
+       "points": [
+         "🚀 Launch Animation Toggle: Go to your Profile Settings to instantly turn the launch video on or off for a faster, snappier startup.",
+         "📱 Enhanced Layout Transitions: Optimized card grids and staggered entrance layout views to eliminate screen overflow clipping.",
+         "⚙️ Migration Polish: Stabilized background serialization mechanics to guarantee a safe update path for our existing user base."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider"
+     },
+     {
       "id": "7.5.0",
       "force_update": false,
       "title": "🎭 Trick Snoops with the New Update!",
