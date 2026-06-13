@@ -1,5 +1,16 @@
 [
   {
+    "id": "3.5.0",
+    "force_update": false,
+    "title": "⚡ The Fast-Boot & Ad Control Update! 🚀",
+    "message": "We've added a brand-new fast boot option, upgraded our premium click limits, and introduced enhanced network security locks for a cleaner experience.",
+    "points": [
+      "⚡ Fast-Boot Bypass: Added a Splash Screen Toggle button to the top action bar so you can disable the video intro and skip straight to your clocks on startup.",
+      "🔁 Smart Feedback Loop: Refactored the rating prompt logic into a rolling 3-day window to cleanly space out review reminders based on your active usage timeline."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.4.3",
     "force_update": false,
     "title": "⚡ The Seamless Flow Update! 🚀",
