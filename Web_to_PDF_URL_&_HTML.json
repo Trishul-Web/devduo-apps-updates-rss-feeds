@@ -1,5 +1,19 @@
 [
   {
+    "id": "2.3.0",
+    "force_update": false,
+    "title": "🛠️ Live HTML Inspector & Sandbox Playground! 🚀",
+    "message": "We have engineered an advanced live developer toolkit! You can now isolate, inspect, alter, and copy visual webpage component source codes and styles directly inside the live emulated rendering frame.",
+    "points": [
+      "✨ Live Inspector Selection: Tap any element inside the interactive preview laptop canvas to automatically catch its node tag name, target string segments, and layout styles.",
+      "⌨️ Scrollable Sandbox Playground: Easily change class code strings or override properties inside a dedicated code input window that handles sizing effortlessly when the system keyboard opens up.",
+      "🎨 Real-Time Layout Overrides: Hit apply on your custom payload edits to watch the live layout view switch parameters and paint your markup changes immediately.",
+      "📋 Full Website Source Exporter: Stream complete full-page markup onto safe cache pathways to duplicate and extract entire HTML documents onto your clipboard with zero thread lag.",
+      "👑 Premium Dashboard Visibility: Premium status indicators and Lifetime PRO flash offers are now mirrored dynamically inside your Multi-Page convert screen."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.2.0",
     "force_update": false,
     "title": "⚡ Multi-URL Workspace is Live! 🚀",
