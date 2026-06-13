@@ -1,5 +1,16 @@
 [
-    {
+  {
+    "id": "6.1.0",
+    "force_update": false,
+    "title": "⚡ Instant Launch & Navigation Patch! 🚀",
+    "message": "We have pushed a snappy optimization upgrade to give you finer control over your loading sequence and iron out onboarding navigation flows.",
+    "points": [
+      "🎬 Splash Toggle Switch: You can now toggle the Splash Intro Video on or off directly inside your Profile settings for a lightning-fast, zero-delay application cold boot.",
+      "🗺️ Navigation Bar Fix: Corrected a critical onboarding glitch that caused the floating bottom navigation layout dock to stay hidden for brand-new downloading users."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.0.0",
     "force_update": false,
     "title": "🧠 SkillSprint AI Engine Unlocked! 🚀",
