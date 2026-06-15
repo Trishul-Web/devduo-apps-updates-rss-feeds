@@ -1,5 +1,19 @@
 [
   {
+    "id": "11.0.0",
+    "force_update": false,
+    "title": "A Reimagined Workspace: Custom Overlays & Pro Tools! (v11.0.0) 🎨",
+    "message": "We have completely remade the DevDuo customization engine. From custom image backdrops to embedded web debugging and smart tag matching, v11.0.0 is the most personal IDE experience yet.",
+    "points": [
+      "🖼️ Custom Background Overlays: Set any image from your gallery as your editor backdrop with adjustable opacity and darkness levels for total immersion.",
+      "🌈 Visual Color Spectrum Picker: Ditch the hex codes—use our new interactive RGB slider matrix to build your exact background color signature.",
+      "🌐 Pro Web Debugging: Integrated the powerful Eruda Console into Web Preview, allowing real-time inspection and logging for your HTML/JS projects.",
+      "🚀 Intelligent Productivity: Added HTML Auto-Closing Tag logic, a Go-To-Line navigation panel, and a distraction-free Full Screen toggle button.",
+      "☀️ Refined Aesthetics: Brand new light-mode support across all syntax highlighters and app themes for a clean, professional coding experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "10.4.1",
     "force_update": false,
     "title": "GitHub Profile Support & Resilient AI Downloads! (v10.4.1) 🚀",
