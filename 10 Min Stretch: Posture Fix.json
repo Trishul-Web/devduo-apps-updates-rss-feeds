@@ -1,5 +1,19 @@
 [
   {
+  "id": "1.7.0",
+  "force_update": false,
+  "title": "⏱️ Single Exercise 'Quick Launch' Explorer is Live! 🚀",
+  "message": "Bypass the routines and stretch your way! We've introduced a lightning-fast standalone exercise finder featuring category filters and instant text search capabilities.",
+  "points": [
+    "⏱️ Instant Single Stretches: Virtual runtime wrappers created to let you practice any isolated movement on demand.",
+    "🔍 Real-time Search Engine: Integrated text matching nodes so you can type any body part or stretch name and see results instantly.",
+    "📁 Clean Category Filters: Added tab selectors to instantly swap layouts across Daily, Office, Pain Relief, and Target Area modes.",
+    "🛑 Smart Summary Interceptors: Bypassed routine log generation during isolated moves to completely protect your historical logging accuracy.",
+    "🎨 Light Theme Overhaul: Re-engineered choice chips and list card rows to cleanly mirror our pristine creamy layout design."
+  ],
+  "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.6.0",
     "force_update": false,
     "title": "🗺️ Live Muscle Map Warp Engine is Live! 🚀",
