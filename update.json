@@ -1,5 +1,18 @@
 [
   {
+    "id": "11.1.1",
+    "force_update": true,
+    "title": "⚠️ Mandatory Update Required: On-Device AI & Smart Download Guard! (v11.1.1) 🧠",
+    "message": "We heard you! We completely rebuilt our on-device AI downloading and memory systems to make local coding 100% stable, loophole-free, and glitch-resistant.",
+    "points": [
+      "⏸️ Smart Pause & Resume: Pause your on-device model downloads at any time and pick up right where you left off without losing progress.",
+      "🛡️ Network Drop Protection: Advanced socket error handling automatically transitions to a safe paused state during internet drops—no more download resets!",
+      "🧼 Dynamic RAM Cleanup: Local AI models now initialize instantly on-demand and wipe themselves from memory the moment they finish generating code to keep your device lightning fast.",
+      "🎯 Absolute Footprint Sync: Realigned all internal path mappings so previously downloaded or updated models are recognized instantly by the C++ engine without deadlocks."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.0.0",
     "force_update": false,
     "title": "A Reimagined Workspace: Custom Overlays & Pro Tools! (v11.0.0) 🎨",
