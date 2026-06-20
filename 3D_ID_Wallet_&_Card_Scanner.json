@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.5.0",
+    "force_update": false,
+    "title": "🎬 Seamless Full-Screen Workspace Fixes",
+    "message": "We've optimized full-screen immersive view presentation controls across the studio editor and carousel decks while securing stability updates.",
+    "points": [
+      "Unified Full-Screen Experience: Tap anywhere on the card canvas spaces to hide UI panels instantly and enjoy clean, clutter-free 3D card presentation displays.",
+      "Network Error Dialogue Protection: Introduced a smart network warning to alert users transparently when ad blockers or lack of internet block verification checks.",
+      "Visual Material Reference Fix: Resolved an asset rendering tracking bug where look and material finish changes would display wrong page details on multi-page cards.",
+      "State Transformation Settle Guard: Stabilized alignment layouts by introducing clean workspace transform resets when pages are deleted inside the active builder.",
+      "Legacy Save Database Support: Fully optimized deserialization pipelines to guarantee existing user databases update to the new system cleanly with zero file corruption."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "1.4.0",
     "force_update": false,
     "title": "🌀 Introducing the 3D Cinematic Deck Viewer",
