@@ -1,5 +1,17 @@
 [
   {
+    "id": "2.8.0",
+    "force_update": false,
+    "title": "Smart Connection Checks & Quick Reporting! 🌐🪲",
+    "message": "Never get left in the dark! This update introduces automatic network connectivity diagnostics to keep you informed, alongside an instantaneous direct feedback mechanism to report app bugs directly to our team.",
+    "points": [
+      "🌐 Smart Connection Diagnostics: If your feed runs into an unexpected internet dropout or ad-blocker restriction, the app will now gracefully show a clear diagnostic message instead of an unhelpful empty state.",
+      "🪲 Instant Feedback Option: Encountered a persistent glitch? Tap the new integrated 'Report Issue' button directly from the empty feed view to alert us immediately.",
+      "🛡️ Ad Delivery Protection: Upgraded the underlying Interstitial and Rewarded systems to safely verify successful ad playback before running features, shielding users from deadlocks."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.7.0",
     "force_update": false,
     "title": "Instant Startup & Secure Mixes! ⚡🎬",
