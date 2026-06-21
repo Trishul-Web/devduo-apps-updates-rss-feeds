@@ -1,5 +1,17 @@
 [
  {
+    "id": "8.7.0",
+    "force_update": false,
+    "title": "⚡ The Instant Launch & Optimization Update! 🚀✨",
+    "message": "We have engineered a highly requested toggle to fully skip the intro splash screen alongside major internal security, ad stability, and performance upgrades! 🛠️",
+    "points": [
+      "⚡ Instant App Launch: Added a permanent toggle switch in Settings to skip the video intro and boot straight into your scanning dashboard dynamically.",
+      "🎬 Memory Leak Protection: Restructured intro playback logic to securely stop video controllers when skipped, preventing background memory drain.",
+      "🎯 Smart Session Reviews: Refactored store rating prompt loops to safely prioritize request cycles based on actual application usage frequencies seamlessly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+ },
+ {
     "id": "8.6.0",
     "force_update": false,
     "title": "✨ The Continuous Layout Update! 📜🚀",
