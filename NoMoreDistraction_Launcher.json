@@ -1,5 +1,19 @@
 [
   {
+    "id": "8.7.0",
+    "force_update": false,
+    "title": "✨ Refined UI & Smoother Interactions! 🚀",
+    "message": "We've focused on the details in this release to make your distraction-free launcher feel even more premium. Enjoy a cleaner dashboard and more intuitive navigation.",
+    "points": [
+      "🎨 Polished UI Design: A more refined, cohesive aesthetic across all screens for a seamless experience.",
+      "🏷️ Action Pills Interface: Redesigned bottom utility row with descriptive labels for Zen, Stats, Lock, and more.",
+      "⭐ Smart Rating System: We’ve updated how we collect your feedback to ensure we respect your focus time.",
+      "⚙️ Enhanced Performance: Optimized state handling to reduce latency and improve battery efficiency.",
+      "🛡️ Stability Fixes: Improved system responsiveness during transitions and background tasks."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.6.0",
     "force_update": false,
     "title": "🎨 Personalize Your Productivity Canvas! 🕒",
