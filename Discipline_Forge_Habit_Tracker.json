@@ -1,17 +1,31 @@
 [
   {
-  "id": "4.1.0",
-  "title": "🌌 MULTI-CORE AI OVERHAUL ACTIVE!",
-  "message": " Shuttered limits. The Forge AI ecosystem now supports hot-swapping multiple localized compute engines on the fly. Awaken the precise level of offline intelligence your device demands! ⚒️🔥",
-  "points": [
-    "⚡ Expanded Multi-Core Matrix: Download and manage specialized High Power, Standard, or Lite AI models natively.",
-    "🔄 Instant Hot-Swapping: Swap active intelligence engines dynamically in chat without restarting the application.",
-    "📡 Link Stabilization Panel: Added a stable network banner framework with custom bug reporting integration.",
-    "🖼️ Aspect Ratio Correction: Re-engineered preview poster canvases to scale custom verification photos perfectly.",
-    "🛡️ Hardened System Security: Optimized task calibration parameters and fortified background asset logic streams."
-  ],
-  "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
-  "isForced": false
+    "id": "4.2.0",
+    "title": "🆕 INFINITE CALENDAR & LAUNCH TOGGLE ACTIVE!",
+    "message": "Limits removed! Explore an infinite history calendar with zero lag, use the new toggle to skip the opening video, and enjoy a faster, smoother experience across the app. ⚒️🔥",
+    "points": [
+      "📅 Infinite Calendar for Everyone: Scroll as far back into your history or ahead into the future as you want. Fully unlocked for all users!",
+      "⚡ Stutter-Free Navigation: Tapping a date card now switches your view instantly without making the calendar bar shift or jump around.",
+      "🚀 Intro Video Toggle: Turn off the launch video using the new 'Intro Cinematic' switch in the Stats tab to open the app instantly.",
+      "↩️ Quick Return Button: Added a simple, right-docked shortcut button to automatically snap your calendar view back to Today.",
+      "🔧 Stability Hardening: Fixed an issue where the ad recovery popup would display incorrectly, ensuring smoother reward processing."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
+    "id": "4.1.0",
+    "title": "🌌 MULTI-CORE AI OVERHAUL ACTIVE!",
+    "message": " Shuttered limits. The Forge AI ecosystem now supports hot-swapping multiple localized compute engines on the fly. Awaken the precise level of offline intelligence your device demands! ⚒️🔥",
+    "points": [
+      "⚡ Expanded Multi-Core Matrix: Download and manage specialized High Power, Standard, or Lite AI models natively.",
+      "🔄 Instant Hot-Swapping: Swap active intelligence engines dynamically in chat without restarting the application.",
+      "📡 Link Stabilization Panel: Added a stable network banner framework with custom bug reporting integration.",
+      "🖼️ Aspect Ratio Correction: Re-engineered preview poster canvases to scale custom verification photos perfectly.",
+      "🛡️ Hardened System Security: Optimized task calibration parameters and fortified background asset logic streams."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
   },
   {
     "id": "4.0.0",
