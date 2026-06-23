@@ -1,5 +1,18 @@
 [ 
   {
+    "id": "1.8.0",
+    "force_update": false,
+    "title": "✂️ Precision Crop Studio & Batch Inline Framing! 🎨",
+    "message": "Advanced on-device image cropping, batch row menu controls, and instantaneous state recalculations have officially arrived! ⚡",
+    "points": [
+      "✂️ Precision Single Crop: Adjust handles, rotate, and frame your base photos locally. Downstream target KB search scripts and sliders update instantly.",
+      "📦 Batch Menu Studio: A premium context-action menu replaces old card layouts, enabling you to crop, preview, or delete queue items independently.",
+      "⚡ Instant Processing Sync: Background loader indicators clear on point when cropped batch models finish automatic layout compression routines.",
+      "🔒 Transaction State Tracking: Optimized billing fallback logic to elegantly preserve paywall sheet contexts upon payment cycle cancel actions."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
   "id": "1.6.0",
   "force_update": false,
   "title": "📐 Target Resolution & Individual Studio Mode! 🎨",
