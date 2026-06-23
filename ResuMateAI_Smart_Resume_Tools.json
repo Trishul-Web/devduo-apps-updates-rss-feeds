@@ -1,5 +1,20 @@
 [
   {
+    "id": "1.15.0",
+    "force_update": false,
+    "title": "✨ AI Website Builder: Create Custom Web Portfolios via Prompts! 🚀",
+    "message": "Transform your career profile into a beautiful, production-ready interactive website instantly using our new real-time AI generation engine! 🌐",
+    "points": [
+      "✨ AI Portfolio Builder: Describe your design vision to instantly generate responsive web portfolio layouts with full HTML, CSS, and interactive JavaScript logic.",
+      "🗂️ Interactive Vault & Versions: Save, manage, and rename multiple layout variations while seamlessly switching back and forth between historical design branches.",
+      "💬 Conversational Iteration Canvas: Chat directly with the generator to request revisions, modify visual sections, and fine-tune aesthetics on the fly.",
+      "🛡️ Auto-Healing Code Sanitation: Embedded an offline parsing system that strips syntax errors and injects native single-tap asset downloading anchors automatically.",
+      "🔌 Smart Offline Continuity: Added intelligent socket drop monitoring that routes traffic into on-device local models instantly if internet signals disconnect.",
+      "🧱 Viewport Boundary Adaptations: Resolved RenderFlex horizontal row clips on generation log timelines and protected layout scales against keyboard openings."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
   "id": "1.14.0",
   "force_update": false,
   "title": "⚡ Speed Booster: Custom Startup Control & Smart Quotas! 🚀",
