@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.5.0",
+    "force_update": false,
+    "title": "🩺 Meet the Scannability Doctor!",
+    "message": "Never save a broken design again. We've built an intelligent, real-time design auditor that verifies your custom QR code colors, contrasts, and logos are 100% readable before you print or share.",
+    "points": [
+      "🩺 Scannability Doctor Engine: A new dedicated checker that calculates relative color luminance contrast on a single tap[cite: 4].",
+      "🚦 Real-Time Safety Ratings: Instantly get clear status updates like 100% Fully Verified Scannable, Warning, or High Scan Failure Risk[cite: 4].",
+      "🚀 Optimized UI Badges: Redesigned diagnostic headers with full screen-breathing space to prevent layout compression or horizontal overflows[cite: 4]."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+  },
+  {
   "id": "1.4.0",
   "force_update": false,
   "title": "🎛️ Layout Fine-Tuning Studio!",
