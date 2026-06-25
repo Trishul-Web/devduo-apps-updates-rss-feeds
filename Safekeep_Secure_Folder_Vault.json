@@ -1,5 +1,17 @@
 [
      {
+        "id": "7.7.0",
+        "force_update": false,
+        "title": "🛡️ Premium Fix & Performance Boost in Version 7.7.0!",
+        "message": "We have secured your experience! This update restores seamless access for premium subscribers and delivers major UI performance optimizations across the entire vault.",
+        "points": [
+          "💎 Premium Status Protection: Fixed a validation loophole where active premium subscribers were unexpectedly blocked or prompted by ad-free limits after intensive daily use.",
+          "🎨 UI Fluidity & Polish: Upgraded interface rendering engines, optimized container paddings, and smoothed out animated transitions for a flawless, modern browsing feel.",
+          "⚡ Performance Acceleration: Streamlined internal resource lookup routines to minimize loading latency and maximize device battery efficiency during file tasks."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider"
+     },
+     {
         "id": "7.6.1",
         "force_update": false,
         "title": "🛡️ Workspace Cleanup in Version 7.6.1!",
