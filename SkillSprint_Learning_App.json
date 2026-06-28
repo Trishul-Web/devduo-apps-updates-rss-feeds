@@ -1,5 +1,17 @@
 [
   {
+    "id": "6.2.0",
+    "force_update": false,
+    "title": "🎙️ All-New Hands-Free Audio Podcast Mode! 🎧",
+    "message": "We have unlocked a premium audio learning experience so you can master your favorite courses on the go, completely hands-free!",
+    "points": [
+      "🎧 Continuous Audio Podcasts: Switch any course into audio stream mode to listen to full theory chapters without pausing or manually answering quiz questions.",
+      "🎵 Real-Time Karaoke Highlights: Experience perfect Spotify-style lyrics syncing that highlights words exactly as the text-to-speech engine speaks them aloud.",
+      "📱 Smart Playback Engine: Enjoy persistent session recovery that remembers where you left off, side-by-side with an auto-expanding live accordion track explorer."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.1.0",
     "force_update": false,
     "title": "⚡ Instant Launch & Navigation Patch! 🚀",
