@@ -1,5 +1,19 @@
 [
   {
+    "id": "2.5.1",
+    "force_update": false,
+    "title": "🖼️ Continuous Long Image Exports are Here! 🚀",
+    "message": "We have expanded our export engine! You can now choose to save your captured web pages as a single, high-quality, continuous long image (PNG), in addition to our standard PDF document format.",
+    "points": [
+      "🖼️ Long Image Export: Select 'Long Image' in the export menu to stitch your captured segments into one seamless, continuous PNG file.",
+      "⚡ Proportional Stitching Engine: Our new image-stitching algorithm ensures that your content scales perfectly across the entire long-image canvas, matching the desktop quality of our PDF engine.",
+      "🌐 Desktop Viewport Optimization: Updated viewport rendering logic ensures that websites (like YouTube) maintain their full desktop layout during capture, eliminating element squishing.",
+      "🛠️ Enhanced Sticky Element Handling: Advanced scroll-synchronization now automatically hides sticky headers during segment capture to prevent content duplication, ensuring your exports look professional.",
+      "✨ Bottom Sheet Selection: Export format options (PDF vs. Long Image) are now presented via a sleek, interactive bottom sheet for a more intuitive user experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.3.0",
     "force_update": false,
     "title": "🛠️ Live HTML Inspector & Sandbox Playground! 🚀",
