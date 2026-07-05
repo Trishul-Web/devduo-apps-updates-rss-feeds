@@ -1,5 +1,17 @@
 [
   {
+    "id": "11.2.0",
+    "force_update": false,
+    "title": "✨ Real-Time Undo/Redo Fix & Performance Boost! (v11.2.0) 🛠️",
+    "message": "We've rolled out a highly requested productivity patch! Writing and modifying files is now smoother than ever with completely repaired history workflows and faster UI rendering.",
+    "points": [
+      "🔄 Real-Time Undo & Redo Fix: Resolved a state synchronization bug where keypress changes made in Edit Mode failed to immediately update the history tracking stacks. You can now reliably reverse or redo edits at a moment's notice!",
+      "⚡ Snappier Layout Engine: Optimized layout measuring trees and eliminated background render flexibility overflows in the Settings sheet panels for fluid scrolling across all mobile screen sizes.",
+      "🐛 Stability & Bug Sweeps: Hardened compiler exception hooks and refined full-screen layout context routing to ensure an uninterrupted, high-performance coding workspace."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.1.2",
     "force_update": false,
     "title": "✨ Web Preview Fixed & Free Access Restored! (v11.1.2) 🌐",
