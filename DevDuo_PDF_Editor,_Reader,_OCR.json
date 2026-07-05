@@ -1,5 +1,17 @@
 [
   {
+    "id": "6.9.0",
+    "force_update": false,
+    "title": "⚡ Throttled Ads & Fail-Safe Upgrades!",
+    "message": "We've rolled out a massive update focusing on structural balance, smart ad throttling, and bulletproof offline reliability.",
+    "points": [
+      "⏱️ 5-Interaction Smart Gate: Interstitial ads are now persistent and optimized to trigger exactly on every 5th interaction across restarts.",
+      "🛡️ Fail-Safe Open Access: Complete elimination of blocking locks; if the ad network fails or goes offline, you bypass instantly.",
+      "🚀 Accelerated Layout Performance: Rewritten background layout queues to load heavy documents and tool assets faster than ever."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.8.0",
     "force_update": false,
     "title": "💎 The Premium Ad-Free Fix!",
