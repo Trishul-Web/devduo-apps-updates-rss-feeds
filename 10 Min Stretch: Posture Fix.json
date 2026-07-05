@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.9.0",
+    "force_update": false,
+    "title": "⚡ Zero-Delay Performance Boost & Fluid Workflows! 🚀",
+    "message": "We have engineered a major under-the-hood speed optimization to keep your routines completely flawless, ultra-responsive, and unhindered.",
+    "points": [
+      "⚡ Zero-Delay Fluidity: Streamlined internal verification structures to entirely eliminate waiting loops, delivering instant screen transitions.",
+      "🚀 Blazing Fast Execution: Upgraded app compilation rendering pipelines to ensure everything runs lighter and smoother across all devices.",
+      "🛠️ Smart Connection Resilience: Optimized background processing so your features remain fully active and fluid, even during network changes.",
+      "💎 Seamless UX Flow: Squashed minor interface compilation bugs and polished layout padding for an unhindered, premium tracking experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
   "id": "1.7.0",
   "force_update": false,
   "title": "⏱️ Single Exercise 'Quick Launch' Explorer is Live! 🚀",
