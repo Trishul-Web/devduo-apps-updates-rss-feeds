@@ -1,5 +1,16 @@
 [
   {
+    "id": "1.5.0",
+    "force_update": false,
+    "title": "🚀 Speed, Performance & Rock-Solid Stability! ✨",
+    "message": "We've heavily optimized under-the-hood engine operations, crushing minor bugs and boosting performance across the entire application for an ultra-snappy experience.",
+    "points": [
+      "🏎️ Blazing Fast Execution: Re-engineered background processes and data loading pipelines to significantly accelerate app responsiveness and reduce interface latency.",
+      "🛡️ Stability Overhaul: Swept through deep layout layers to fix minor bugs and ensure seamless, crash-free operational workflows.",
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
     "id": "1.4.0",
     "force_update": false,
     "title": "🚀 Stunning Universal Animations & Security! ✨",
