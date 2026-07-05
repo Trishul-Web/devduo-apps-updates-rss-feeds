@@ -1,5 +1,16 @@
 [
   {
+    "id": "1.7.0",
+    "force_update": false,
+    "title": "🚀 Interruption-Free Experience & Stability Pass",
+    "message": "We have re-engineered our ad pipeline and interaction loops to prioritize your workflow—eliminating network blockages, dropping connectivity error overlays, and smoothing out baseline performance.",
+    "points": [
+      "Pipeline Loop Refactoring: Optimized the background asset loading threads to cleanly dispose of failed instances without adding UI thread overhead.",
+      "Performance Optimization: Enhanced internal state processing to eliminate minor lag spikes and ensure lightning-fast UI responses across long creative cycles."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "1.5.0",
     "force_update": false,
     "title": "🎬 Seamless Full-Screen Workspace Fixes",
