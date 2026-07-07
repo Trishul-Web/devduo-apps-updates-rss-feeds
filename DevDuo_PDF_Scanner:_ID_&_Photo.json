@@ -1,5 +1,16 @@
 [
  {
+    "id": "8.3.0",
+    "title": "Ultra-Fast Scan & Fluid Adjustments",
+    "message": "This update introduces massive performance optimizations, refined multi-page state rendering, and an updated modern design system.",
+    "force_update": false,
+    "points": [
+      "⚡ High-Speed Isolate Cropping: Migrated perspective cropping and canvas rectification pipelines to background workers to guarantee lag-free, high-quality document exports.",
+      "🎨 Workspace State Synchronization: Redesigned document workspaces to utilize dedicated, independent page trackers, completely resolving rendering layout assertions during multi-card edits.",
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+ },
+ {
     "id": "8.7.0",
     "force_update": false,
     "title": "⚡ The Instant Launch & Optimization Update! 🚀✨",
