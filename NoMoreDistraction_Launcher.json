@@ -1,5 +1,17 @@
 [
   {
+    "id": "8.8.0",
+    "force_update": false,
+    "title": "✨ Premium Architecture Overhaul & Resilient Layouts! 🚀",
+    "message": "We've rebuilt our monetization engine and visual structures to protect your focus flow. Enjoy clear overview metrics, smarter ad frequencies, and zero interface lag under low network connectivity.",
+    "points": [
+      "💎 Upgraded Premium Hub: Transparent, redesigned feature comparison dashboard tracking your exact configuration limits.",
+      "🛡️ Dynamic Layout Fail-Safe: Expanded cross-device support ensuring text elements scale down cleanly without overflow lines on narrow phone screens.",
+      "🚀 Under-the-Hood Optimization: Optimized state management across background listeners to reduce app initialization lag."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.7.0",
     "force_update": false,
     "title": "✨ Refined UI & Smoother Interactions! 🚀",
