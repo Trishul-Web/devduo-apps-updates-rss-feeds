@@ -1,5 +1,16 @@
 [
   {
+    "id": "2.9.0",
+    "force_update": false,
+    "title": "Ultra-Snappy Performance & UI Refinements! ⚡🎨",
+    "message": "Experience the fluid speed of Newszio! This update delivers massive performance tuning for near-instant article loading and a refined Dark Editorial theme for peak comfort.",
+    "points": [
+      "⚡ Ultra-Snappy Performance: Complete under-the-hood structural optimization drastically cuts feed rendering times and asset loading latency for a lightning-fast experience.",
+      "🎨 Re-engineered Premium UI: Polished interface padding, typography tracking, and asset contrast adjustments designed to create our most gorgeous dark-reading environment yet."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.8.0",
     "force_update": false,
     "title": "Smart Connection Checks & Quick Reporting! 🌐🪲",
