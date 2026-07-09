@@ -1,5 +1,17 @@
 [ 
   {
+    "id": "1.9.0",
+    "force_update": false,
+    "title": "⚡ Hardware-Accelerated UI Fluidity & Massive Pricing Drops! 💎",
+    "message": "We've re-engineered our core viewport rendering layouts for buttery-smooth performance and completely restructured our regional stores to bring you the lowest prices ever! 📉",
+    "points": [
+      "⚡ Fluid UI Optimizations: Upgraded canvas grid layers, list views, and parameter sliders to interact with zero interface drag or frames dropped.",
+      "📉 Permanent Price Drop: Global lifetime product options have been heavily reduced to low-cost impulse tiers—grab your lifetime license permanently!",
+      "🔄 Local Interaction Sync: Upgraded non-volatile disk caching sequences to perfectly persist interaction checkpoints across device reboots."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.8.0",
     "force_update": false,
     "title": "✂️ Precision Crop Studio & Batch Inline Framing! 🎨",
