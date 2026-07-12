@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.6.0",
+    "force_update": false,
+    "title": "⚡ Faster UI & Massive PRO Price Drop!",
+    "message": "We've polished the interface, supercharged the app's performance, and made unlocking PRO much more affordable for everyone.",
+    "points": [
+      "🎨 Sleeker Design: Enjoy a refined, smoother user interface that makes navigating and customizing your QR codes feel effortless.",
+      "🚀 Lightning Fast Performance: Under-the-hood engine improvements mean quicker loading times and instant generation.",
+      "💎 Cheaper Premium Tiers: We've permanently dropped our PRO prices and added exciting new Flash Deals so you can unlock everything for less!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+  },
+  {
     "id": "1.5.0",
     "force_update": false,
     "title": "🩺 Meet the Scannability Doctor!",
