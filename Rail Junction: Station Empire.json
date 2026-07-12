@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.5.0",
+    "force_update": false,
+    "title": "⚡ Frictionless Economy & Ultra-Smooth Layouts! 🚂",
+    "message": "Welcome to Version 1.5.0! We have completely slashed pricing tiers globally to match your regional purchasing power, while overhauling the graphics engine for a butter-smooth tycoon experience!",
+    "points": [
+      "🎫 Massive Price Slashing: Complete structural drop across all 24-Hour, 7-Day, and 30-Day passes.",
+      "🚀 GPU Performance Overhaul: Full rendering isolation layers added to crowd simulation and train shunting paths. Fixes viewport scrolling lag completely for high-end cinematic smoothness.",
+      "📊 Micro-Batch Balance Refinement: Restructured vault rewards collection pipelines into tighter, hyper-accurate 2,000-point batches to optimize claims processing speeds.",
+      "⚙️ Concurrency & Clock Sync: Patched background time-delta accumulators and infrastructure traffic slots to ensure perfectly continuous station scheduling without delay hitches."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.4.0",
     "force_update": true,
     "title": "⚡ Real-Time Upgrades & Cheaper Expansion! 🏗️",
