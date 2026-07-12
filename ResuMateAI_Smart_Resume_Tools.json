@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.16.0",
+    "force_update": false,
+    "title": "🚀 Supercharged Performance: Persistent Ad Pacing & Graceful Continuity! ✨",
+    "message": "We have engineered a massively optimized ad-pacing track and fallback ecosystem to ensure your layout builder workflow stays fluid, fast, and completely unblocked! 🌐",
+    "points": [
+      "🚀 Smart Ad Pacing Interval: Implemented a persistent milestone counter that runs standard formatting actions cleanly and requests interstitial clips strictly on your 5th major transaction.",
+      "💎 Context-Aware Ad Breaks: Isolated promotional layers safely away from rapid input flows, restricting triggers purely to natural pause states like section renames and file purges.",
+      "✨ Enhanced Workspace Fluidity: Upgraded internal view controllers and state listeners to keep theme swapping, custom block creations, and layout updates completely lag-free."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.15.0",
     "force_update": false,
     "title": "✨ AI Website Builder: Create Custom Web Portfolios via Prompts! 🚀",
