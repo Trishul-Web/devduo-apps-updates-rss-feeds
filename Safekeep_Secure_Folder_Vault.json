@@ -1,5 +1,17 @@
 [
      {
+       "id": "7.8.0",
+       "force_update": false,
+       "title": "✨ Breathtaking UI Magic & Fluid Animations in Version 7.8.0!",
+       "message": "Experience Safekeep like never before! We have completely transformed our design interactions with gorgeous new animations, immersive edge-to-edge layouts, and ultra-smooth performance polish across every screen.",
+       "points": [
+         "🎭 Cinematic Iris wiping & Reveal Animations: Overhauled the initialization pipeline with stunning circular reveals, sliding typography, and fluid entry staggering.",
+         "🎨 Immersive Edge-to-Edge Fluidity: Advanced system navigation properties have been re-architected to seamlessly blend backgrounds under modern device status and navigation bars.",
+         "⚡ Micro-Interaction Acceleration: Upgraded scroll mechanics, frame-pacing loops, and interactive layouts to guarantee an incredibly snappy, stutter-free user experience."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider"
+     },
+     {
         "id": "7.7.0",
         "force_update": false,
         "title": "🛡️ Premium Fix & Performance Boost in Version 7.7.0!",
