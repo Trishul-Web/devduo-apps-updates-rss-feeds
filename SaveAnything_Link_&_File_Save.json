@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.7.0",
+    "force_update": false,
+    "title": "⚡ The 'Lighning Fast' Performance Update! 🚀",
+    "message": "Experience pure speed! We've optimized internal saving loops and animations to give you a flawlessly fluid vault experience.",
+    "points": [
+      "⚡ Faster Quick Saving: Saving links, media, notes, and documents from external share menus is now near-instantaneous.",
+      "🪄 Fluid Tab Switches: Shifting between content source types (Link, File, Media, Note) is completely smooth and lag-free.",
+      "⚙️ Monitization & Policy Fixes: Refined the internal ad delivery rules to be fully compliant and optimized for offline use.",
+      "🛠️ Under-The-Hood Tuning: Upgraded local caching systems to load extensive folders and heavy layouts without a single drop in performance."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.6.0",
     "force_update": false,
     "title": "✔️ The 'Inbox Zero' Update! 📥",
