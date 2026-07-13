@@ -1,5 +1,17 @@
 [
   {
+    "id": "6.3.0",
+    "force_update": false,
+    "title": "⚡ Silky Smooth Navigation & Story Mode Fixes! 📖",
+    "message": "We have optimized performance across the entire app to deliver a snappier interface while completely correcting our real-time karaoke text highlighting bugs!",
+    "points": [
+      "⚡ Ultra-Smooth Transitions: Fine-tuned layouts, filters, and page flows to make browsing and navigating resources extremely fluid.",
+      "📖 Story Mode Highlights Restored: Corrected native audio string matching bounds so karaoke highlights follow text-to-speech tracking in perfect sync.",
+      "🛡️ Graceful Failure Protocols: Fixed offline routing exceptions to ensure missing ad network caches never drop or block your active lesson entries."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.2.0",
     "force_update": false,
     "title": "🎙️ All-New Hands-Free Audio Podcast Mode! 🎧",
