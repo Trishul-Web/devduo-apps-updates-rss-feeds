@@ -1,5 +1,18 @@
 [
-    {
+  {
+      "id": "3.7.0",
+      "force_update": false,
+      "title": "🎵 Sonic Atmosphere & Smooth Motion Update! ⚡",
+      "message": "Timekeeping just got a major performance boost! We've overhauled our animation matrix for ultra-fluid digit transitions and fine-tuned our audio engine for maximum fidelity during your deep work sessions.",
+      "points": [
+        "⚡ Snappy Motion Overhaul: Refactored individual digit transition tracking blocks across all 24 clock animations to ensure buttery-smooth updates and zero frame drops on high-refresh-rate displays.",
+        "🎧 Premium Audio Fidelity: Fine-tuned the soundscape playback mixer stream to provide crystal-clear environmental audio tracking, even when pushing the volume mixer into boost levels.",
+        "🚀 Fast Boot Toggle: Added a quick configuration switch right in the header bar to skip the splash video, bypassing initialization straight to the dashboard workspace instantly.",
+        "🛡️ Safe Fallback Streams: Reworked advertisement pipeline lifecycle hooks to handle offline and fill exceptions seamlessly without locking you out of clock and custom timer features."
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.6.0",
     "force_update": false,
     "title": "🎨 The 'Match Your Setup' Color Update! 📸",
