@@ -1,5 +1,18 @@
 [
   {
+    "id": "2.6.0",
+    "force_update": false,
+    "title": "⚡ Ultra-Fast Engine & Smooth UI Overhaul! 🌟",
+    "message": "We have upgraded our core rendering loops and completely polished our user interface layouts! Document capture transitions are now significantly faster and smoother.",
+    "points": [
+      "⚡ Seamless Animation Flow: Implemented deferred loading protocols for our internal engines, entirely removing visual stuttering and lag during page configurations.",
+      "🎨 Pixel-Perfect UI Upgrades: Refined our workspace badges, bottom sheets, and visual elements to match high-end design aesthetics with beautiful layout flows.",
+      "📊 Persistent Counter Pipeline: Integrated a persistent session tracker that safely stores your features checklist count, ensuring a clean ad experience across app closeouts or phone restarts.",
+      "🛠️ Workspace Engine Optimization: Fine-tuned internal rasterization matrix variables to stabilize heavy website extraction scripts and raw code conversions without memory issues."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.5.1",
     "force_update": false,
     "title": "🖼️ Continuous Long Image Exports are Here! 🚀",
