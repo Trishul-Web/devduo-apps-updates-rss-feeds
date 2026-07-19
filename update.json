@@ -1,5 +1,18 @@
 [
   {
+    "id": "11.4.0",
+    "force_update": false,
+    "title": "🚀 Major Loading Fix & Brand New DevDuo Apps Hub! (v11.4.0) 📱",
+    "message": "We have crushed a frustrating loading bug that was causing the app to freeze up on launch, and we are incredibly excited to introduce the all-new DevDuo Apps Hub directly into your settings workspace!",
+    "points": [
+      "✨ Launch Freeze Completely Fixed: Resolved a critical issue where the app would sometimes stop responding and get stuck on a dark loading screen when trying to open files or AI variations.",
+      "🌐 Brand New Apps Hub: Added a beautiful, dedicated space inside your settings menu where you can explore our full, growing ecosystem of tailored developer modules and offline utility apps.",
+      "🚀 Full Card Gestures: Made the entire Ecosystem Hub promotional banner completely clickable, allowing you to quickly open the storefront with a simple tap anywhere on the card.",
+      "📶 Smarter Network Recoveries: Improved our offline detection loops so if your internet drops during a sync or download, the screen cleanly unlocks and gives you a clear 'Retry' layout."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.3.0",
     "force_update": false,
     "title": "🤖 Flawless AI Injection & Compiler Keyboard Fix! (v11.3.0) ⌨️",
