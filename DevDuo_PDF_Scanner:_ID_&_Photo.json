@@ -1,5 +1,17 @@
 [
   {
+      "id": "8.9.0",
+      "title": "Ecosystem Integration & Brand Showcase",
+      "message": "This version introduces our central ecosystem hub layer, providing seamless visibility into our expanding portfolio of games and utilities, alongside refined interface adaptations.",
+      "force_update": false,
+      "points": [
+        "🌐 DevDuo Apps Hub: Implemented an interactive cross-promotional portfolio architecture directly inside the control layer, driving smooth ecosystem discoverability with responsive, background-isolated data streams.",
+        "🎨 Cohesive Layout Alignment: Upgraded promotional presentation views with proportional image carousels, downsized sleek branding brand plates, and full dynamic text-wrapping frames matching our reactive AppTheme palettes.",
+        "⚡ Connection Failure Protection: Integrated a fail-safe offline fallback system using low-latency network handshakes to gracefully catch network timeouts and display recovery retry views instead of indefinite loading loops."
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
     "id": "8.3.0",
     "title": "Ultra-Fast Scan & Fluid Adjustments",
     "message": "This update introduces massive performance optimizations, refined multi-page state rendering, and an updated modern design system.",
