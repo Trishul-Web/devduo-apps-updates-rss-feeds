@@ -1,5 +1,17 @@
 [
   {
+    "id": "6.10.0",
+    "force_update": false,
+    "title": "🚀 Introducing the DevDuo Apps Hub!",
+    "message": "We've added a beautiful new space to explore the broader ecosystem, complete with a clean new look for upcoming project sneak peeks.",
+    "points": [
+      "🌐 DevDuo Apps Hub: Tap the new card in your Tools tab to discover our growing collection of premium, offline-first utility configurations and tools.",
+      "✨ Premium Golden Finish: Upcoming and preview releases are now beautifully highlighted with a luxury gold layout and a dedicated 'Coming Soon' badge.",
+      "📲 Quick Store Navigation: Added a direct link inside the hub to jump straight to our official developer page on the Google Play Store with a single tap."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.9.0",
     "force_update": false,
     "title": "⚡ Throttled Ads & Fail-Safe Upgrades!",
