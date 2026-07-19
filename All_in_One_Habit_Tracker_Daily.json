@@ -1,5 +1,17 @@
 [
   {
+  "id": "1.6.0",
+  "force_update": false,
+  "title": "📊 Real-Time Analytics & Brand New Apps Hub! ✨",
+  "message": "We have supercharged our tracking engine in this release! Your analytics now load instantly in real time, and we've added a beautiful space for you to discover new companion tools.",
+  "points": [
+    "🔄 Instant Analytics Refresh: Crushed a data syncing issue! Your progress graphs and consistency calendars now instantly update the exact second you switch to the Analytics page.",
+    "🚀 DevDuo Apps Hub: Added a brand new exploration panel where you can browse our collection of premium companion tools built to upgrade your daily productivity.",
+    "⚡ Snappier UI Navigation: Finetuned animation staggers and tab transitions to make hopping around the app feel smoother than ever."
+  ],
+  "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
     "id": "1.5.0",
     "force_update": false,
     "title": "🚀 Speed, Performance & Rock-Solid Stability! ✨",
