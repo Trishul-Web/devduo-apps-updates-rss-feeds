@@ -1,5 +1,16 @@
 [
   {
+    "id": "1.8.0",
+    "force_update": false,
+    "title": "🌐 Ecosystem Hub Integration & Discovery Pass",
+    "message": "We have fully deployed the custom DevDuo Apps portfolio deck, giving you seamless access to our growing ecosystem of utility dashboards, secure vaults, and creative 3D spaces.",
+    "points": [
+      "DevDuo Ecosystem Page: Integrated a beautifully styled cross-promotional slider showcasing high-priority listings, upcoming software tracks, and platform direct routing links.",
+      "Optimized Core Header HUD: Upgraded background check handlers to sync case boundaries safely between string collections without introducing any runtime overhead."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "1.7.0",
     "force_update": false,
     "title": "🚀 Interruption-Free Experience & Stability Pass",
