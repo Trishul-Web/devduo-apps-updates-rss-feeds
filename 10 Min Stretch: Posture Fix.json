@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.10.1",
+    "force_update": false,
+    "title": "🎨 Frosted Glass Overlays & Web-Link Discovery Pass! ✨",
+    "message": "We have fully overhauled the presentation layout of our Ecosystem Hub, implementing a high-fidelity edge-to-edge background banner layer and frosted backdrop blurring filters.",
+    "points": [
+      "🌐 Native Website Support: Expanded the data model and button grids to parse 'website_url' targets, introducing an adaptive 'Visit Website' action tab seamlessly.",
+      "🖼️ Immersive Visual Frame: Re-engineered the scrolling profile tree to flow behind a translucent frosted action bar, creating rich spatial depth and micro-shadow layers.",
+      "🚀 Parity Filter Architecture: Upgraded the layout builder loop pipelines with strict upper-case conversion guards to perfectly sync dynamic filter row parameters.",
+      "🛠️ Type-Safe Asset Refactor: Resolved static widget compilation conflicts across cross-platform action buttons to ensure lightweight, crash-free interface responses."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.10.0",
     "force_update": false,
     "title": "🚀 DevDuo Apps Hub Live & Smooth Ecosystem Discovery! ✨",
