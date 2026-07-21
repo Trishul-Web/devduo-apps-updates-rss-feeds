@@ -1,5 +1,17 @@
 [ 
   {
+    "id": "1.10.0",
+    "force_update": false,
+    "title": "🌟 Discover DevDuo Software Hub & New App Experience! 🚀",
+    "message": "We are excited to launch the DevDuo Software Hub inside the app! Easily explore our growing collection of powerful apps and games, check out upcoming features, and stay up to date with new releases seamlessly.",
+    "points": [
+      "🚀 DevDuo Software Hub: Explore all apps and games created by DevDuo with detailed feature highlights, screenshots, and direct download links.",
+      "📢 Release Notes & Updates: Easily view new feature announcements and update notes inside the app.",
+      "⚡ Smooth Navigation & UI Enhancements: Optimized list scrolling, transitions, and layout fluidity across all screen sizes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.9.0",
     "force_update": false,
     "title": "⚡ Hardware-Accelerated UI Fluidity & Massive Pricing Drops! 💎",
