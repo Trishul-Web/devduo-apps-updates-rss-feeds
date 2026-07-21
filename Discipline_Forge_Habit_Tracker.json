@@ -1,5 +1,18 @@
 [
   {
+    "id": "4.4.0",
+    "title": "🌐 DEVDUO SOFTWARE ECOSYSTEM & UI ENHANCEMENTS!",
+    "message": "Explore the full DevDuo Software suite directly inside the Forge! Discover our growing collection of productivity apps and tools built for work, play, and focus. ⚒️🔥",
+    "points": [
+      "🌐 DevDuo Ecosystem Hub: Access the newly added More Apps screen to browse our full software catalog with direct store links and feature previews.",
+      "🎨 Tactical Promo Integration: Sleek, high-fidelity promotional cards integrated across the Stats matrix and Remote Update views.",
+      "🚀 Fluid Navigation Flow: Optimized route handling and smooth transitions when exploring ecosystem apps and returning to the Forge.",
+      "🛡️ Network Uplink Hardening: Reinforced connection checks and graceful error-handling fallbacks for seamless offline/online operations."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
     "id": "4.3.0",
     "title": "⚡ ELITE SPEED CORE & UX REFINEMENTS!",
     "message": "The Forge is running at maximum velocity! Experience faster load times, optimized background engine handling, and sleek UI/UX enhancements across all tabs. ⚒️🔥",
