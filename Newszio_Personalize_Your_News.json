@@ -1,5 +1,17 @@
 [
   {
+    "id": "2.10.0",
+    "force_update": false,
+    "title": "Introducing DevDuo Software Hub! 🚀✨",
+    "message": "Explore our expanding family of apps and games directly within Newszio! This update brings our all-new DevDuo Software Hub alongside UI polish and performance enhancements.",
+    "points": [
+      "📱 DevDuo Software Hub: Seamlessly discover, filter, and explore the entire DevDuo ecosystem of productivity tools and games right from Settings and Library.",
+      "🎨 Redesigned Ecosystem Cards: Beautiful dark glassmorphic promo cards with live banner previews, verified badges, and instant platform navigation.",
+      "⚡ Smooth Performance Tweaks: Refined UI layouts, faster asset loading, and optimized transitions for a fluid reading experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.9.0",
     "force_update": false,
     "title": "Ultra-Snappy Performance & UI Refinements! ⚡🎨",
