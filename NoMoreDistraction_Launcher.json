@@ -1,5 +1,17 @@
 [
   {
+    "id": "8.9.0",
+    "force_update": false,
+    "title": "✨ Introducing DevDuo Software Hub! 🚀",
+    "message": "Explore the full collection of DevDuo apps and games directly from your launcher. Quickly discover new productivity tools, utilities, and games with our brand new ecosystem hub!",
+    "points": [
+      "🌐 DevDuo Software Hub: Access a beautifully integrated showcase of all DevDuo apps and games right from your settings or home screen menu.",
+      "⚡ One-Tap Navigation: Quick-launch into the DevDuo ecosystem using the new quick-access pill on your home screen or the dedicated card in settings.",
+      "🎯 Smart Filtering: Browse applications by category with resilient offline handling and instant platform links."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.8.0",
     "force_update": false,
     "title": "✨ Premium Architecture Overhaul & Resilient Layouts! 🚀",
