@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.6.0",
+    "force_update": false,
+    "title": "👑 Royal Lifetime VIP & DevDuo Software Hub! 🚂",
+    "message": "Welcome to Version 1.6.0! Unlock permanent ad-free gameplay with our brand-new Lifetime VIP Pass, and explore our growing ecosystem of apps in the new DevDuo Software Hub!",
+    "points": [
+      "👑 Lifetime VIP Pass Unlocked: Get unlimited ad-free access, 3X coin boosts, and full VIP perks forever with no repeating fees!",
+      "🛠️ All-New DevDuo Software Hub: Browse our complete collection of apps and games directly inside the new DevDuo screen.",
+      "⚡ Local Currency Auto-Sync: Instant regional price detection powered by RevenueCat for smooth global checkout.",
+      "🔒 Enhanced Anti-Cheat System: Upgraded real-time clock validation to protect your pass timers and reward boosts."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.5.0",
     "force_update": false,
     "title": "⚡ Frictionless Economy & Ultra-Smooth Layouts! 🚂",
