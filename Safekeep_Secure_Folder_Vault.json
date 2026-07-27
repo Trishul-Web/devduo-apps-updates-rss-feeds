@@ -1,5 +1,17 @@
 [
      {
+       "id": "7.9.0",
+       "force_update": false,
+       "title": "🚀 Introducing DevDuo Software Hub in Version 7.9.0!",
+       "message": "We are excited to bring you the all-new DevDuo Software Hub! Easily discover and explore our growing collection of security, productivity, and utility apps right inside Safekeep.",
+       "points": [
+         "🌐 Explore DevDuo Apps: Discover all our latest apps and games with clean category filters, screenshots, and direct store links.",
+         "📱 Quick Promotion Card: Effortlessly view our software collection from your Profile screen or build updates with a single tap.",
+         "⚡ Connection & Performance Enhancements: Enjoy faster loading speeds, improved offline safety, and smooth layout transitions throughout the app."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider"
+     },
+     {
        "id": "7.8.0",
        "force_update": false,
        "title": "✨ Breathtaking UI Magic & Fluid Animations in Version 7.8.0!",
