@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.17.0",
+    "force_update": false,
+    "title": "🎉 New Feature: Discover More DevDuo Apps! ✨",
+    "message": "We are excited to introduce the DevDuo Software Hub! Easily discover and explore our growing collection of productivity apps and games right from inside the app.",
+    "points": [
+      "🚀 DevDuo Software Hub: Explore top apps and upcoming games designed to help you work, play, and organize your daily life.",
+      "📱 Easy Ecosystem Navigation: Access our app collection directly from the Career Tools screen or update dialog with a single tap.",
+      "✨ Smoother Experience: Performance enhancements and user interface polish for a faster, bug-free resume editing workflow."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.16.0",
     "force_update": false,
     "title": "🚀 Supercharged Performance: Persistent Ad Pacing & Graceful Continuity! ✨",
