@@ -1,5 +1,18 @@
 [
   {
+    "id": "2.7.0",
+    "force_update": false,
+    "title": "🎉 DevDuo Software Hub & UI Enhancements! ✨",
+    "message": "Discover our brand new DevDuo Software Hub! You can now easily explore, filter, and discover all our current and upcoming apps and games right from inside Web To PDF.",
+    "points": [
+      "🚀 DevDuo Software Hub: Access a whole new dedicated showcase page featuring all our apps, upcoming releases, and cross-platform store links.",
+      "📱 Smart Promotion Cards: Seamlessly jump into our software hub from the bottom of your home feed and update announcements.",
+      "🎨 Glassmorphic Theme Alignment: Polished our ecosystem cards and layouts to perfectly match our dark neon glass aesthetic.",
+      "⚡ Performance & Stability: Enhanced remote feed loading and dynamic network retries for a smooth, glitch-free experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.6.0",
     "force_update": false,
     "title": "⚡ Ultra-Fast Engine & Smooth UI Overhaul! 🌟",
