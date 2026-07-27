@@ -1,5 +1,17 @@
 [
   {
+    "id": "6.4.0",
+    "force_update": false,
+    "title": "🚀 Introducing DevDuo Software Hub & Theme Upgrades! 📱",
+    "message": "We are excited to launch our brand new DevDuo Software Hub! You can now explore all our apps and games in one place, enjoy adaptive dark/light design cards, and experience smoother performance.",
+    "points": [
+      "🚀 DevDuo Software Hub: Check out all other apps and games built by DevDuo! Preview features, filter categories, and download them with a single tap.",
+      "🎨 Smart Adaptive Theme: Interactive promotional cards now match the app background perfectly whether you are using Light Slate or Dark Mode.",
+      "⚡ Seamless Updates & Navigation: Refined update popups and menu transitions for a faster, distraction-free learning journey."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.3.0",
     "force_update": false,
     "title": "⚡ Silky Smooth Navigation & Story Mode Fixes! 📖",
