@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.8.0",
+    "force_update": false,
+    "title": "✨ Introducing the DevDuo Software Hub! 🚀",
+    "message": "We're expanding our world! Discover new apps and explore our growing software ecosystem directly inside SaveAnything.",
+    "points": [
+      "🌐 DevDuo Software Hub: Browse, filter, and discover all current and upcoming DevDuo apps and games in one organized space.",
+      "🎴 One-Tap Access Cards: Tap the new DevDuo promotion cards at the bottom of your Insights tab or update dialogs to open the hub.",
+      "🚀 Smoother Performance: Minor bug fixes and UI enhancements for a cleaner, faster vault experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.7.0",
     "force_update": false,
     "title": "⚡ The 'Lighning Fast' Performance Update! 🚀",
