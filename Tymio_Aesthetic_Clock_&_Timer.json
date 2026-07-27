@@ -1,5 +1,18 @@
 [
   {
+    "id": "3.8.0",
+    "force_update": false,
+    "title": "🌐 DevDuo Software Hub & Apps Showcase! 🚀",
+    "message": "We're expanding! You can now easily explore and discover all our top apps and games built by DevDuo right from inside Tymio.",
+    "points": [
+      "🌐 DevDuo Software Hub: Access our brand new ecosystem page to explore all apps, games, and upcoming software built for work, play, and everyday life.",
+      "✨ Quick Discovery Cards: Conveniently jump into the software hub using the newly added DevDuo card at the bottom of your Discovery feed and update dialog.",
+      "📱 Feature Previews: Preview screenshots, check app categories, and get direct one-tap store links to try our other top products.",
+      "⚡ Experience Tweaks: Minor UI polishes and smooth screen transition improvements for a faster and cleaner experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
       "id": "3.7.0",
       "force_update": false,
       "title": "🎵 Sonic Atmosphere & Smooth Motion Update! ⚡",
