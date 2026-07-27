@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.7.0",
+    "force_update": false,
+    "title": "🌟 Discover the DevDuo Software Hub!",
+    "message": "We're excited to introduce the DevDuo Software Hub — your new gateway to explore all our top-rated apps, tools, and games in one place!",
+    "points": [
+      "🚀 DevDuo Software Hub: Easily browse, explore, and download other useful apps and games created by our team.",
+      "🎨 Polished Look & Feel: Re-designed cards, sleeker layouts, and smoother animations throughout the app.",
+      "⚡ Performance Tweaks: Engine optimizations for quicker screen loading and smoother app performance."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+  },
+  {
     "id": "1.6.0",
     "force_update": false,
     "title": "⚡ Faster UI & Massive PRO Price Drop!",
