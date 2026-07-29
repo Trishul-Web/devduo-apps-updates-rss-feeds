@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.11.0",
+    "force_update": false,
+    "title": "⏰ Smart Stretch Reminders & Desk Break Alarms! 🧘",
+    "message": "Stay un-stiff throughout your workday! We've introduced customizable stretch reminders to keep your posture tall and your joints feeling great.",
+    "points": [
+      "🔔 Smart Break Intervals: Easily pick how often you want micro-stretch prompts — every 30, 45, 60, 90, or 120 minutes.",
+      "🚀 Background Reliability: Reminders now queue up seamlessly so you never miss a break, even if the app is closed.",
+      "🔄 Auto-Reset Timers: Complete a workout and your break timer automatically resets so you aren't interrupted right away.",
+      "⚙️ Permission Control: Quick system settings access and smart permission checks keep your notifications running smoothly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.10.1",
     "force_update": false,
     "title": "🎨 Frosted Glass Overlays & Web-Link Discovery Pass! ✨",
