@@ -1,5 +1,18 @@
 [
   {
+    "id": "2.0.0",
+    "force_update": false,
+    "title": "⚡ Default 3D Mode & Multi-Layout Deck Update",
+    "message": "Experience a major upgrade to your 3D Vault! Version 2.0.0 introduces custom launch preferences, new view layout modes, improved drawer navigation, and critical vault security fixes.",
+    "points": [
+      "Default 3D Launch: Set the 3D Carousel as your primary launch screen directly from settings or top HUD.",
+      "New View Layouts: Seamlessly switch between Circular 3D, Vertical Reels, and Horizontal Cards modes.",
+      "Quick Select Disk 2.0: Upgraded drawer search and tag filtering for instantaneous file discovery.",
+      "Vault Security Fix: Resolved card detection bugs for locked secure files inside the 3D Carousel Deck."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "1.8.0",
     "force_update": false,
     "title": "🌐 Ecosystem Hub Integration & Discovery Pass",
