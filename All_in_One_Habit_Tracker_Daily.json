@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.7.0",
+    "force_update": false,
+    "title": "📅 Mark Past Events & Custom Date Logging! 🕒",
+    "message": "Never miss a past entry again! You can now easily log past events with our brand new custom date & time picker.",
+    "points": [
+      "🗓️ Custom Date & Time Picker: Tap the calendar icon on any Event Card to record something you did yesterday or earlier!",
+      "🛡️ Smart Date Protection: Built-in safety checks prevent accidentally picking future dates or times.",
+      "✨ Cleaner Card Layout: Enjoy an updated action row on event cards that makes viewing history and logging past entries effortless."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
   "id": "1.6.0",
   "force_update": false,
   "title": "📊 Real-Time Analytics & Brand New Apps Hub! ✨",
