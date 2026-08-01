@@ -1,6 +1,6 @@
 [
   {
-    "id": "1.1.0",
+    "id": "1.0.0",
     "force_update": false,
     "title": "STATION CONTROL & DISPATCH ENHANCEMENTS",
     "message": "Major system operational improvements across all platforms, ticket concourses, and retiring suites.",
@@ -13,7 +13,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.yourcompany.train_traffic_tycoon"
   },
   {
-    "id": "1.0.1",
+    "id": "1.0.0",
     "force_update": false,
     "title": "CRITICAL TACTICAL ENGINE FIX",
     "message": "Mandatory database stability patch required for all active Station Masters.",
