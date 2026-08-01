@@ -1,5 +1,17 @@
 [
   {
+    "id": "8.10.0",
+    "title": "Magic Eraser & Photo Touchup Upgrade",
+    "message": "We added a powerful new Magic Eraser tool to help you clean up finger marks, staple spots, and unwanted objects from your scanned pages instantly!",
+    "force_update": false,
+    "points": [
+      "🪄 Magic Eraser Tool: Drag your finger over any spot, staple mark, or finger edge on your scan to make it disappear instantly.",
+      "⚡ Instant Auto-Clean: Works automatically as soon as you lift your finger—no complex sliders or settings required.",
+      "🛡️ 100% High Resolution: Erases unwanted objects while preserving the original crisp quality of your paper document."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
       "id": "8.9.0",
       "title": "Ecosystem Integration & Brand Showcase",
       "message": "This version introduces our central ecosystem hub layer, providing seamless visibility into our expanding portfolio of games and utilities, alongside refined interface adaptations.",
