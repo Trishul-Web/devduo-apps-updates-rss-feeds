@@ -1,5 +1,18 @@
 [
   {
+    "id": "11.5.0",
+    "force_update": false,
+    "title": "⚡ All-New Developer Tools Tab & Visual Regex Tester! (v11.5.0) 🛠️",
+    "message": "We've added a brand-new Developer Tools Hub to your main navigation bar, featuring an interactive Visual Regex Tester with AI pattern generation!",
+    "points": [
+      "🔍 Visual Regex Tester: Test regular expressions live with instant match highlights, capture group breakdowns, and one-tap preset shortcuts.",
+      "🤖 AI Pattern Generator: Describe what you want to match in simple English, and our AI core will write the exact regex pattern for you.",
+      "💾 Saved History: Bookmark your frequently used regex patterns into local offline database memory for instant reuse anytime.",
+      "🛠️ Dev Tools Hub: Explore our new 2-column utilities tab with quick-launch banners and previews of upcoming developer modules."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.4.0",
     "force_update": false,
     "title": "🚀 Major Loading Fix & Brand New DevDuo Apps Hub! (v11.4.0) 📱",
