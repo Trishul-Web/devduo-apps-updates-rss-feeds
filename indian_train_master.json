@@ -2,9 +2,10 @@
   {
     "id": "1.1.0",
     "force_update": false,
-    "title": "TRAIN ANIMATION FIXES & DISPATCH LOGS",
-    "message": "Key stability improvements for train movement rendering and new in-app system update logs.",
+    "title": "PRO LIFETIME PASS & ANIMATION FIXES",
+    "message": "Key stability improvements for train movement rendering, brand new lifetime ad-free pass, and system update logs.",
     "points": [
+      "👑 Official Pro Lifetime Pass: Unlock 100% Ad-Free privilege across all train halts, ticket multipliers, and retiring suites!",
       "🚂 Smooth Train Animations: Fixed visual stuttering and frozen train movement frames across all tracks.",
       "📜 System Update Logs: Added the 'What's New & Updates' dialog to track patch notes and new features in real time.",
       "⚡ Dispatch Terminal Stability: Performance enhancements and UI optimizations across all station hubs."
