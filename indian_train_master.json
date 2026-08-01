@@ -1,26 +1,14 @@
 [
   {
-    "id": "1.0.0",
-    "force_update": true,
-    "title": "STATION CONTROL & DISPATCH ENHANCEMENTS",
-    "message": "Major system operational improvements across all platforms, ticket concourses, and retiring suites.",
+    "id": "1.1.0",
+    "force_update": false,
+    "title": "TRAIN ANIMATION FIXES & DISPATCH LOGS",
+    "message": "Key stability improvements for train movement rendering and new in-app system update logs.",
     "points": [
-      "🚦 Dispatch Signal Interlocking: Enhanced signal responsiveness and cleared platform lane routing.",
-      "🎟️ Ticket Office Upgrade: Uncapped window expansion and improved passenger flow.",
-      "🏨 Retiring Suites Balance: Optimized continuous passive earnings across Deluxe Cabins.",
-      "⚡ Performance & UI Polish: Fixed frozen animation frames and polished dark HUD interface."
+      "🚂 Smooth Train Animations: Fixed visual stuttering and frozen train movement frames across all tracks.",
+      "📜 System Update Logs: Added the 'What's New & Updates' dialog to track patch notes and new features in real time.",
+      "⚡ Dispatch Terminal Stability: Performance enhancements and UI optimizations across all station hubs."
     ],
-    "url": "https://play.google.com/store/apps/details?id=com.yourcompany.train_traffic_tycoon"
-  },
-  {
-    "id": "1.0.0",
-    "force_update": true,
-    "title": "CRITICAL TACTICAL ENGINE FIX",
-    "message": "Mandatory database stability patch required for all active Station Masters.",
-    "points": [
-      "🛠️ Isar Database Patch: Resolved save state sync issues during heavy traffic dispatch.",
-      "🛡️ Security Interlock: Enhanced state validation to prevent state corruption."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.yourcompany.train_traffic_tycoon"
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager"
   }
 ]
