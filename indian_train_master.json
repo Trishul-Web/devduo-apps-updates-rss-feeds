@@ -14,7 +14,7 @@
   },
   {
     "id": "1.0.1",
-    "force_update": true,
+    "force_update": false,
     "title": "CRITICAL TACTICAL ENGINE FIX",
     "message": "Mandatory database stability patch required for all active Station Masters.",
     "points": [
