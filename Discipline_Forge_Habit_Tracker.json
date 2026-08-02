@@ -1,5 +1,19 @@
 [
   {
+    "id": "4.5.0",
+    "title": "🏆 5 NEW ELITE RANKS & COMPACT DP DISPLAY!",
+    "message": "The Forge mainframe has expanded its boundaries. Scale new heights beyond Titan rank all the way to 1,000,000 DP, enjoy cleaner compact point displays, and experience faster performance! ⚒️🔥",
+    "points": [
+      "🏆 5 New Elite Ranks: Break through the 60K DP limit! Unlock Warlord (100K), Overlord (250K), Immortal (500K), Mythic (750K), and Conqueror (1M).",
+      "📊 Sleek Compact DP Scores: Discipline Points now display in clean K and M formats (e.g., 1.2K, 100K, 1.1M) to save space and look cleaner.",
+      "🌐 Direct DevDuo Store Link: Explore our full suite of apps easily with the new direct Store button in the DevDuo ecosystem hub.",
+      "🛡️ Tightened System Capacities: Free tier limits refined to 3 active Habits, Trackers, Protocols, and Targets to enforce laser-sharp focus.",
+      "⚡ System Optimizations: Smoother screen transitions, faster database loading, and tighter AI action checks for an unshakeable experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
     "id": "4.4.0",
     "title": "🌐 DEVDUO SOFTWARE ECOSYSTEM & UI ENHANCEMENTS!",
     "message": "Explore the full DevDuo Software suite directly inside the Forge! Discover our growing collection of productivity apps and tools built for work, play, and focus. ⚒️🔥",
