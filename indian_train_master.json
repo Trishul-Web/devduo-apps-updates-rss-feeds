@@ -1,5 +1,16 @@
 [
   {
+    "id": "1.1.1",
+    "force_update": true,
+    "title": "CRITICAL FIX: NON-STOP TRAIN BUG",
+    "message": "We've fixed an urgent issue where non-stop trains were failing to stop at stations. Please update now to continue playing smoothly!",
+    "points": [
+      "🚂 Non-Stop Train Fixed: Trains will now properly obey stops and signals as intended.",
+      "⚡ Essential Fixes: Critical background stability improvements to keep your railway running seamlessly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager"
+  },
+  {
     "id": "1.1.0",
     "force_update": false,
     "title": "PRO LIFETIME PASS & ANIMATION FIXES",
