@@ -1,5 +1,18 @@
 [
   {
+    "id": "2.11.0",
+    "force_update": false,
+    "title": "Smart Offline Mode & DevDuo Hub! 🚀⚡",
+    "message": "Never lose your news! This update introduces Smart Offline Mode so you can keep reading even without internet, plus our all-new DevDuo Software Hub.",
+    "points": [
+      "✈️ Smart Offline Mode: Auto-saves your recent news feeds so you can read seamlessly on flights, subways, or low-network areas.",
+      "📚 Offline Vault: Access your auto-saved offline feed anytime with a single tap from your Library.",
+      "📱 DevDuo Software Hub: Easily discover and explore our full collection of apps and games directly from Settings or Library.",
+      "⚡ Faster & Smoother: Enjoy refined layouts, faster offline loading, and minor bug fixes for an uninterrupted reading experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.10.0",
     "force_update": false,
     "title": "Introducing DevDuo Software Hub! 🚀✨",
