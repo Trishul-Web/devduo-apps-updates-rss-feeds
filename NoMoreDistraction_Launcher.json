@@ -1,5 +1,17 @@
 [
   {
+    "id": "8.10.0",
+    "force_update": false,
+    "title": "✨ Introducing Scheduled Auto-Hide! 🕵️‍♂️",
+    "message": "Out of sight, out of mind! You can now set automatic schedules to hide distracting apps during your focus hours and bring them right back when you're done.",
+    "points": [
+      "⏰ Scheduled Auto-Hide: Automatically hide distracting or sensitive apps during work, study, or bedtime, and have them reappear automatically when your schedule ends.",
+      "📅 Flexible Days & Time Ranges: Choose exact start/end times and select specific days for your hiding schedules.",
+      "⚙️ Reorganized Settings Hub: Easily access Digital Wellbeing Stats, App Locks, and Mindful Intercepts in one clean place inside Settings."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.9.0",
     "force_update": false,
     "title": "✨ Introducing DevDuo Software Hub! 🚀",
