@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.2.0",
+    "force_update": false,
+    "title": "NEW TUTORIAL & GAME GUIDE",
+    "message": "We've added a brand-new, easy-to-follow Game Guide! Learn how to manage train signals, handle VIP passengers, and boost your earnings.",
+    "points": [
+      "📖 Interactive Game Guide: Learn step-by-step how to route trains, clear signals, and manage lounges with ease.",
+      "🎟️ Easy Station Rules: Visual guides explaining ticket queues, VIP order manifests, and non-stop express train handling.",
+      "⚙️ Re-watch Anytime: Need a refresher? Access the full game manual anytime directly from the Settings menu!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager"
+  },
+  {
     "id": "1.1.1",
     "force_update": true,
     "title": "CRITICAL FIX: NON-STOP TRAIN BUG",
