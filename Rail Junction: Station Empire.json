@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.7.0",
+    "force_update": false,
+    "title": "📖 New How to Play Guide & Unified Settings! 🚂",
+    "message": "Welcome to Version 1.7.0! We've added an all-new Station Empire Guide to help you master every department, plus a unified Settings menu for easy navigation!",
+    "points": [
+      "📖 Interactive 'How to Play' Guide: Learn the core gameplay loop—collect points from platforms, upgrade shop speeds, manage terminal express fleets, and expand your empire!",
+      "⚙️ All-in-One Settings Menu: Access game controls, background music tracks, feedback support, and the tutorial directly from the top bar gear icon.",
+      "🎮 Discover DevDuo Games: Easily explore our full collection of tycoon, simulation, and strategy games inside the DevDuo tab.",
+      "✨ UI & Visual Upgrades: Smoother card scrolling, responsive screen layouts, and performance improvements across all station screens."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.6.0",
     "force_update": false,
     "title": "👑 Royal Lifetime VIP & DevDuo Software Hub! 🚂",
