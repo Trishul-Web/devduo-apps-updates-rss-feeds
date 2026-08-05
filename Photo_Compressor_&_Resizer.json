@@ -1,5 +1,18 @@
 [ 
   {
+    "id": "1.11.0",
+    "force_update": false,
+    "title": "📐 All-New Image Resizer & Passport Photo Tool! 🚀",
+    "message": "We have added a powerful new Image Resizer tool to Smart Tools! Now you can easily convert any photo into exact pixel dimensions for passport applications, government forms, or social media.",
+    "points": [
+      "🎯 Custom Canvas Resizing: Easily resize photos to exact sizes like 600x600 pixels without distorting your original image.",
+      "🖼️ 3 Placement Modes: Choose Fit Center, Crop Fill, or Stretch for perfect image placement on your canvas.",
+      "⚡ Passport & HD Presets: Instant one-tap presets for standard Passport, Square, and Full HD dimensions.",
+      "👀 Side-by-Side Comparison: See live previews of your original photo alongside the new resized canvas before exporting."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.10.0",
     "force_update": false,
     "title": "🌟 Discover DevDuo Software Hub & New App Experience! 🚀",
