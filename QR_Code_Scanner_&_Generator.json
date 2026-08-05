@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.9.0",
+    "force_update": false,
+    "title": "📷 Instant Live Camera Scanner is Here!",
+    "message": "We've upgraded your app into a full universal scanner! Now you can scan any QR code instantly in real-time using your camera or gallery.",
+    "points": [
+      "📷 Live Camera Scanner: Point your camera at any QR code to decode it instantly without taking photos manually.",
+      "💡 Flashlight & Flip Camera: Built-in torch toggle for scanning in low light and one-tap camera switching.",
+      "⚡ Smart Quick Actions: Open links, send emails, save contacts, and pay via UPI with just one tap."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+  },
+  {
     "id": "1.7.0",
     "force_update": false,
     "title": "🌟 Discover the DevDuo Software Hub!",
