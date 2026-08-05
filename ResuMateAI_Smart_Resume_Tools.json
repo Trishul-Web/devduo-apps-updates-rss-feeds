@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.18.0",
+    "force_update": false,
+    "title": "🎉 New Update: 2 Infinite Challenges Unlocked! 🚀",
+    "message": "Supercharge your career prep! We've added two brand-new Infinite Challenges to help you log interview questions, practice your 60-second elevator pitch out loud, and build a daily streak.",
+    "points": [
+      "🧠 Custom Q&A Vault: Easily store real interview questions, write custom answers, and earn +50 XP daily to build your private interview answer bank.",
+      "🎙️ Elevator Pitch Lab: Draft role-specific 60-second introductions and practice speaking out loud using our new built-in Teleprompter Mode.",
+      "🔥 Lifetime Streak & XP Counters: Track how many total pitches and Q&As you've created over time while keeping your daily streak alive.",
+      "✨ Bug Fixes & Polish: UI layout fixes, smooth text wrapping, and overall performance enhancements for a faster experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.17.0",
     "force_update": false,
     "title": "🎉 New Feature: Discover More DevDuo Apps! ✨",
