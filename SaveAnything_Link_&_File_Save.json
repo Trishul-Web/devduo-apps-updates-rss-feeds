@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.8.1",
+    "force_update": false,
+    "title": "✨ DevDuo Hub Update & Direct Play Store Access! 🚀",
+    "message": "We've made it even easier to connect with us! Now you can visit our official Google Play Store page directly from inside the app.",
+    "points": [
+      "🏪 Play Store Page Button: Added a direct 'Visit Play Store Page' button in the DevDuo Hub so you can easily discover all our apps and games on Google Play.",
+      "🎨 UI Refinements: Enhanced button styles and layouts inside the DevDuo Software Hub for a cleaner look.",
+      "⚡ Performance & Stability: Minor bug fixes to keep your app running fast and smooth."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.8.0",
     "force_update": false,
     "title": "✨ Introducing the DevDuo Software Hub! 🚀",
