@@ -1,5 +1,17 @@
 [
      {
+       "id": "7.9.1",
+       "force_update": false,
+       "title": "✨ What's New in Version 7.9.1",
+       "message": "We’ve made it even easier to connect with us! You can now visit our official Play Store page directly from the DevDuo Hub to explore all our apps.",
+       "points": [
+         "🔗 Direct Store Page Link: Tap the new 'Visit Play Store' button in DevDuo Hub to see all our official apps on Google Play.",
+         "⚡ Smoother Experience: Faster loading and UI polish across the app for a cleaner feel.",
+         "🛠️ Minor Fixes: General stability improvements and quick bug fixes."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider"
+     },
+     {
        "id": "7.9.0",
        "force_update": false,
        "title": "🚀 Introducing DevDuo Software Hub in Version 7.9.0!",
