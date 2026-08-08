@@ -1,5 +1,18 @@
 [
   {
+    "id": "2.7.1",
+    "force_update": false,
+    "title": "🎉 Play Store Hub Button & Offline Improvements! ✨",
+    "message": "We've upgraded our DevDuo Software Hub! You can now jump straight to our official Play Store developer page with a single tap.",
+    "points": [
+      "🌐 Direct Play Store Link: Tap the new 'GO TO PLAYSTORE PAGE' button in the Software Hub to explore all our apps on Google Play.",
+      "📡 Smart Offline Mode: Added cleaner offline error screens and retry options when checking premium plans without internet.",
+      "🎨 Polished Layouts: Refined button alignment and sizing across all screen sizes for a sleeker look.",
+      "⚡ Bug Fixes & Stability: Fixed layout glitches and improved connection error handling."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.7.0",
     "force_update": false,
     "title": "🎉 DevDuo Software Hub & UI Enhancements! ✨",
