@@ -1,5 +1,18 @@
 [
   {
+    "id": "6.5.0",
+    "force_update": false,
+    "title": "🎧 Audio Podcast Mode & Enhanced Story Launcher! 📖",
+    "message": "We have upgraded SkillSprint with hands-on Audio Podcast support, a flexible Story Mode selector, and seamless progress tracking across all study modes!",
+    "points": [
+      "🎧 Audio Podcast Learning: Listen to your course modules on the go with real-time text sync and karaoke highlights.",
+      "📖 Flexible Story Mode Launcher: Launch Story Mode directly from where you left off or select any specific module and lesson you want to practice.",
+      "🔄 Unified Progress Sync: Progress seamlessly syncs across Quiz, Story, and Podcast modes so your hard work is always recorded.",
+      "⚡ Faster Performance: Smoother transitions, enhanced premium locks, and general stability improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.4.0",
     "force_update": false,
     "title": "🚀 Introducing DevDuo Software Hub & Theme Upgrades! 📱",
