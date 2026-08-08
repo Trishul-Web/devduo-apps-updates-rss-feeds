@@ -1,5 +1,17 @@
 [
   {
+    "id": "3.9.0",
+    "force_update": false,
+    "title": "⚡ Smoother Performance & Store Improvements! 🚀",
+    "message": "We've made Tymio even better! This update fixes store connection issues and makes exploring our full app collection seamless.",
+    "points": [
+      "🛒 Reliable Pro Unlocks: Fixed product loading issues so subscription and lifetime options show up seamlessly across all devices.",
+      "📲 Direct Play Store Access: Added a 'Visit Play Store Page' button in the DevDuo Software Hub so you can browse all our apps on the Play Store with one tap.",
+      "⚙️ Extra Stability & Fixes: Made under-the-hood performance tweaks to keep the app fast, reliable, and smooth."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.8.0",
     "force_update": false,
     "title": "🌐 DevDuo Software Hub & Apps Showcase! 🚀",
