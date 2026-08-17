@@ -1,5 +1,19 @@
 [
   {
+    "id": "2.1.0",
+    "force_update": false,
+    "title": "📱 Home Screen Widgets & Quick Access Update",
+    "message": "Access your essential cards faster than ever! Version 2.1.0 brings Home Screen Widgets, privacy-first vault shortcuts, and a refined premium experience.",
+    "points": [
+      "Home Screen Widgets: Pin any card directly to your launcher for instant 1-tap access to your 3D viewer.",
+      "Smart Privacy Lock: Locked cards automatically stay hidden behind a secure biometric screen on your home screen.",
+      "Independent Card Widgets: Pin multiple cards simultaneously—each widget scales and manages its own security state.",
+      "Quick 1-Tap Restore: Easily restore prior purchases directly from the upgraded Premium screen with instant confirmation.",
+      "Performance Boost: Faster cold starts and seamless direct card loading when opening from widgets."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "2.0.0",
     "force_update": false,
     "title": "⚡ Default 3D Mode & Multi-Layout Deck Update",
