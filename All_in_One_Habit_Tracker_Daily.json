@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.8.0",
+    "force_update": false,
+    "title": "📱 Interactive Home Screen Widgets are Here! ⚡",
+    "message": "Track your habits and events directly from your home screen without even opening the app!",
+    "points": [
+      "⚡ 1-Tap Home Screen Tracking: Tap '+' or '−' on your widget to update habits instantly, or tap 'Mark Done' on events with 0ms delay!",
+      "📜 Scrollable Event History: View your latest activity right on your home screen with a smooth, scrollable history list.",
+      "🎯 1-Tap Widget Pinning: Open the 3-dot menu on any Habit, Event, or Milestone card to add its custom widget directly to your phone's home screen.",
+      "💎 Exclusive PRO Price Drop: Celebrate this massive release with our newly reduced lifetime PRO price!",
+      "🚀 Zero Lag & Resizable: Fully resizable widgets with smooth performance that keeps your daily progress in sync."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
     "id": "1.7.0",
     "force_update": false,
     "title": "📅 Mark Past Events & Custom Date Logging! 🕒",
