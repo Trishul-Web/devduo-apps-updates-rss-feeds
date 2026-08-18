@@ -1,5 +1,19 @@
 [
   {
+    "id": "11.7.0",
+    "force_update": false,
+    "title": "⚡ Smoother Workspaces & Navigation Fixes! (v11.7.0) 🛠️",
+    "message": "We have fixed workspace navigation issues and polished app performance to give you a clean, uninterrupted coding experience.",
+    "points": [
+      "🎯 Fixed Screen Jumping: Your active code stay locked in place—no more accidental jumps between screens.",
+      "📁 Better File Separation: Easily switch between your device files and GitHub repos without any confusion.",
+      "🔄 Instant Cloud Sync: Refresh your remote GitHub branch files anytime with a single tap.",
+      "🎉 Special Pricing Celebration: Enjoy slashed prices on all our Premium plans for a limited time!",
+      "⚡ Stability & Speed: Smoother bottom bar transitions and faster project loading."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.6.0",
     "force_update": false,
     "title": "⚡ Smoother Code Execution & Smarter Error Detection! (v11.6.0) 🛠️",
