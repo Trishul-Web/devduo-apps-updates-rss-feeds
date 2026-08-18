@@ -1,5 +1,18 @@
 [
   {
+    "id": "8.11.0",
+    "title": "Password-Protected PDF Vault & Encrypted Sharing",
+    "message": "You can now lock your sensitive documents with a private password and share them securely using our new self-unlocking Encrypted Vault!",
+    "force_update": false,
+    "points": [
+      "🔒 Encrypted Vault Sharing: Protect Passports, Tax files, and IDs with a custom secret key before sharing.",
+      "🌐 Universal Browser Unlock: The person receiving your file can open and unlock it directly on Chrome, Safari, or any computer browser.",
+      "🛡️ 100% Offline & Private: Documents are encrypted locally on your phone—no accounts or internet upload required.",
+      "⚡ Instant Decryption: Clean preview and instant download once the recipient types the correct password."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
     "id": "8.10.0",
     "title": "Magic Eraser & Photo Touchup Upgrade",
     "message": "We added a powerful new Magic Eraser tool to help you clean up finger marks, staple spots, and unwanted objects from your scanned pages instantly!",
