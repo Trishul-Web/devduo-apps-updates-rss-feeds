@@ -1,5 +1,18 @@
 [
   {
+    "id": "6.12.0",
+    "force_update": false,
+    "title": "🔒 Lock & Protect Confidential PDFs!",
+    "message": "Your private documents just got a major security upgrade. Lock any PDF or project with biometrics or a custom passcode in seconds.",
+    "points": [
+      "🔐 Biometric & PIN Lock: Secure files instantly using your phone's Fingerprint, Face Unlock, or Screen Lock PIN.",
+      "🔑 Custom App Passcode: Set a standalone password for individual confidential files and editable projects.",
+      "🛡️ Full Tamper Protection: Passcodes cannot be removed or modified without verifying the original lock first.",
+      "🎉 Special Lifetime PRO Offer: Enjoy permanently lowered prices on our full premium toolkit!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.10.0",
     "force_update": false,
     "title": "🚀 Introducing the DevDuo Apps Hub!",
