@@ -1,5 +1,19 @@
 [
   {
+    "id": "4.6.0",
+    "title": "⚡ SMOOTHER TASK CREATION & CALENDAR TIMELINE JUMP!",
+    "message": "We have smoothed out task setup from AI chat, added instant calendar jumping from your history logs, and improved calendar navigation across your journey! ⚒️🔥",
+    "points": [
+      "🛠️ Fixed AI Task Creation: The 'Review & Create' button now works seamlessly when creating Tasks, Habits, Trackers, and Timeline targets directly from AI chat.",
+      "📅 Tap-to-Jump Date History: Tap any past task in your Chronological History to immediately jump your main calendar right to that exact day.",
+      "🗓️ Centered Month & Year Display: Easily see which month and year you are browsing directly below your daily calendar dates.",
+      "💎 Reduced Premium Rates: We have lowered subscription pricing so you can unlock unlimited protocols, offline AI, and an ad-free experience for less.",
+      "🚀 Performance & Stability Fixes: Smoother screen animations, faster layout transitions, and overall stability improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
     "id": "4.5.0",
     "title": "🏆 5 NEW ELITE RANKS & COMPACT DP DISPLAY!",
     "message": "The Forge mainframe has expanded its boundaries. Scale new heights beyond Titan rank all the way to 1,000,000 DP, enjoy cleaner compact point displays, and experience faster performance! ⚒️🔥",
