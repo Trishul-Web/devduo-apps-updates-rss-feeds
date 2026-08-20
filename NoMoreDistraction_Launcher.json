@@ -1,5 +1,18 @@
 [
   {
+    "id": "8.11.0",
+    "force_update": false,
+    "title": "📝 Built-in Notes & Daily Todos are here! ✅",
+    "message": "Stay focused without opening distracting apps! You can now jot down quick notes and track your daily tasks directly on your home screen.",
+    "points": [
+      "📝 Quick Home Screen Notes: Save thoughts instantly right from your search bar. Create custom category tabs (like Work, Study, or Ideas), tap to edit, or copy notes in one click.",
+      "✅ Built-in Todo List: Add tasks instantly by typing 'todo your task' or 'todo -n [name] task'. Check off completed items directly on your home screen.",
+      "⚡ Quick Access Tabs: Easily switch between your Web Search, Notes, and Todo lists from the top navigation bar.",
+      "🎉 Big PRO Price Drop: We've reduced our Lifetime PRO plan prices so you can unlock custom themes, unlimited rules, and custom backgrounds at our lowest price ever!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.10.0",
     "force_update": false,
     "title": "✨ Introducing Scheduled Auto-Hide! 🕵️‍♂️",
