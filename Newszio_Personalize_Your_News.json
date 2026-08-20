@@ -1,5 +1,20 @@
 [
   {
+    "id": "2.12.0",
+    "force_update": false,
+    "title": "Offline AI Voice Reader is Here! 🎙️✨",
+    "message": "Now you can listen to your favorite news stories hands-free, even in Offline Reader Mode! Enjoy natural voice narration with live word-by-word tracking.",
+    "points": [
+      "🎙️ AI Audio in Reader Mode: Listen to any saved article with natural AI narration directly inside Reader Mode.",
+      "✨ Live Word Highlighting: Watch text highlight word-by-word in real time as the story is read aloud.",
+      "📜 Smooth Auto-Scroll: Hands-free reading that automatically scrolls and keeps the speaking text centered for you.",
+      "🎚️ Speed & Voice Selector: Easily adjust reading speed (1.0x, 1.5x, 2.0x) and pick your preferred narrator voice.",
+      "💎 Lower Premium Prices: We have permanently reduced our Premium plan pricing for unlimited lifetime access.",
+      "⚡ Bug Fixes & Polish: Smoother transitions, faster article loading, and improved audio stability."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.11.0",
     "force_update": false,
     "title": "Smart Offline Mode & DevDuo Hub! 🚀⚡",
