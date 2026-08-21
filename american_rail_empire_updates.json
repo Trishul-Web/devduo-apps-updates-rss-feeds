@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1.0.1",
+    "force_update": false,
+    "title": "🚂 Daily Reward Hub & Fleet Depot Update! (v1.0.1)",
+    "message": "We have introduced a redesigned Daily Reward Hub featuring real Express Charters and multi-stage fleet depot projects, plus major game performance polish!",
+    "points": [
+      "🎁 Daily VIP Express Dispatches: Dispatch up to 5 daily VIP charter trains to earn mystery cash bounties from $50K up to $1.0M.",
+      "🛠️ Assembly Rail Depot: Build and complete custom passenger and freight rakes step-by-step to earn large cash payouts.",
+      "⏰ Midnight Auto-Reset: Daily dispatches and assembly projects refresh automatically every day at 12:00 AM.",
+      "✨ Smooth Train Departures: Animated train departures across stations and depots with full audio effects.",
+      "🛡️ Stability & Progress Persistence: Instant cloud and local saves to ensure all player coins, unlocked platforms, and custom fleet trains remain secure."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire"
+  },
+  {
+    "id": "1.0.0",
+    "force_update": false,
+    "title": "🎉 Welcome to American Rail Empire!",
+    "message": "Step into the conductor booth and build America's greatest railroad network from the ground up!",
+    "points": [
+      "🚉 Central Station Management: Accept passenger and freight routes and manage platform departures in real time.",
+      "🏗️ Train Factory & Custom Rakes: Assemble custom locomotives, coaches, parcel vans, and heavy cargo haulers.",
+      "💰 Upgrades & Fleet Depot: Expand platform slots, unlock unique building styles, and customize track models."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire"
+  }
+]
