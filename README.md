@@ -31,6 +31,11 @@
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/All_in_One_Habit_Tracker_Daily.json"><font size="1">📡 Feed</font></a>
     </td>
     <td align="center" width="16.66%">
+      <img src="https://play-lh.googleusercontent.com/XGvxinG9LvvPemw4cQTjVK3yImU9smdzmFGOD4_SHDEg1r3EAy-T-ZfpWlWXR3sHqYARWsktfgwKIpSENI5N6g=s256-rw" width="100" height="100"><br>
+      <font size="1"><b>American Rail Empire</b></font><br>
+      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/american_rail_empire_updates.json"><font size="1">📡 Feed</font></a>
+    </td>
+    <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/exFCMg3IKVv6jqjfUlT5-ikRQUI3x2enIRYvNRKNg_AVTPDFRgOVGDU10C5Gj5PZfb9D3kz2fOgTzYHVpux92Q=s512-rw" width="100" height="100"><br>
       <font size="1"><b>DevDuo IDE: AI Code Editor</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/update.json"><font size="1">📡 Feed</font></a>
