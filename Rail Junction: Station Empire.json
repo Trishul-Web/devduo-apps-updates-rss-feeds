@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.8.0",
+    "force_update": false,
+    "title": "🎁 Daily Rewards Hub & Offline Earnings! 🚂",
+    "message": "Welcome to Version 1.8.0! We've launched an all-new Daily Rewards Hub, passive offline earnings when you're away, and major performance optimizations!",
+    "points": [
+      "🎁 Daily Rewards Hub: Dispatch 5 daily express rakes or build custom depot trains to earn massive bonus point pools!",
+      "💰 Offline Returns: Earn points while you are away from the game (10 mins to 24 hours max) with a free 2X boost option!",
+      "🚀 VIP Pass Direct Store: Quick access to discount offers and lifetime VIP passes directly inside the Bank Shop.",
+      "⚡ Performance & Stability: Smoother train movement, bug fixes, and layout optimizations across all station screens."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.7.0",
     "force_update": false,
     "title": "📖 New How to Play Guide & Unified Settings! 🚂",
