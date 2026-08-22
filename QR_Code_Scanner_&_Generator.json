@@ -1,5 +1,18 @@
 [
   {
+    "id": "2.0.0",
+    "force_update": false,
+    "title": "📦 Bulk Batch QR Generator is Here!",
+    "message": "Need multiple QR codes for your shop, tables, or events? Create dozens of branded QR codes at once and download them all in a single ZIP file!",
+    "points": [
+      "📦 Create in Bulk: Add multiple links, Wi-Fi networks, contacts, or UPI amounts and generate them together in seconds.",
+      "📁 1-Tap ZIP Export: Export your entire batch of custom QR codes packaged neatly into a single ZIP file to share anywhere.",
+      "🖼️ Save All to Gallery: Download all your batch codes directly to your phone's photo gallery with one tap.",
+      "🗂️ Clean Batch History: Your batch creations are now neatly organized into single entries in history so you can edit and reuse them anytime."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+  },
+  {
     "id": "1.9.0",
     "force_update": false,
     "title": "📷 Instant Live Camera Scanner is Here!",
