@@ -1,5 +1,19 @@
 [ 
   {
+    "id": "1.12.0",
+    "force_update": false,
+    "title": "✨ All-New No-Crop Blur Canvas Studio! 📸",
+    "message": "Never crop your favorite photos again! Fit any picture into Instagram Square (1:1), Story (9:16), or Wide (16:9) formats with beautiful blurred backgrounds.",
+    "points": [
+      "🎨 No-Crop Smart Canvas: Fit your whole photo into square, story, or banner sizes without cutting anything out.",
+      "✨ Dynamic Blur Background: Fills borders with a soft, natural blur of your original picture.",
+      "🌈 Color & Transparency: Switch between dynamic blur, solid colors, or transparent PNG canvases in one tap.",
+      "⚡ Batch & Custom Mode: Style all your photos together or give each photo its own unique size and look.",
+      "👀 Live Instant Preview: Tap and hold to compare original and new canvases before saving to gallery."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.11.0",
     "force_update": false,
     "title": "📐 All-New Image Resizer & Passport Photo Tool! 🚀",
