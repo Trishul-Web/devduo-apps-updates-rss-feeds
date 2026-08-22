@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.2.0",
+    "force_update": false,
+    "title": "💎 Version 1.2.0 • VIP Rail Store & Flash Deals!",
+    "message": "An exciting update introducing our brand new VIP Rail Store, secret scratch deals, instant ad-skipping, and extra smooth gameplay!",
+    "points": [
+      "💎 VIP Rail Store: Unlock Lifetime VIP Access to enjoy a completely ad-free experience with maximum rewards!",
+      "🎟️ Secret Scratch Deals: Scratch for special limited-time discounts on permanent VIP passes.",
+      "⚡ Instant Ad-Free Rewards: VIP members automatically skip all video ads and claim rewards instantly.",
+      "🚀 Smoother Gameplay: Improved app performance and train animations for a seamless 60 FPS experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire"
+  },
+  {
     "id": "1.1.0",
     "force_update": false,
     "title": "🎉 Version 1.1.0 • Daily Rewards & DevDuo Hub!",
