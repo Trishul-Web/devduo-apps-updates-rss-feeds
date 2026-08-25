@@ -1,5 +1,20 @@
 [
      {
+       "id": "7.10.0",
+       "force_update": false,
+       "title": "✨ What's New in Version 7.10.0",
+       "message": "You can now create complete offline backups of your entire vault and restore your files, folders, and tags anytime with full encryption safety!",
+       "points": [
+         "📦 Vault Backup & Export: Save all your encrypted files, folders, and tags into a single secure backup file (.sfkpbak) directly to your device or share it safely.",
+         "📥 One-Tap Restore: Easily restore all your files and folder structures onto any device using your Master Key.",
+         "🛡️ Smart Duplicate Protection: Restoring files never replaces or deletes existing ones—duplicates are automatically organized safely.",
+         "☁️ Automatic Cloud Sync: Restored files automatically sync with your private Google Drive backup.",
+         "⚡ Live Progress Bar: Real-time percentage indicator and file tracker for faster, smoother backup processing.",
+         "🛠️ Stability & Polish: Fixed layout glitches, improved memory handling, and boosted overall performance."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider"
+     },
+     {
        "id": "7.9.1",
        "force_update": false,
        "title": "✨ What's New in Version 7.9.1",
