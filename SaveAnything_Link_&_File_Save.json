@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.9.0",
+    "force_update": false,
+    "title": "🔒 Private Vault Lock & Passcode Protection! 🛡️",
+    "message": "Keep your personal items completely private! You can now secure your links, files, images, and notes behind a master passcode.",
+    "points": [
+      "🔐 Lock Anything: Easily lock individual items or entire folders with a 4-digit Master PIN.",
+      "🛡️ Auto-Lock Protection: Your locked items automatically secure themselves the moment you close or minimize the app.",
+      "🔑 Secret Recovery Key: Never lose access—reset your passcode anytime using your custom security question.",
+      "🎲 Private Vault Roulette: Locked items stay hidden in the Roulette reel until you choose to unlock them.",
+      "✨ Performance & UI Improvements: Smoother animations, updated security indicators, and bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.8.1",
     "force_update": false,
     "title": "✨ DevDuo Hub Update & Direct Play Store Access! 🚀",
