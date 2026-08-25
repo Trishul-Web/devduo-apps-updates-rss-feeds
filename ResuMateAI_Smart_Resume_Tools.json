@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.19.1",
+    "force_update": false,
+    "title": "🚩 New Update: Resume Red Flag Detector! 🚀",
+    "message": "Find out what might get your resume rejected before recruiters see it! We've added a powerful Red Flag Detector and made the entire app smoother and faster.",
+    "points": [
+      "🚩 Resume Red Flag Audit: Instantly detect risky mistakes like generic goals, buzzwords without numbers, and weak bullet points with clear, actionable fix advice.",
+      "🛡️ Rejection Risk Score: See your resume's overall risk rate (0-100%) so you can polish it before submitting job applications.",
+      "⚡ Ultra-Smooth Performance: Polished transitions, faster PDF preview loading, and seamless navigation between tools and editors.",
+      "✨ Bug Fixes & Stability: Fixed layout glitches, improved dialog handling, and enhanced overall app speed."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.18.0",
     "force_update": false,
     "title": "🎉 New Update: 2 Infinite Challenges Unlocked! 🚀",
