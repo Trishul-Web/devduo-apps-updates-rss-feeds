@@ -1,5 +1,19 @@
 [
   {
+    "id": "6.6.0",
+    "force_update": false,
+    "title": "📝 Module Test Series & Grand Exams are Here! 🏆",
+    "message": "Test your knowledge like never before with our all-new Module Test Series, Grand Final Exams, and smarter interactive quizzes!",
+    "points": [
+      "📝 Module Test Series: Take dedicated milestone tests at the end of each module to lock in what you have learned.",
+      "🏆 Grand Final Exam: Complete 100% of any course to unlock the full-length comprehensive final exam.",
+      "💡 Smarter Hint Overlays: Interactive ghost text previews now guide you through paragraph writing and sentence-builder challenges.",
+      "🚀 Seamless Learning Flow: Auto-advance seamlessly into the next lesson or test without losing your study momentum.",
+      "✨ Better Performance: Smoother matching exercises, reduced premium rates, and UI polish across all 200+ courses."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.5.0",
     "force_update": false,
     "title": "🎧 Audio Podcast Mode & Enhanced Story Launcher! 📖",
