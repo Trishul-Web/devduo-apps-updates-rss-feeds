@@ -1,4 +1,32 @@
 [
+  [
+  {
+    "id": "2.8.0",
+    "force_update": false,
+    "title": "🎉 Clean Text & Markdown Extractor! 📝",
+    "message": "Turn any website into perfectly formatted text for your notes! We've added a powerful new extraction tool for students, developers, and researchers.",
+    "points": [
+      "📝 Clean Text Extraction: Strip away ads and clutter. Instantly grab the pure readable text from any webpage.",
+      "💻 Markdown Ready: Grab raw Markdown code to paste directly into Notion, Obsidian, or your favorite note app.",
+      "📋 Smart Copy: Toggle between Clean Reading View and Markdown mode to copy exactly what your eyes see.",
+      "🎁 Special Promos: We've added exclusive, massive flash discounts for new users upgrading to Lifetime Premium!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
+    "id": "2.7.1",
+    "force_update": false,
+    "title": "🎉 Play Store Hub Button & Offline Improvements! ✨",
+    "message": "We've upgraded our DevDuo Software Hub! You can now jump straight to our official Play Store developer page with a single tap.",
+    "points": [
+      "🌐 Direct Play Store Link: Tap the new 'GO TO PLAYSTORE PAGE' button in the Software Hub to explore all our apps on Google Play.",
+      "📡 Smart Offline Mode: Added cleaner offline error screens and retry options when checking premium plans without internet.",
+      "🎨 Polished Layouts: Refined button alignment and sizing across all screen sizes for a sleeker look.",
+      "⚡ Bug Fixes & Stability: Fixed layout glitches and improved connection error handling."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  }
+]
   {
     "id": "2.7.1",
     "force_update": false,
