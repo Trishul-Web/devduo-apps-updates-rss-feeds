@@ -1,5 +1,19 @@
 [
   {
+    "id": "2.2.0",
+    "force_update": false,
+    "title": "🔄 Smooth 180° Flip & Motion Update",
+    "message": "Flipping your cards is now smoother than ever! Version 2.2.0 introduces fluid 180° flip animations, tactile haptic response, and overall performance enhancements.",
+    "points": [
+      "Instant 180° Flip: Tap the flip tool to smoothly spin directly between front and back without manual dragging.",
+      "Fluid Motion Physics: Replaced abrupt snap transitions with cinematic, natural rotation curves.",
+      "Tactile Haptic Feedback: Feel satisfying micro-vibrations when your card turns over.",
+      "Better Studio Handling: Auto-pauses continuous rotation cleanly when inspecting card details.",
+      "Performance Polishing: Smoother rendering and reduced memory usage inside the 3D Studio."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "2.1.0",
     "force_update": false,
     "title": "📱 Home Screen Widgets & Quick Access Update",
