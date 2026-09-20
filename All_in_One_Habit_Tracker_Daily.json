@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.9.0",
+    "force_update": false,
+    "title": "⚡ Multi-Widget Upgrades & Instant Sync! 📱",
+    "message": "You can now add multiple different habit and event widgets to your home screen side-by-side without them mixing up!",
+    "points": [
+      "📱 Multiple Widgets Support: Pin as many habits as you want (Water, Workout, Meditation) — each widget now stays separate and tracks independently!",
+      "⚡ Instant Live Sync: Any update you make inside the app now shows up on your home screen widget right away.",
+      "🎯 Fixed Widget Overlap: Milestones, Events, and Daily Habits now maintain their own dedicated slots perfectly.",
+      "🛡️ Smoother App Flow: Balanced ad timings with cooldown protection to keep your tracking fast and distraction-free.",
+      "✨ Better Stability: General bug fixes and background improvements for a seamless daily experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
     "id": "1.8.0",
     "force_update": false,
     "title": "📱 Interactive Home Screen Widgets are Here! ⚡",
