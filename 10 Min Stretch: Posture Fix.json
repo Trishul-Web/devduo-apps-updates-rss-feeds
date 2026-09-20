@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.14.0",
+    "force_update": false,
+    "title": "⚡ Faster, Smoother & More Responsive! 🚀",
+    "message": "We tuned up the engine to make your stretching sessions lighter, faster, and completely seamless.",
+    "points": [
+      "⚡ Instant Screen Loads: Move between routines, stats, and your daily flow with zero lag.",
+      "⏱️ Smoother Timer Flow: Polished workout timers and rest transitions that run silky smooth.",
+      "🔋 Lighter on Your Phone: Optimized background memory so the app stays cool, fast, and battery-friendly.",
+      "🛡️ Stability Improvements: Squashed minor bugs and fine-tuned app responsiveness across all screens."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.13.0",
     "force_update": false,
     "title": "🌟 DevDuo Apps Hub & Stretch Time Controls! ⏱️",
