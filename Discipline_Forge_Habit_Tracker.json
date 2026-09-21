@@ -1,5 +1,19 @@
 [
   {
+    "id": "4.7.0",
+    "title": "⚡ FOCUS TASKS, FIELD NOTES & DAILY CHECKLIST FIXES!",
+    "message": "We have upgraded your Battle Timer with built-in to-do checklists and personal notes, made it easier to extend your focus sessions, and fixed daily subtask resets! ⚒️🔥",
+    "points": [
+      "📝 In-Timer Tasks & Notes: Tap your active task or the TASKS button in the timer to instantly view your to-do items, jot down thoughts, and log notes while you focus.",
+      "⏱️ Quick Time Extension: Easily increase your target time directly inside the timer circle whenever you need to stretch your session further.",
+      "🔄 Automatic Subtask Reset Fix: Daily habit checklists now reset properly every morning so you can start fresh every day without manual unchecking.",
+      "🛡️ Structured 30-Min Focus Blocks: Free sessions are optimized for focused 30-minute intervals to maximize concentration and avoid burnout.",
+      "🎯 Zen & Lockdown Enhancements: Smoother device rotation handling and cleaner active task indicators in full-screen focus modes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
     "id": "4.6.0",
     "title": "⚡ SMOOTHER TASK CREATION & CALENDAR TIMELINE JUMP!",
     "message": "We have smoothed out task setup from AI chat, added instant calendar jumping from your history logs, and improved calendar navigation across your journey! ⚒️🔥",
