@@ -1,5 +1,19 @@
 [
   {
+    "id": "11.8.0",
+    "force_update": false,
+    "title": "⚡ Reliable Downloads & Visual Code Flow! (v11.8.0) 🛠️",
+    "message": "We've squashed the offline AI model download bugs everyone hit, and shipped a brand-new way to actually see your code.",
+    "points": [
+      "🔧 Fixed Offline AI Downloads: Resolved connection drops and resets — downloads now auto-retry and recover when your network hiccups.",
+      "🧩 NEW: Code Flow Diagrams: Instantly visualize any function or file as an interactive flowchart, including embedded HTML/JS.",
+      "📤 Share Your Flowcharts: Export diagrams as beautifully branded images and share them anywhere in one tap.",
+      "🎨 Smarter Diagram Layout: Switch between side-by-side or stacked views, resize panels, and sync taps between code and diagram.",
+      "⚡ Smoother Ads: Fine-tuned ad timing so it never interrupts fast, active use."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.7.0",
     "force_update": false,
     "title": "⚡ Smoother Workspaces & Navigation Fixes! (v11.7.0) 🛠️",
