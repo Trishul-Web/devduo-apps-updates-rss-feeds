@@ -1,5 +1,20 @@
 [
   {
+    "id": "6.13.0",
+    "force_update": false,
+    "title": "🎨 Smarter, Safer PDF Editing!",
+    "message": "This update makes editing PDFs more reliable and gives you finer control over every change you make — plus a safety net so you never lose your work by accident.",
+    "points": [
+      "🛑 Unsaved Changes Warning: Closing the editor now asks before discarding your work, so accidental taps can never wipe out your edits again.",
+      "🎯 Precise Resizing: Pinch-to-zoom has been replaced with simple +/- buttons for exact control when resizing text, images, and signatures.",
+      "📋 New 'Added Items' Panel: See every text box, image, and signature you've added in one place, and edit, resize, or remove them instantly.",
+      "✍️ Multi-Line Text: Text boxes now support line breaks, and font size can be reduced all the way down to 0.",
+      "🐞 Fixed a bug where edit and delete buttons became hard to tap after shrinking an item.",
+      "⚡ Under-the-hood stability and performance improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.12.0",
     "force_update": false,
     "title": "🔒 Lock & Protect Confidential PDFs!",
