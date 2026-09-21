@@ -1,5 +1,20 @@
 [
   {
+    "id": "8.12.0",
+    "title": "Batch Actions for Multiple Pages",
+    "message": "Managing multiple scanned pages just got way easier — select, delete, or export several pages at once!",
+    "force_update": false,
+    "points": [
+      "🗂️ Multi-Select Pages: Long-press any page thumbnail to select multiple pages at once.",
+      "📄 Bulk PDF Export: Combine all your selected pages into a single PDF instantly.",
+      "🖼️ Bulk Image Export: Save or share selected pages as individual image files.",
+      "✏️ Bulk Rename & Export: Rename and export selected pages as separate PDFs, all in one step.",
+      "⚡ Smarter Ads: Enjoy smoother scanning with fewer, better-timed ad interruptions.",
+      "🛠️ Fixed: New scans now instantly show their preview image in your Projects list."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
     "id": "8.11.0",
     "title": "Password-Protected PDF Vault & Encrypted Sharing",
     "message": "You can now lock your sensitive documents with a private password and share them securely using our new self-unlocking Encrypted Vault!",
