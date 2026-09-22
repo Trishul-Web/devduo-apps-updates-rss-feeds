@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.3.0",
+    "force_update": false,
+    "title": "💰 Version 1.3.0 • Cheaper Upgrades!",
+    "message": "Great news, Conductor! We've slashed the prices across the entire game so you can grow your rail empire faster and easier than ever before.",
+    "points": [
+      "💵 Lower Prices Everywhere: Engines, coaches, freight cars, and parcel vans now cost much less to buy.",
+      "🏗️ Cheaper Station Upgrades: Buildings, tracks, and platform styles are now easier to afford.",
+      "🚉 Affordable Platform Expansion: Unlocking new platforms costs a lot less now.",
+      "🔧 Cheaper Train Building: Assembling and editing trains now costs less cash.",
+      "🚀 Grow your empire faster and spend more time running trains, not saving up!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire"
+  },
+  {
     "id": "1.2.0",
     "force_update": false,
     "title": "💎 Version 1.2.0 • VIP Rail Store & Flash Deals!",
