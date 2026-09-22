@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.4.0",
+    "force_update": false,
+    "title": "UPGRADE PRICES REDUCED!",
+    "message": "You asked, we listened! We've lowered the cost of upgrades across the entire station so you can grow your railway empire faster and easier.",
+    "points": [
+      "💰 Lower Prices Everywhere: All ticket counter, station, recliner, lounge, and cabin upgrades now cost less to purchase.",
+      "🚉 Faster Early Progress: Get your first few upgrades much quicker without breaking the bank.",
+      "📈 Same Great Long-Term Growth: The upgrade pacing for advanced players stays just as rewarding as before.",
+      "🙏 Thanks for the Feedback: This update comes directly from player suggestions — keep telling us what you think!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager"
+  },
+  {
     "id": "1.3.0",
     "force_update": false,
     "title": "ROYAL REWARD VAULT & CARGO MISSIONS",
