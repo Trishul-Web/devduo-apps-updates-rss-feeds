@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.9.0",
+    "force_update": false,
+    "title": "💰 Lower Prices, Faster Progress! 🚂",
+    "message": "Welcome to Version 1.9.0! You asked, we listened — nearly every upgrade in the game is now much cheaper, so you can grow your railway empire faster right from the start!",
+    "points": [
+      "💸 Major Price Cuts: Upgrade costs across trains, platforms, shops, terminals, and maintenance yards have been reduced by up to 75%!",
+      "🚀 Faster Early Game: Unlock new sections and upgrades much sooner without long grinding waits.",
+      "⚖️ Balanced Growth: Later upgrades still scale up in cost, so the game stays fun and rewarding as your empire grows.",
+      "🛠️ General Improvements: Fixed pricing inconsistencies and cleaned up in-game cost displays for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.8.0",
     "force_update": false,
     "title": "🎁 Daily Rewards Hub & Offline Earnings! 🚂",
