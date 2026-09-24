@@ -1,34 +1,27 @@
 [
   {
-    "id": "1.2.1",
+    "id": "1.1.0",
     "force_update": false,
-    "title": "🚆 Version 1.0.1 • Launch Release",
-    "message": "Welcome to Indian Rail Shunter!",
+    "title": "🚆 Version 1.1.0 • Cheaper Upgrades & More!",
+    "message": "Big news, Station Master! Upgrades are now cheaper, so you can grow your station faster. The game will also tell you when new updates arrive.",
     "points": [
-      "🚉 Shunt rakes between yard and platforms.",
-      "🚂 Freight corridor flybys and daily rewards."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
-  },  
-  {
-    "id": "1.1.1",
-    "force_update": true,
-    "title": "🚆 Version 1.0.1 • Launch Release",
-    "message": "Welcome to Indian Rail Shunter!",
-    "points": [
-      "🚉 Shunt rakes between yard and platforms.",
-      "🚂 Freight corridor flybys and daily rewards."
+      "💰 Cheaper Upgrades: Shunters, revenue boosts, yard lines and station modules now cost less.",
+      "🔔 Update Alerts: Get notified when a new version is ready and see what's new.",
+      "📱 DevDuo Apps Hub: Find more apps and games from DevDuo in Station Settings.",
+      "🛠️ Small fixes and improvements for a smoother game."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
   },
   {
-    "id": "1.0.0",
+    "id": "1.0.1",
     "force_update": false,
-    "title": "🚆 Version 1.0.1 • Launch Release",
-    "message": "Welcome to Indian Rail Shunter!",
+    "title": "🚉 Version 1.0.1 • First Release",
+    "message": "Welcome to Indian Rail Shunter! Run your own busy Indian railway station.",
     "points": [
-      "🚉 Shunt rakes between yard and platforms.",
-      "🚂 Freight corridor flybys and daily rewards."
+      "🚂 Shunt coaches between the yard and platforms.",
+      "🚆 Receive trains, swap engines and send them on their way.",
+      "📦 Watch freight trains fly through the corridor.",
+      "🎁 Collect daily rewards and upgrade your station."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
   }
