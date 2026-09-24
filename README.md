@@ -58,6 +58,11 @@
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Discipline_Forge_Habit_Tracker.json"><font size="1">📡 Feed</font></a>
     </td>
     <td align="center" width="16.66%">
+      <img src="https://play-lh.googleusercontent.com/3Fp-5wqtuAoCo5e4HW5khoeV0jXB_387ASyRL7xgYIuMbA9qchrCn5_CzLBaa0vzXbJoAYegNii9arxeehJNHA=w240-h480-rw" width="100" height="100"><br>
+      <font size="1"><b>Indian Rail Shunter</b></font><br>
+      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/indian_rail_shunter_updates.json"><font size="1">📡 Feed</font></a>
+    </td>
+    <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/2_MtlYME3-4RXq69N5sXRZXyKi5ksPWY2GqQwuzUwF91CX6zFWfVRO5jcNBEZrt9QaImbB7RFGyLa2TFPnEGgw=s256-rw" width="100" height="100"><br>
       <font size="1"><b>Indian Station Master</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/indian_train_master.json"><font size="1">📡 Feed</font></a>
