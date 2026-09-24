@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1.1.0",
+    "force_update": false,
+    "title": "👑 Version 1.1.0 • VIP Pass, Cheaper Upgrades & DevDuo Hub!",
+    "message": "A huge update, Station Master! Unlock the VIP Lifetime Pass, enjoy much cheaper upgrades and discover more DevDuo games.",
+    "points": [
+      "👑 VIP Lifetime Pass: No ad videos, instant rewards and 10M bonus coins.",
+      "💵 Cheaper Upgrades: Shunters, revenue, yard lines and station modules now cost much less.",
+      "📱 DevDuo Apps Hub: Discover all our apps and games from Settings.",
+      "🔔 Live Update Checker: See new features and release notes instantly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
+  },
+  {
+    "id": "1.0.1",
+    "force_update": false,
+    "title": "🚆 Version 1.0.1 • Launch Release",
+    "message": "Welcome to Indian Rail Shunter!",
+    "points": [
+      "🚉 Shunt rakes between yard and platforms.",
+      "🚂 Freight corridor flybys and daily rewards."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
+  }
+]
