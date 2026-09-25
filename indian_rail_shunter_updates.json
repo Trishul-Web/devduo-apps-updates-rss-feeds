@@ -1,4 +1,20 @@
 [
+    {
+    "id": "1.2.0",
+    "force_update": false,
+    "title": "👑 Version 1.2.0 • VIP Lifetime Pass is Here!",
+    "message": "Big update, Station Master! You can now play without ads forever with the new VIP Lifetime Pass. Pay only once, no subscription. Free players can still enjoy everything by watching ads.",
+    "points": [
+      "👑 VIP Lifetime Pass: Pay once and remove all ads forever.",
+      "⚡ VIP Perks: Get 2X rewards instantly, run Premier trains without ads and build daily trains without waiting.",
+      "🎁 Secret Scratch Card: Scratch the golden card to unlock a special lower price. It lasts only 1 hour!",
+      "📺 Smoother Ads: If an ad is still loading, the game now waits for it instead of showing an error.",
+      "⭐ Rate Us: Share your rating right inside the game, no need to leave.",
+      "📱 More from DevDuo: Discover more of our apps and games.",
+      "🛠️ Small fixes and improvements for a smoother game."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
+  },
   {
     "id": "1.1.0",
     "force_update": false,
