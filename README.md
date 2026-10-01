@@ -45,13 +45,13 @@
       <font size="1"><b>DevDuo IDE: AI Code Editor</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/update.json"><font size="1">📡 Feed</font></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/_x7vdqbf6QZ6KWjVmzjE9JPZ9RnrdQn1y6a-Pen9oS6y9QwQq6_MZmua8cMJ78l9LV3Dd2aRbFELmRR9l8tht4E=s512-rw" width="100" height="100"><br>
       <font size="1"><b>DevDuo PDF Editor, Reader, OCR</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/DevDuo_PDF_Editor%2C_Reader%2C_OCR.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/o262zVMenKFEQ9zyRpg_rO72VpStzfhHBmKpn1msf7wgANftLYRK0WgjUiHBzhvTO0OrlI76zYDZt6eOe3cA=s512-rw" width="100" height="100"><br>
       <font size="1"><b>DevDuo PDF Scanner: ID & Photo</b></font><br>
@@ -77,6 +77,8 @@
       <font size="1"><b>Newszio: Personalize Your News</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Newszio_Personalize_Your_News.json"><font size="1">📡 Feed</font></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/HSDpQXH1EtUjbbD3w7NjBRG9AN5Gd09sW7d4_kTld-nZdbNfmxfWBajxbfOj2VcXB7E3Ac7M641HyiMmU9a4rUI=s512-rw" width="100" height="100"><br>
       <font size="1"><b>NoMoreDistraction Launcher</b></font><br>
@@ -87,8 +89,6 @@
       <font size="1"><b>Photo Compressor & Resizer</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Photo_Compressor_%26_Resizer.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Rail Junction: Station Empire</b></font><br>
@@ -109,7 +109,9 @@
       <font size="1"><b>Safekeep: Secure Folder Vault</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Safekeep_Secure_Folder_Vault.json"><font size="1">📡 Feed</font></a>
     </td>
-    <td align="center" width="16.66%">
+  </tr>
+  <tr>
+     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/ddvFW3biXwZqg5CRC3Kz3shsYXH4eP7bLaIHuwUr3nTOcnhybmLZXzerzCppRk4w7lTRUdyM-z7rVOdBu2EdrA=s512-rw" width="100" height="100"><br>
       <font size="1"><b>SaveAnything: Link & File Save</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SaveAnything_Link_%26_File_Save.json"><font size="1">📡 Feed</font></a>
@@ -124,8 +126,6 @@
       <font size="1"><b>Train Driver India</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Train_Driver_India.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/FIrBkwfgzyOz-0E1-ip0PM9Z8cxC9voXLVHRvY3faXkk9WTpr9m9_pyTy9wTN-QuA80OFJsKDhW5FlZ7DSgLKLs=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Tymio: Aesthetic Clock & Timer</b></font><br>
