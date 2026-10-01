@@ -50,13 +50,13 @@
       <font size="1"><b>DevDuo PDF Editor, Reader, OCR</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/DevDuo_PDF_Editor%2C_Reader%2C_OCR.json"><font size="1">📡 Feed</font></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/o262zVMenKFEQ9zyRpg_rO72VpStzfhHBmKpn1msf7wgANftLYRK0WgjUiHBzhvTO0OrlI76zYDZt6eOe3cA=s512-rw" width="100" height="100"><br>
       <font size="1"><b>DevDuo PDF Scanner: ID & Photo</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/DevDuo_PDF_Scanner%3A_ID_%26_Photo.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/KtpGbymZoif_OB6mnFhIc-uoi5nBFzFQCKXJEFqrNBp4vpKyZ5jRqduqUx9r0FR9iUI0SYU5cZsWpHeD9xzdlw=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Discipline Forge Habit Tracker</b></font><br>
@@ -119,13 +119,13 @@
       <font size="1"><b>SkillSprint: Learning App</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SkillSprint_Learning_App.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/U9EfjGYsYzqA18P2iY44iVSlqnuGoo0SzcX6ZjGOnK_Zwn9o1yHoVSOv2-SgtTu0mLutidiOyuO4XxLrCyR0XA=s256-rw" width="100" height="100"><br>
       <font size="1"><b>Train Driver India</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Train_Driver_India.json"><font size="1">📡 Feed</font></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/FIrBkwfgzyOz-0E1-ip0PM9Z8cxC9voXLVHRvY3faXkk9WTpr9m9_pyTy9wTN-QuA80OFJsKDhW5FlZ7DSgLKLs=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Tymio: Aesthetic Clock & Timer</b></font><br>
