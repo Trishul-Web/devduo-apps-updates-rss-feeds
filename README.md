@@ -137,9 +137,6 @@
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Web_to_PDF_URL_%26_HTML.json"><font size="1">📡 Feed</font></a>
     </td>
     <td align="center" width="16.66%"></td>
-    <td align="center" width="16.66%"></td>
-    <td align="center" width="16.66%"></td>
-    <td align="center" width="16.66%"></td>
   </tr>
 </table>
 
