@@ -1,5 +1,21 @@
 [
   {
+    "id": "8.12.1",
+    "force_update": false,
+    "title": "🛡️ Real Lock is here + New Wellbeing Dashboard! 📊",
+    "message": "No more escape routes! Your focus rules now protect you everywhere on your phone, and your screen time stats got a beautiful new look.",
+    "points": [
+      "🛡️ Real Lock (Always-On): Your App Locks, Mindful Intercepts and Zen Mode now work even when you open an app from a notification, the recent apps screen or a link. Turn it on in Settings → Real Lock.",
+      "🔐 Simple Setup: Real Lock guides you step by step to allow the needed permissions. If a permission ever gets turned off, you'll see a friendly reminder with a one-tap fix.",
+      "📊 New Wellbeing Dashboard: See today's screen time in a beautiful ring, set your own daily goal, and get a green, yellow or red signal as you get closer to it.",
+      "🏆 Top Distractions: Your most-used apps are now ranked with their icons, time spent and share of your day, so you instantly know what steals your focus.",
+      "🚫 Limits Hit Today: Quickly see which apps reached their daily open or time limits.",
+      "🏠 Easier Home Setup: Set NoMoreDistraction as your default launcher with just one tap.",
+      "✨ More accurate screen time, smoother performance and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.11.0",
     "force_update": false,
     "title": "📝 Built-in Notes & Daily Todos are here! ✅",
