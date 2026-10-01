@@ -1,4 +1,19 @@
 [
+    {
+    "id": "2.13.0",
+    "force_update": false,
+    "title": "See All Sides of Every Story! 🧩✨",
+    "message": "News outlets often report the same event very differently. Now you can compare them side by side and see the full picture, all in one tap.",
+    "points": [
+      "🧩 See All Sides: When many news sites cover the same story, look for the 'Covered by X sources' badge and tap it to compare every version.",
+      "💡 Spot the Difference: Highlighted words show what each news outlet chose to focus on in its headline.",
+      "📰 No More Repeats: Stories about the same event are now grouped together, so your feed stays clean.",
+      "🕒 Freshest News First: The latest stories now appear at the top of your feed.",
+      "🧭 Easier to Find: Good News and Newsstand have moved to the Explore tab, with a simpler bottom menu.",
+      "⚡ Bug Fixes & Polish: Smoother screens, clearer tips, and better stability."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
   {
     "id": "2.12.0",
     "force_update": false,
