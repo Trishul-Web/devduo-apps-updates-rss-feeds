@@ -1,4 +1,20 @@
 [
+    {
+    "id": "3.0.0",
+    "force_update": false,
+    "title": "🔗 All Your Links in One QR!",
+    "message": "We're now called Custom QR! Create your own mini page with all your links, like Instagram, WhatsApp, website and payments, and share it with just one QR code. No account and no monthly fee, and it never expires.",
+    "points": [
+      "🔗 All Links in One QR: Add your social media, WhatsApp, website, phone, email and payment links. One scan shows them all on a beautiful page.",
+      "🎨 11 Page Designs: Pick from Classic List, Grid, Bento, Neon, Business Card and more, with 6 color themes.",
+      "✏️ Your Own Button Names: Rename buttons to anything you like, such as \"Order on WhatsApp\" or \"My Portfolio\".",
+      "📇 Save Contact Button: People who scan your QR can save your number and email in one tap.",
+      "👀 Live Preview: See exactly how your page looks before you create it, and view the full design on the web.",
+      "✨ New Name and Fresh Look: QR Code Generator is now Custom QR, with a cleaner home screen and a tidier History.",
+      "🎯 Real Brand Icons: Your page now shows real WhatsApp, Instagram, YouTube and website logos."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+  },
   {
     "id": "2.0.0",
     "force_update": false,
