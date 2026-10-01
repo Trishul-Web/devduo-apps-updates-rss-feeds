@@ -1,5 +1,19 @@
 [ 
   {
+    "id": "1.13.0",
+    "force_update": false,
+    "title": "📸 New! Snap & Compress with Your Camera",
+    "message": "Now you can take a photo and make it smaller in seconds! No need to click a picture first and then search for it in your gallery. Just snap, compress, and save.",
+    "points": [
+      "📷 Snap & Compress: Open your camera right from Smart Tools and capture a photo in one tap.",
+      "⚡ Straight to Editor: Your new photo opens directly in the editor, ready to compress.",
+      "🧹 Clean Gallery: Only the final small photo is saved, with no extra copies filling your storage.",
+      "🎯 All Tools Work: Use WhatsApp, Email, Govt Form presets, Target KB, Crop, and PDF export on camera photos.",
+      "🚀 Smoother & Faster: General improvements and bug fixes for a better experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.12.0",
     "force_update": false,
     "title": "✨ All-New No-Crop Blur Canvas Studio! 📸",
