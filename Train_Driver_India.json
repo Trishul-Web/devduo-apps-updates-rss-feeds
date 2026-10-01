@@ -1,15 +1,30 @@
 [
   {
+    "id": "1.1.0",
+    "force_update": false,
+    "title": "💎 Premium is here! (v1.1.0)",
+    "message": "A big update with Premium, update alerts and a smoother game. Thank you for driving with us!",
+    "points": [
+      "💎 NEW: Premium — pay once, keep it forever. No ads ever, every train and every feature unlocked.",
+      "🎁 Scratch the secret card on the Premium page to reveal a special 1-hour price!",
+      "🔔 Update alerts — you'll now see what's new in every version right here.",
+      "🎮 More games by DevDuo — tap the new button on the home screen to find our other train games.",
+      "✨ Smoother driving, faster menus and better performance.",
+      "🛠️ Many small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+  },
+  {
     "id": "1.0.0",
     "force_update": false,
     "title": "🚆 Welcome to Train Driver India! (v1.0.0)",
-    "message": "Drive real Indian Railways routes with signals, crossings, overtakes, yard shunting and loco reversals.",
+    "message": "Drive trains across India — plan your route, build your train and handle every part of the job.",
     "points": [
-      "🛤️ Plan any route with stops, reversals and ghat bankers",
-      "🚦 Real Indian signalling: distant, home, starter and shunt signals",
+      "🗺️ Plan any route with stops, loco reversal and banker engines",
+      "🚦 Real Indian signals — red, yellow, double yellow and green",
       "🔀 Crossings and overtakes at loop stations",
-      "📢 Station announcements in Hindi, English and your language",
-      "💎 Premium: no ads and every train and feature unlocked"
+      "📢 Station announcements in English, Hindi and your language",
+      "🌄 10+ landscapes, live weather, day and night"
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
   }
