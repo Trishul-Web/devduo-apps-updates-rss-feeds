@@ -36,6 +36,11 @@
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/american_rail_empire_updates.json"><font size="1">📡 Feed</font></a>
     </td>
     <td align="center" width="16.66%">
+      <img src="https://play-lh.googleusercontent.com/SRu8BZtULcUm_d3wI5TJennrBnad1iaFk0WoLvSFsGKljHv1K4E70URcM6O01uGtUv7vRl9-xXWAL7Nbo3Mq=s512-rw" width="100" height="100"><br>
+      <font size="1"><b>Custom QR</b></font><br>
+      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/QR_Code_Scanner_%26_Generator.json"><font size="1">📡 Feed</font></a>
+    </td>
+    <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/exFCMg3IKVv6jqjfUlT5-ikRQUI3x2enIRYvNRKNg_AVTPDFRgOVGDU10C5Gj5PZfb9D3kz2fOgTzYHVpux92Q=s512-rw" width="100" height="100"><br>
       <font size="1"><b>DevDuo IDE: AI Code Editor</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/update.json"><font size="1">📡 Feed</font></a>
@@ -81,11 +86,6 @@
       <img src="https://play-lh.googleusercontent.com/3PIP6CtS9TKEkOGoyyqcXO_g-Ze5FDWR2DnGe-94UH0zV2BZJbIXEQwl4lnIKhWvxegaTHOgtZsNdlg70n4asw=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Photo Compressor & Resizer</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Photo_Compressor_%26_Resizer.json"><font size="1">📡 Feed</font></a>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://play-lh.googleusercontent.com/SRu8BZtULcUm_d3wI5TJennrBnad1iaFk0WoLvSFsGKljHv1K4E70URcM6O01uGtUv7vRl9-xXWAL7Nbo3Mq=s512-rw" width="100" height="100"><br>
-      <font size="1"><b>QR Code Scanner & Generator</b></font><br>
-      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/QR_Code_Scanner_%26_Generator.json"><font size="1">📡 Feed</font></a>
     </td>
   </tr>
   <tr>
