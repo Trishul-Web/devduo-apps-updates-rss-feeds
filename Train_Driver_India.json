@@ -1,5 +1,33 @@
 [
    {
+    "id": "2.0.1",
+    "force_update": false,
+    "title": "🚆 Welcome to Train Driver India! (v1.0.0)",
+    "message": "Drive real Indian Railways routes with signals, crossings, overtakes, yard shunting and loco reversals.",
+    "points": [
+      "🛤️ Plan any route with stops, reversals and ghat bankers",
+      "🚦 Real Indian signalling: distant, home, starter and shunt signals",
+      "🔀 Crossings and overtakes at loop stations",
+      "📢 Station announcements in Hindi, English and your language",
+      "💎 Premium: no ads and every train and feature unlocked"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+  },
+  {
+    "id": "1.1.0",
+    "force_update": true,
+    "title": "🚆 Welcome to Train Driver India! (v1.0.0)",
+    "message": "Drive real Indian Railways routes with signals, crossings, overtakes, yard shunting and loco reversals.",
+    "points": [
+      "🛤️ Plan any route with stops, reversals and ghat bankers",
+      "🚦 Real Indian signalling: distant, home, starter and shunt signals",
+      "🔀 Crossings and overtakes at loop stations",
+      "📢 Station announcements in Hindi, English and your language",
+      "💎 Premium: no ads and every train and feature unlocked"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+  },
+   {
     "id": "1.0.1",
     "force_update": false,
     "title": "🚆 Welcome to Train Driver India! (v1.0.0)",
