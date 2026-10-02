@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.20.0",
+    "force_update": false,
+    "title": "📸 New Update: Profile Photo & Duplicate Resume! 🚀",
+    "message": "Make your resume more personal and save time! You can now add your photo to your resume and copy any resume in one tap. We also fixed bugs and made the app faster.",
+    "points": [
+      "📄 Duplicate Resume: Tap the 3-dot menu on any resume and choose 'Duplicate' to make a copy. Great for sending different versions to different jobs!",
+      "📸 Add Your Photo: Go to Personal Info and upload your photo. Crop it easily so it fits perfectly, and turn it on or off anytime.",
+      "🎨 Photo Templates: Your photo now appears on 10 stylish templates like Modern Blue, Violet, Circle, Mint, and Executive designs.",
+      "🔍 Smart Template Filters: In Preview, filter templates by Free, Pro, Photo, or Category to find the right design faster.",
+      "🎤 Better Interview Practice: The 30-Day Interview Bootcamp now has 300 real interview questions, with new ones every day.",
+      "👀 Smarter Recruiter Vision: The heatmap now checks your real resume and tells you exactly what to improve.",
+      "✨ Bug Fixes & Speed: Fixed saving issues, improved stability, and made the whole app smoother and faster."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.19.1",
     "force_update": false,
     "title": "🚩 New Update: Resume Red Flag Detector! 🚀",
