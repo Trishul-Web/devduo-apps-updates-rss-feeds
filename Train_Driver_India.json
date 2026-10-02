@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.2.0",
+    "force_update": false,
+    "title": "🚆 Short journeys are here! (v1.2.0)",
+    "message": "We read every review — thank you! Many of you asked for shorter distances, so here they are.",
+    "points": [
+      "📏 You asked, we listened: the minimum distance between stations is now just 2 km (it was 10 km). Quick 2–3 minute runs are now possible!",
+      "⏱️ NEW: Custom journey length — choose any time from 5 to 300 minutes.",
+      "🛤️ Loop stations fit nicely on short routes. Each extra loop just needs 1 km more.",
+      "ⓘ NEW: Tap the ⓘ button in the route preview to see the simple distance rules.",
+      "📤 Share your activities as a file — send them to friends on WhatsApp and play each other's routes.",
+      "🎨 A fresh new Import screen and a cleaner route preview.",
+      "✨ Smoother game, plus many small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+  },
+  {
     "id": "1.1.0",
     "force_update": false,
     "title": "💎 Premium is here! (v1.1.0)",
