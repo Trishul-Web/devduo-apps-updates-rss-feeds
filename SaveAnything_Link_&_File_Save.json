@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.10.0",
+    "force_update": false,
+    "title": "✨ A Fresh New Look & Smarter Sharing! 📤",
+    "message": "SaveAnything has a brand-new, clean design that's easier to read and nicer to use. Saving from other apps is now simpler too!",
+    "points": [
+      "🎨 New Clean Design: A simpler, modern look across Home, Folders, Favorites and the save screen.",
+      "📤 Better Sharing: Share a link, photo, video or file from any app and a save screen opens so you can add a title, folder, tags or lock before saving.",
+      "🗂️ Grid or List View: Switch between a neat grid and a simple list with one tap. Your choice is remembered.",
+      "🖼️ Smarter Link Previews: Better thumbnails and titles for YouTube, shopping sites, articles, Spotify and more.",
+      "🏷️ Easy Filters: Filter your saves by folder or tag right from Home, with site logos shown.",
+      "🔑 Forgot Your PIN?: You can now reset it safely and set a new one.",
+      "🛠️ Faster & Smoother: Lots of small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.9.0",
     "force_update": false,
     "title": "🔒 Private Vault Lock & Passcode Protection! 🛡️",
