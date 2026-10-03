@@ -1,5 +1,22 @@
 [
      {
+       "id": "7.11.1",
+       "title": "Secure Camera, Private Viewer & More 🔐",
+       "message": "This update makes Safekeep more private and easier to use. You can now take photos, write notes and view your files without them ever leaving the vault.",
+       "points": [
+         "📸 Secure Camera: Take photos and videos inside Safekeep. They are never saved to your phone gallery.",
+         "📝 Private Notes: Write notes directly in your vault. Your keyboard won't remember what you type.",
+         "👁️ Private Viewer: Open photos, videos, PDFs, music and text files inside the app. Screenshots are blocked.",
+         "🧹 Auto Clean: If you open a file in another app, Safekeep erases its temporary copy when you come back.",
+         "📤 Share to Safekeep: Share any file from Gallery, WhatsApp or any app and choose 'Encrypt with Safekeep'.",
+         "📂 Open .sfkp files: Tap a shared Safekeep file in WhatsApp or Telegram and it opens straight in the app.",
+         "☁️ Better Backup: Files added without internet now upload automatically later, and deleted files stay deleted.",
+         "🛡️ Privacy and stability fixes."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider",
+       "force_update": false
+     },
+     {
        "id": "7.10.0",
        "force_update": false,
        "title": "✨ What's New in Version 7.10.0",
