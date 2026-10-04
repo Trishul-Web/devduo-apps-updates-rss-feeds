@@ -1,5 +1,21 @@
 [
   {
+    "id": "2.9.0",
+    "force_update": false,
+    "title": "🚀 Sharper, Smarter Capture Engine!",
+    "message": "Your PDFs now look exactly like the website you see, sharper than ever and with no repeated menus. Saving a full website now takes just one tap!",
+    "points": [
+      "✨ Sharper Results: Your PDFs and images are now twice as clear. Tables, charts and diagrams stay perfectly in place.",
+      "📜 Full Page in One Tap: Press the new FULL PAGE button to save the whole website, no more pressing DOWN again and again.",
+      "📏 Longer Pages: Save up to 2.5× more of a website in one continuous PDF.",
+      "🧹 Auto Clean: Top bars and side menus that follow you while scrolling are now removed automatically, so they don't repeat in your PDF.",
+      "📌 Keep Once: Want the website header only at the top? Tap KEEP ONCE, select it, and it appears just once.",
+      "🔒 Keep Always: Want to keep something like a side table of contents? Tap KEEP ALWAYS and it will never be removed.",
+      "📝 Better Text Extraction: Clean Text now captures lists, tables and links from almost every website."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.8.0",
     "force_update": false,
     "title": "🎉 Clean Text & Markdown Extractor! 📝",
