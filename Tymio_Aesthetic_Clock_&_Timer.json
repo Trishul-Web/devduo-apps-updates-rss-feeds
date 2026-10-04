@@ -1,5 +1,20 @@
 [
   {
+    "id": "3.11.0",
+    "force_update": false,
+    "title": "🌙 Screen Saver & StandBy Mode is here! ⚡",
+    "message": "Turn your phone into a beautiful clock every time you charge it. Put it on your desk or bedside table, plug it in, and let Tymio do the rest!",
+    "points": [
+      "⚡ Charge & Show: Plug in your charger and your Tymio clock appears automatically, even when the app is closed.",
+      "🎨 Your Design, Your Way: Choose any clock, motion, live atmosphere and colors, then tap 'Set as Screen Saver' in the studio.",
+      "👀 Live Preview: See exactly how your screen saver will look before you turn it on. Find it in the new 'Screen Saver' card on the home screen.",
+      "🌙 Quick StandBy Switch: Use the new moon button on the home screen to turn auto-StandBy on or off anytime.",
+      "🛡️ Screen-Safe: Your clock gently moves every minute to protect your display during long charging sessions.",
+      "🔄 Works in both portrait and landscape, plus speed and stability improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.10.0",
     "force_update": false,
     "title": "🖼️ Custom Backgrounds & Fresh Deals! 🚀",
