@@ -1,5 +1,22 @@
 [
   {
+    "id": "6.7.0",
+    "force_update": false,
+    "title": "🎓 Certificates & Skill Cards are Here! 🏆",
+    "message": "Your hard work now pays off! Finish courses to earn real certificates, collect skill cards for every module you clear, and share your achievements with the world.",
+    "points": [
+      "🏆 Course Certificates: Complete a full course and pass the Grand Test to earn your own Certificate of Completion with your name on it.",
+      "🎴 Skill Cards: Pass any Module Test to unlock a beautiful Skill Card. Collect them all, like badges!",
+      "📊 Test Scores: Every test now shows your score. Score 70% or more to pass and unlock your rewards.",
+      "📥 Save & Share: Save your certificates to your gallery or share them as an image or PDF on LinkedIn, WhatsApp, and Instagram, as many times as you like.",
+      "🗂️ My Achievements: See all your certificates and skill cards in one place, with filters for each course. Open it from My Learning or Profile.",
+      "✏️ Your Name, Your Way: Set or change the name printed on your certificates anytime from Profile.",
+      "✨ Gold Edition: Pro members get a premium gold design and can choose to remove the watermark.",
+      "🚀 Smoother Learning: After a module test, you now continue straight to the next module's first lesson, plus other small fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.6.0",
     "force_update": false,
     "title": "📝 Module Test Series & Grand Exams are Here! 🏆",
