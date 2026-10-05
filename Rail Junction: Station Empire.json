@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.10.0",
+    "force_update": false,
+    "title": "🚂 Smoother & Better Than Ever! ✨",
+    "message": "Welcome to Version 1.10.0! We fixed many bugs and polished the game so your railway empire runs smoother than ever.",
+    "points": [
+      "✅ Terminal Fix: Buying trains in the Terminal now takes the correct amount of coins every time.",
+      "🏗️ Reliable Layouts: Saving your station layout now works perfectly, and deleted custom trains stay deleted.",
+      "🎁 Daily Rewards: Your daily trains now keep the same look all day, even after you close and reopen the hub.",
+      "👥 Livelier Platforms: Passengers now gather and board for every train on your timetable, not just the first one.",
+      "⚖️ Better Balance: Game progress has been fine-tuned for a more rewarding journey as your empire grows."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.9.0",
     "force_update": false,
     "title": "💰 Lower Prices, Faster Progress! 🚂",
