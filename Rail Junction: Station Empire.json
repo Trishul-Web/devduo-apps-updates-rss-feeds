@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.11.0",
+    "force_update": false,
+    "title": "🛠️ Maintenance Yards Fixed! 🚂",
+    "message": "Welcome to Version 1.11.0! Thanks to your feedback, we fixed the maintenance freeze and made a few things clearer.",
+    "points": [
+      "🔧 No More Frozen Yards: Coach Maintenance and Loco Maintenance now keep running after watching an ad or minimizing the game. No restart needed!",
+      "💎 Clearer VIP Shop: The VIP pass now clearly shows what you get: no ads, instant 2X collects, free train halts and instant daily rewards.",
+      "🏢 Meet DevDuo: Check out our new DevDuo Softwares page to discover more of our games and apps.",
+      "⚙️ Smoother Gameplay: Small fixes to keep your railway empire running smoothly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.10.0",
     "force_update": false,
     "title": "🚂 Smoother & Better Than Ever! ✨",
