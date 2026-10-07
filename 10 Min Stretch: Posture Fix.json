@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.15.0",
+    "force_update": false,
+    "title": "⏱️ Stretch on Your Time: 1 to 20 Minutes! 🎯",
+    "message": "Busy day? Now you choose how long you stretch. Pick your minutes and we build a session that fits.",
+    "points": [
+      "⏱️ Quick Time Session: Slide to pick 1 to 20 minutes on the Home screen and get a session made just for that time.",
+      "🎯 Pick Your Focus: Choose neck, back, hips, legs, wrists, eyes and more, or leave it on 'Any' for a balanced mix.",
+      "🧘 Enough Time for Every Stretch: Each stretch gets enough time, and two-sided moves cover both your left and right side.",
+      "🔀 Shuffle Before You Start: Don't like a move? Tap Shuffle to get a fresh set of stretches.",
+      "🔥 Every Stretch Counts: Single stretches from Quick Launch now keep your streak alive and earn XP.",
+      "✅ Fairer Progress: XP, heatmap and skill tree now count every exercise you finish.",
+      "🛠️ Small Fixes: Clearer timer display and more accurate session summaries."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.14.1",
     "force_update": false,
     "title": "⚡ Faster, Smoother & More Responsive! 🚀",
