@@ -1,5 +1,22 @@
 [
   {
+    "id": "2.3.0",
+    "force_update": false,
+    "title": "👛 New 3D Wallet Mode is Here!",
+    "message": "Your cards now live in a beautiful wallet! Version 2.3.0 brings a brand-new Wallet view, quick search, and an easier way to open the app straight to your cards.",
+    "points": [
+      "3D Wallet Mode: See all your cards neatly stacked, just like a real wallet.",
+      "Tap to Open: Your card glides to the center and shows in its real size.",
+      "Tap to Flip: Tap the open card to see the back side instantly.",
+      "Stack or List View: Switch between overlapping cards or one-below-another with one tap.",
+      "Quick Search: Type a name and the wallet jumps right to that card.",
+      "Start in Wallet: Tap the ⭐ to open the app directly in your Wallet.",
+      "DevDuo Apps Page: Discover more useful apps made by our team.",
+      "Cleaner Home Screen: Simple, same-size buttons for a neater look."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "2.2.1",
     "force_update": false,
     "title": "🔄 Smooth 180° Flip & Motion Update",
