@@ -1,4 +1,22 @@
 [
+    {
+    "id": "1.3.0",
+    "force_update": false,
+    "title": "💾 Save your journey & so much more! (v1.3.0)",
+    "message": "Thank you for all your reviews and ideas — this update is full of features you asked for!",
+    "points": [
+      "🛠️ Fixed: touching the edge of the screen no longer closes your journey. A back swipe now simply pauses the game.",
+      "💾 NEW: Save & Exit — long route? Tap Pause → SAVE & EXIT and continue later from the station you last left.",
+      "🔖 NEW: Saved page — tap SAVED on the home screen to see all your saved journeys and activities. Rename or delete them any time.",
+      "🚉 NEW: Choose your platform — pick PF 1 to 5 at the start, at every stop and at the destination.",
+      "🔧 NEW: Choose your yard shunter — pick a different engine for the start yard and the end yard.",
+      "🔢 NEW: Your own train number — give your train a 5-digit number in the Train Builder. You'll hear it in the station announcements!",
+      "🚦 Activities: crossing and overtaking trains can have their own train number too.",
+      "🗑️ NEW: CLEAR TRAIN — empty the whole train in one tap in the Train Builder.",
+      "✨ Smoother game, plus many small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+  },
   {
     "id": "1.2.0",
     "force_update": false,
