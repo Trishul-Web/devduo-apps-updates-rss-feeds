@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.12.0",
+    "force_update": false,
+    "title": "💰 Fair Rewards Update! 🚂",
+    "message": "Welcome to Version 1.12.0! Thanks to your feedback, your train upgrades now give you the full coins you paid for.",
+    "points": [
+      "💰 Upgrades Now Pay Properly: Trains like Intercity Express now give the full reward you upgraded them to, on Station tracks and in the Terminal.",
+      "⛰️ Ghat Trains Fixed: Your Ghat Express upgrades for earnings and stoppages now work everywhere. Upgrades you already bought start working right away!",
+      "🏢 Steady Terminal Earnings: Terminal trains now give the same reward every time, even after closing and reopening the game.",
+      "✏️ Renamed Trains Keep Upgrades: Renaming a Terminal train no longer resets its reward. (If you renamed one before, rename it back once to restore it.)",
+      "⚙️ Smoother Gameplay: Small fixes to keep your railway empire running smoothly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.11.0",
     "force_update": false,
     "title": "🛠️ Maintenance Yards Fixed! 🚂",
