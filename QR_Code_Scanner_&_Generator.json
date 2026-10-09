@@ -1,5 +1,20 @@
 [
     {
+    "id": "3.1.0",
+    "force_update": false,
+    "title": "📱 Your QR on the Home Screen!",
+    "message": "No more opening the app and searching for your code! Now you can put any QR right on your phone's home screen. One tap shows it big and bright, ready to scan.",
+    "points": [
+      "📱 Home Screen Widget: Add your UPI, Wi-Fi or any QR to your home screen. Perfect when a customer wants to pay or a guest asks for the Wi-Fi.",
+      "✏️ Name Your Widgets: Give each widget a name like \"Shop UPI\" or \"Guest Wi-Fi\" and add as many as you like.",
+      "↔️ Any Size You Want: Long-press the widget to resize it, from big down to a tiny 1×1.",
+      "🔆 Full Screen View: Tap the widget to show your QR full-screen with the brightness boosted, so it scans instantly.",
+      "🕘 Works From History Too: Tap the 👁 eye on any saved QR to open it full screen or add it as a widget.",
+      "🎨 Colors That Match: Your \"Scan Me\" text now uses your chosen color, and the branding banner can match your QR design with one switch."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+    },
+    {
     "id": "3.0.0",
     "force_update": false,
     "title": "🔗 All Your Links in One QR!",
