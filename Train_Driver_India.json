@@ -1,5 +1,21 @@
 [
     {
+        "id": "1.4.0",
+        "force_update": false,
+        "title": "💾 Save anywhere — never lose your progress! (v1.4.0)",
+        "message": "You told us long journeys were going back to the start after saving. We fixed it! Now your save remembers exactly where you are.",
+        "points": [
+          "💾 NEW: Save anywhere — on the line, on a bridge, in a tunnel or in a loop. Your journey continues from exactly that spot.",
+          "🚩 NEW: Checkpoint station — when you save between stations, a small Checkpoint station is made at that place. You start there next time, with the guard's whistle and a green signal.",
+          "🚉 Near a station? If you save just before or just after a station, you continue from that station.",
+          "🛤️ Everything stays the same — your route, platforms, speed limits, banker engines, crossings, overtakes and train are kept just as you set them.",
+          "📋 Before saving you can see where your journey will continue. The Saved page shows your Checkpoints with a 💾 sign.",
+          "🔁 Saved before this update? Continue it once and save again — from then on it remembers your exact place.",
+          "✨ Smoother game, plus small fixes and improvements."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+    },
+    {
     "id": "1.3.0",
     "force_update": false,
     "title": "💾 Save your journey & so much more! (v1.3.0)",
