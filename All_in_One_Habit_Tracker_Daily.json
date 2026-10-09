@@ -1,5 +1,22 @@
 [
   {
+    "id": "1.10.0",
+    "force_update": false,
+    "title": "🔥 Streaks, Shields & Year in Pixels! 🟩",
+    "message": "Stay motivated every day! See how many days in a row you've kept your habits, protect your streak if you miss a day, and view your whole year on one beautiful screen.",
+    "points": [
+      "🔥 Habit Streaks: See your current streak and your best streak ever, with a glowing flame that keeps you going.",
+      "🏆 New Badges: Unlock special badges at 7, 30, 100 and 365 days in a row, celebrated with confetti!",
+      "🛡️ Streak Shield: Sick or busy for a day? Use a shield to save your streak so you never lose your progress.",
+      "🎁 Earn Free Shields: Get a new shield every time you complete 7 days in a row. Free users can keep 2, PRO users can keep 5.",
+      "🟩 Year in Pixels: See all 365 days of your year in one grid. The darker the square, the more you did that day.",
+      "📅 Tap Any Day: Tap a square to see the date and exactly what you did. Today is marked with a gold ring.",
+      "📊 Find Them in Analytics: Open the Analytics tab and pick a habit to see your streak and your year.",
+      "✨ Better Stability: Small bug fixes and improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
     "id": "1.9.1",
     "force_update": false,
     "title": "⚡ Multi-Widget Upgrades & Instant Sync! 📱",
