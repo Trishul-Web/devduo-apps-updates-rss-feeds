@@ -1,5 +1,21 @@
 [
   {
+    "id": "6.14.0",
+    "force_update": false,
+    "title": "📸 New: Scan Documents to PDF!",
+    "message": "You can now turn any paper document into a clean PDF using your phone's camera, without needing a separate scanner app. Scan it, then view, sign, edit, or share it right away.",
+    "points": [
+      "📸 Scan to PDF: Point your camera at any paper. The app finds the edges, crops, and straightens the page for you.",
+      "📄 Multi-Page Scanning: Scan many pages one after another and save them together as one PDF.",
+      "🖼️ Import from Gallery: Already took photos of a document? Pick them from your gallery and turn them into a PDF.",
+      "✨ Clean-Up Filters: Make scans sharp and easy to read with black & white and color enhance options.",
+      "⚡ Opens Instantly: Your scan opens right away, so you can sign, add text, compress, or share it in seconds.",
+      "➕ Easy to Find: Tap the + button on the home screen, or open the Tools tab and choose 'Scan to PDF'.",
+      "🔧 Under-the-hood stability and performance improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.13.0",
     "force_update": false,
     "title": "🎨 Smarter, Safer PDF Editing!",
