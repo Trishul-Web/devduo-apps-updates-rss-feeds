@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.13.0",
+    "force_update": false,
+    "title": "📊 Clear Train Levels Update! 🚂",
+    "message": "Welcome to Version 1.13.0! Thanks to your feedback, it's now easy to see which of your trains are upgraded.",
+    "points": [
+      "📊 Levels Shown in Timetable: When you pick a train for a Terminal slot, you now see its level and how many coins it gives.",
+      "🔁 Same Train, Different Copies: If you bought a train again, each copy has its own level. Now you can clearly see which copy is upgraded and schedule that one.",
+      "🏢 Running Trains Show Levels Too: The Running list and timetable slots also show each train's level.",
+      "💰 Always the Latest Reward: Upgrading a scheduled train now pays the new amount right away.",
+      "⚙️ Smoother Gameplay: Small fixes to keep your railway empire running smoothly."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.12.0",
     "force_update": false,
     "title": "💰 Fair Rewards Update! 🚂",
