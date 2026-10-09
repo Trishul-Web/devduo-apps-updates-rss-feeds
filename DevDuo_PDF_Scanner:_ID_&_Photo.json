@@ -1,5 +1,21 @@
 [
   {
+    "id": "8.13.0",
+    "title": "Page Numbers & Date Stamp",
+    "message": "Submitting documents to an office or school? Now you can add page numbers and today's date to your PDF in just one tap!",
+    "force_update": false,
+    "points": [
+      "🔢 Page Numbers: Tap the new numbers button on the Preview screen to add page numbers to every page.",
+      "🎨 6 Beautiful Styles: Choose from Classic, Number Only, Professional, Pill, Minimal Mono and Badge.",
+      "🌈 Any Color: Pick black, white, red, blue, gold and more, so numbers are clear on light or dark pages.",
+      "↔️ Place It Anywhere: Move numbers left, right, top or bottom, and make them bigger or smaller.",
+      "📅 Date Stamp: Add today's date to every page with a simple switch.",
+      "📐 Perfect Fit: Works with Original Size, A4 and Continuous Scroll without changing your page size.",
+      "👀 Live Preview: See exactly how your numbers will look before you save or share."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
     "id": "8.12.0",
     "title": "Batch Actions for Multiple Pages",
     "message": "Managing multiple scanned pages just got way easier — select, delete, or export several pages at once!",
