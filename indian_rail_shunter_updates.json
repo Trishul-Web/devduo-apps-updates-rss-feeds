@@ -1,5 +1,21 @@
 [
-    {
+  {
+    "id": "1.3.0",
+    "force_update": false,
+    "title": "⏩ Version 1.3.0 • No More Waiting!",
+    "message": "Station Master, waiting is now optional! A new SKIP button appears next to every timer in your station. Watch a short ad and the train moves right away. VIP players skip instantly with no ads.",
+    "points": [
+      "🚃 Yard Skip: Bring the next yard rake right now instead of waiting.",
+      "🚆 Boarding Skip: Finish boarding or deboarding instantly and the train leaves at once.",
+      "🚄 Express Skip: After signalling an express, call it to the platform instantly.",
+      "📦 Freight Skip: Send the next freight train down the corridor right away.",
+      "⏸️ Fair Timer: The boarding timer pauses while the ad plays, so you never lose time.",
+      "👑 VIP Bonus: VIP Lifetime Pass players skip every timer instantly with no ads.",
+      "🛠️ Small fixes and improvements for a smoother game."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
+  },
+  {
     "id": "1.2.0",
     "force_update": false,
     "title": "👑 Version 1.2.0 • VIP Lifetime Pass is Here!",
