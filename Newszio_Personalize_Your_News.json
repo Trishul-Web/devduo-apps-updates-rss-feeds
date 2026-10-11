@@ -1,5 +1,19 @@
 [
-    {
+  {
+    "id": "2.15.0",
+    "force_update": false,
+    "title": "Smarter Mixes & Easier Sharing! 🔗✨",
+    "message": "This update makes sharing more useful, gives you fuller Quick Mix feeds, and makes AI and Premium clearer and fairer for everyone.",
+    "points": [
+      "🔗 Better Sharing: When you share a story, the article link is now included, so your friends can open and read the full story.",
+      "🌍 Fuller Quick Mix: Picking Pune and Mumbai now shows news from both cities, not just stories that mention both together.",
+      "🤖 Fairer AI Limit: If the AI can't answer because of a network problem, it won't use up one of your daily questions.",
+      "💎 Clear Restore: Tapping Restore now tells you clearly if your Premium was restored, not found on this Google account, or if there was a connection problem.",
+      "⚡ Bug Fixes & Polish: Small improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.14.1",
     "force_update": false,
     "title": "See All Sides of Every Story! 🧩✨",
