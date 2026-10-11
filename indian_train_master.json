@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.5.0",
+    "force_update": false,
+    "title": "SMOOTHER VIP GUESTS!",
+    "message": "You told us VIP guests were standing around and blocking your station. Now they wait for a short time, and if you don't respond, they leave on their own!",
+    "points": [
+      "⏱️ VIP Auto Leave: VIP guests now wait about 8 seconds for your approval, then walk away on their own.",
+      "🚉 No More Blocking: VIPs no longer get stuck in Ticket Booking, Recliners, VIP Lounge or Deluxe Cabins.",
+      "🪑 Seats & Rooms Freed Instantly: When a VIP leaves, their seat or room opens up right away for the next guest.",
+      "💎 Still Your Choice: Tap a VIP within 8 seconds to approve them for big rewards.",
+      "🙏 Thanks for the Feedback: This update comes directly from player suggestions. Keep telling us what you think!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager"
+  },
+  {
     "id": "1.4.0",
     "force_update": false,
     "title": "UPGRADE PRICES REDUCED!",
