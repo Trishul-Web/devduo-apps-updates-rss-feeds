@@ -1,5 +1,20 @@
 [
     {
+        "id": "1.5.0",
+        "force_update": false,
+        "title": "🚂 48 new loco horns! (v1.5.0)",
+        "message": "Your train now sounds like the real thing! We added 48 new loco horns, and every engine blows its own horn.",
+        "points": [
+          "🚂 NEW: 48 loco horns — electric engines, diesel engines and trainsets each have their own horn sound.",
+          "🎺 Hold the HORN button and the horn keeps blowing smoothly for as long as you hold it. Let go and it ends naturally, just like a real horn.",
+          "🎛️ NEW: Horn selector — tap the tune button next to HORN, swipe left or right, and pick any of the 48 horns. Choose AUTO to always use your engine's own horn.",
+          "🎮 The game keeps running while you choose your horn — no pause needed.",
+          "🚆 Passing trains now blow their own engine's horn when they cross or overtake you.",
+          "✨ Smoother game, plus small fixes and improvements."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+    },
+    {
         "id": "1.4.0",
         "force_update": false,
         "title": "💾 Save anywhere — never lose your progress! (v1.4.0)",
