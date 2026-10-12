@@ -1,5 +1,21 @@
 [
   {
+    "id": "8.13.0",
+    "force_update": false,
+    "title": "🔍 Search Inside Your Apps, Now Working Perfectly!",
+    "message": "Type once on your home screen and jump straight to results inside your favorite apps. No more opening the app and searching again!",
+    "points": [
+      "🔍 Fixed In-App Search: Your custom search apps now open directly on the search results instead of just opening the app.",
+      "⚡ Smart Keywords: Set a short word for any app. For example, set 'spot' for Spotify, then type 'spot rock music' on the home screen to search inside Spotify instantly.",
+      "📱 Works With Popular Apps: YouTube, Spotify, Amazon, Flipkart, Maps, Play Store, Chrome and many more.",
+      "🧪 Easy Testing: Tap 'Test App' when adding an app to check if it supports direct search. If an app doesn't allow it, we'll simply open the app and let you know.",
+      "🛡️ Stay Focused: Your App Locks and Mindful Intercepts now also work when searching inside apps, so there's no way around your rules.",
+      "💡 Clearer Tips: Settings now explain exactly how to use custom search and keywords.",
+      "✨ Smoother performance and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.12.1",
     "force_update": false,
     "title": "🛡️ Real Lock is here + New Wellbeing Dashboard! 📊",
