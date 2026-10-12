@@ -1,5 +1,22 @@
 [ 
   {
+    "id": "1.14.0",
+    "force_update": false,
+    "title": "🧩 New! Combine & Page Studio",
+    "message": "Now you can join many photos into one image or one PDF! Need to upload your ID card front and back as a single file? Or print photos neatly on an A4 page? It's all done in one place now.",
+    "points": [
+      "🧩 Quick Combine: Add photos to Top, Middle and Bottom slots and join them into one picture. Great for ID cards and documents.",
+      "✂️ Crop as You Add: Every photo opens in the crop tool first, so only the part you need goes in.",
+      "📄 Page Studio: Put photos on an A4, Letter, Legal or 4x6 page. Move, resize and rotate them with your fingers.",
+      "🪪 ID Copy Layout: One tap places your ID card at its real size, so it prints just like a photocopy.",
+      "📑 Multiple Pages: Add more pages and save them all together as one PDF.",
+      "🎚️ Choose Quality: Pick the image quality before saving, from small file to maximum quality.",
+      "🎯 Exact File Size: Make the final image or PDF fit an upload limit like 200 KB (PRO).",
+      "🚀 Smoother & Faster: General improvements and bug fixes for a better experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.13.0",
     "force_update": false,
     "title": "📸 New! Snap & Compress with Your Camera",
