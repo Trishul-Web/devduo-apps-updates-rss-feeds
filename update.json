@@ -1,5 +1,21 @@
 [
   {
+    "id": "11.9.0",
+    "force_update": false,
+    "title": "💾 Never Lose Your Code Again! (v11.9.0) 🛟",
+    "message": "Closed the app by mistake? Switched files without saving? Don't worry — your work now waits safely for you.",
+    "points": [
+      "📝 NEW: Drafts — If you leave a file without saving, your edits are kept automatically. Open Actions (⋮) → Drafts to see and restore them.",
+      "🔔 Smart Reminders — When you open a file that has unsaved edits, we'll gently remind you so nothing gets lost.",
+      "🕒 NEW: Version History — Tap Save → Save Version to keep a dated copy of your code. Preview or go back to any version anytime.",
+      "🛡️ Original Always Safe — The first version of every file is kept, so you can always return to where you started.",
+      "📂 NEW: Save to App — In the IDE tab, tap Save → Save to App, type a name, and your file opens right in the Hub.",
+      "⚡ Lighter & Faster — The app is now smaller, quicker and more secure.",
+      "🔧 Bug fixes and small improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.8.1",
     "force_update": false,
     "title": "⚡ Reliable Downloads & Visual Code Flow! (v11.8.0) 🛠️",
