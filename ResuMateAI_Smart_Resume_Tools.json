@@ -1,5 +1,20 @@
 [
   {
+    "id": "1.21.0",
+    "force_update": false,
+    "title": "👀 New Update: Try PRO Templates Before You Upgrade! 🚀",
+    "message": "Now you can see how your resume looks in any PRO design before upgrading. We also added a clear message when your internet is off, so you always know what's happening.",
+    "points": [
+      "👀 Try PRO Templates: In Preview, tap any PRO template to see your own resume in that design. Look around as much as you like!",
+      "💎 Easy PRO Button: When you pick a PRO template, the PDF button turns into a PRO button. Upgrade once and download all PRO designs anytime.",
+      "✅ Your Design Stays Safe: Trying a PRO template won't change your saved resume design unless you upgrade.",
+      "📶 No Internet Message: If your internet is off, Preview and Plans & Pricing now show a clear message instead of a blank screen.",
+      "🔄 One-Tap Retry: Just turn your internet back on and tap Retry. Everything loads again instantly.",
+      "✨ Bug Fixes & Speed: Improved stability and made the app smoother."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.20.0",
     "force_update": false,
     "title": "📸 New Update: Profile Photo & Duplicate Resume! 🚀",
