@@ -1,5 +1,23 @@
 [
     {
+        "id": "1.6.0",
+        "force_update": false,
+        "title": "⏰ Choose your time speed! (v1.6.0)",
+        "message": "You told us day and night change too fast — now you decide how fast time moves in your journey!",
+        "points": [
+            "⏰ NEW: Time speed — open Journey settings, turn on Live weather & time, and choose how fast the clock runs.",
+            "🚆 7 speeds: Real Time, Relaxed, Standard, Accelerated, Fast Forward, Time Warp and Instant.",
+            "⭐ Standard is the new default — a full day lasts about 1.5 hours, much slower than before.",
+            "🕐 Real Time: 1 second in the game is 1 real second, so a full day takes 24 hours.",
+            "🌙 Each speed shows how long a full day lasts, so you know when night will come.",
+            "📌 Turn Live weather & time OFF and the time of day you picked stays fixed for the whole journey.",
+            "🏆 Works in Activities too. Shared activities keep the same time speed for your friends.",
+            "💾 Your old saved journeys and activities still work — they use the Standard speed.",
+            "✨ Smoother game, plus small fixes and improvements."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+    },
+    {
         "id": "1.5.0",
         "force_update": false,
         "title": "🚂 48 new loco horns! (v1.5.0)",
