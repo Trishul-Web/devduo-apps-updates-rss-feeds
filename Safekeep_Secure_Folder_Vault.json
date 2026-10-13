@@ -1,5 +1,21 @@
 [
      {
+       "id": "7.12.0",
+       "title": "Auto-Lock & Privacy Shield 🛡️",
+       "message": "Your vault now protects itself, just like a banking app. If you put your phone down or switch apps, Safekeep locks automatically so nobody can see your files.",
+       "points": [
+         "🔒 Auto-Lock: Safekeep locks itself when you leave the app. Pick when: Immediately, 10 sec, 30 sec or 1 min.",
+         "📴 Lock on Screen Off: The moment your phone screen turns off, your vault locks.",
+         "🙈 Hide in Recent Apps: When you open the app switcher, your files are covered by a 'Preview hidden' screen.",
+         "🚫 Block Screenshots: Stop screenshots and screen recording of Safekeep. Your phone and other apps work normally.",
+         "⚡ Lock Vault Now: Lock your vault instantly with one tap from Profile.",
+         "🎭 Works with Disguise: If you use Calculator, Calendar or Notes disguise, the app opens the disguise screen after locking.",
+         "🛡️ Privacy and stability fixes."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider",
+       "force_update": false
+     },
+     {
        "id": "7.11.1",
        "title": "Secure Camera, Private Viewer & More 🔐",
        "message": "This update makes Safekeep more private and easier to use. You can now take photos, write notes and view your files without them ever leaving the vault.",
