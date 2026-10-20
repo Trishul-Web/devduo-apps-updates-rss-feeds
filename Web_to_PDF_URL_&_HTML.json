@@ -1,5 +1,19 @@
 [
   {
+    "id": "2.10.0",
+    "force_update": false,
+    "title": "👀 New: Quick Preview!",
+    "message": "Now you can see exactly how your PDF will look before saving it. No more saving, opening and checking again!",
+    "points": [
+      "👀 Quick Preview: Tap the new QUICK PREVIEW button to see your whole PDF on screen before you save it.",
+      "📜 Scroll the Full Result: Check the complete page from top to bottom, exactly as it will be saved.",
+      "🧹 Check Before Saving: See which top bars and menus are removed and which ones you kept, then go back and change them if needed.",
+      "🧩 Works in Multi-URL Workspace: Preview each website before adding it to your merged PDF.",
+      "⚡ Bug fixes and smoother performance."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.9.0",
     "force_update": false,
     "title": "🚀 Sharper, Smarter Capture Engine!",
