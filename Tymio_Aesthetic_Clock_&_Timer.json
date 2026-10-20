@@ -1,5 +1,21 @@
 [
   {
+    "id": "3.12.0",
+    "force_update": false,
+    "title": "📱 Home Screen Widgets are here! ✨",
+    "message": "Now your favorite Tymio clock can live right on your home screen. See the time in your own style every time you unlock your phone!",
+    "points": [
+      "📱 One Tap to Add: Open any clock, tap 'Add Widget' in the studio, and place it on your home screen.",
+      "🎨 Your Real Design: The widget uses your clock's design, colors and live atmosphere, so it matches what you see in the app.",
+      "👀 See Before You Add: A preview shows exactly how your widget will look before you place it.",
+      "↔️ Any Size You Like: Press and hold the widget to resize it, from small up to full screen. It always looks neat.",
+      "➕ Add More Than One: Place as many widgets as you want, each with a different clock design.",
+      "👆 Quick Open: Tap any widget to jump straight into that clock in Tymio.",
+      "🔄 Speed and stability improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.11.0",
     "force_update": false,
     "title": "🌙 Screen Saver & StandBy Mode is here! ⚡",
