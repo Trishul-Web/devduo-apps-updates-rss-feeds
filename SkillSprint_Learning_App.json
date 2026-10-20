@@ -1,5 +1,23 @@
 [
   {
+    "id": "6.8.0",
+    "force_update": false,
+    "title": "🤖 Meet Your AI Tutor: Ask This Lesson! ✨",
+    "message": "Didn't understand something? No problem! Now you can ask the AI to explain any part of a lesson in a way that makes sense to you, right inside the lesson, even without internet.",
+    "points": [
+      "💬 Ask AI About This: Tap the new 'Ask AI about this' button under any lesson section, or long-press the text, to get instant help.",
+      "🧒 Explain Simpler: Get the topic explained in very easy words, just like a teacher explaining to a child.",
+      "💡 Real-Life Examples: See how the topic connects to everyday life so it's easier to remember.",
+      "🌐 Learn in Your Language: Get explanations in Hindi, Marathi, Gujarati, Tamil, Telugu, Kannada, Bengali, Punjabi, Spanish, French or German. The app remembers your choice.",
+      "📝 Quiz Me: Get 3 quick questions on what you just read to check your understanding.",
+      "📴 Works Offline: The AI runs fully on your phone, so your questions stay private and no internet is needed after the one-time AI Core download.",
+      "🎁 Daily Questions: Everyone gets 3 AI questions every day. Pro members get unlimited AI help in every lesson.",
+      "🎧 Story Mode Friendly: Asking the AI pauses the narration and auto-advance, so you never miss your place.",
+      "🚀 Smoother Experience: Performance improvements and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.7.0",
     "force_update": false,
     "title": "🎓 Certificates & Skill Cards are Here! 🏆",
