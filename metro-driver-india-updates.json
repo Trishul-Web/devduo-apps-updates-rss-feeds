@@ -1,5 +1,22 @@
 [
   {
+    "id": "1.1.0",
+    "force_update": false,
+    "title": "👑 Premium & a Secret Scratch Card!",
+    "message": "Get everything in the game with one payment, and scratch the gold card for a special surprise deal.",
+    "points": [
+      "👑 Premium: Pay once and it's yours forever. No monthly payments.",
+      "🎨 All Trains: Every metro livery and the longest trains are open with Premium.",
+      "🏗️ Build Without Limits: Make as many lines and metros as you like.",
+      "🎟️ Scratch & Win: Scratch the gold card on the Premium page to reveal a secret deal.",
+      "⏱️ 1-Hour Deal: Your deal lasts 1 hour after you scratch it, so don't miss it!",
+      "🔄 Restore Purchases: Changed your phone? Get your Premium back in one tap.",
+      "🔔 What's New: This window shows you every new feature when you update.",
+      "🛠️ Small Fixes: Smoother trip endings and better stability."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.metro_driver_india"
+  },
+  {
     "id": "1.0.0",
     "force_update": false,
     "title": "🚇 Welcome to Metro Driver India!",
