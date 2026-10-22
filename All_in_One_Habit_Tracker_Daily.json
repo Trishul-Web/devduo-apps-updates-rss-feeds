@@ -1,5 +1,24 @@
 [
   {
+    "id": "1.11.0",
+    "force_update": false,
+    "title": "🔔 Smart Reminders Are Here!",
+    "message": "Never forget a habit, task or special date again! Set gentle reminders for your daily habits, recurring events and upcoming milestones, all in a few taps.",
+    "points": [
+      "⏰ Habit Reminders: Get reminded at the exact times you choose. Add up to 6 reminder times a day.",
+      "💧 Repeat Reminders: Perfect for water and other repeat habits. Get a nudge every 1, 2, 3, 4 or 6 hours, only between the hours you pick.",
+      "📆 Choose Your Days: Remind only on weekdays, weekends or any days you like.",
+      "✅ Smart Stop: Once you log a habit, the rest of today's reminders stop automatically.",
+      "✂️ Event Reminders: Get reminded a set number of days, weeks, months or years after you last did something, like a haircut or oil change.",
+      "🔁 Overdue Nudges: If an event is overdue, we'll gently remind you each day until you mark it done.",
+      "🎯 Milestone Alerts: Get notified on the big day, plus 1 day, 3 days, 1 week, 2 weeks or 1 month before.",
+      "🔥 Streak Protection Alert: A heads-up at 9 PM if one of your streaks is about to break.",
+      "⚙️ Notification Settings: Open the new card in the Analytics tab to turn reminders on or off, send a test notification and check permissions.",
+      "✨ Better Stability: Small bug fixes and improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
     "id": "1.10.0",
     "force_update": false,
     "title": "🔥 Streaks, Shields & Year in Pixels! 🟩",
