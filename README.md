@@ -73,6 +73,11 @@
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/indian_train_master.json"><font size="1">📡 Feed</font></a>
     </td>
     <td align="center" width="16.66%">
+      <img src="https://play-lh.googleusercontent.com/s7c8oRTZYmab9St-56EOkKf6zqFBmFrxyZzwLg8EyGJIpskMjbhYQVodZQr8ogfkaYcTvNwVp_X2gP24lHsaeA=s256-rw" width="100" height="100"><br>
+      <font size="1"><b>Metro Driver India</b></font><br>
+      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/metro-driver-india-updates.json"><font size="1">📡 Feed</font></a>
+    </td>
+    <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/DheZ43QvWfA5nPyawQKrnCLxFxQUKgk6pNiy7Od6gzG1pD1GlN61-c6uHgYywL_Hztt6jHeZXdIFCkw-J2At=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Newszio: Personalize Your News</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Newszio_Personalize_Your_News.json"><font size="1">📡 Feed</font></a>
