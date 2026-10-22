@@ -1,5 +1,25 @@
 [
   {
+    "id": "2.4.0",
+    "force_update": false,
+    "title": "✨ Share Your Cards in Real 3D!",
+    "message": "Version 2.4.0 lets your friends see your cards in full 3D, even without the app. Sharing is now easier with more choices, and cards with many pages are simpler to use everywhere.",
+    "points": [
+      "Share in 3D: Send one file that opens in any browser. Your friend can rotate, flip and tilt your card in 3D, no app needed.",
+      "Zoom & Full Screen: Pinch to zoom the 3D card, or tap Full Screen to show only the card.",
+      "More Ways to Share: Send your card as an Image, a PDF or a 3D file, all from one Share button.",
+      "Current or All Pages: For cards with many pages, choose to share just this page or all pages together.",
+      "White or Clear Background: Pick a white background or a transparent one when sharing as an image.",
+      "Cover Page: The page you view last in the Studio becomes the card's cover in your Gallery, Wallet and home screen widget.",
+      "Page Switcher: Move between pages with ‹ 1 / 3 › in the 3D view and in the Wallet.",
+      "Page Count Tags: See at a glance which cards have more than one page.",
+      "Perfect Exports: Saved images and PDFs now look exactly like the Sheet View, neatly centered.",
+      "Free Image Moving: Adjust arrows now move the image across the whole half page.",
+      "Bug Fixes: Smoother 3D flips, correct page shown in Flat Layout, and the right card shown when opening Reels and Cards view."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "2.3.0",
     "force_update": false,
     "title": "👛 New 3D Wallet Mode is Here!",
