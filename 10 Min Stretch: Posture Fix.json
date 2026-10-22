@@ -1,5 +1,22 @@
 [
   {
+    "id": "1.16.0",
+    "force_update": false,
+    "title": "📉 Is Stretching Working? Now You Can See It!",
+    "message": "Rate your pain before and after each session and watch it go down over time.",
+    "points": [
+      "😣 Quick Pain Check: Before you start, rate how your neck, back or any area feels from 0 to 10.",
+      "😄 After Session Check: When you finish, rate it again and see how much better you feel.",
+      "📊 Instant Result: Your summary shows your change, like 'Neck pain 7 → 4 (-43%)'.",
+      "🎯 Choose Your Pain Area: Neck, shoulders, back, hips, legs, wrists, eyes and more.",
+      "📉 Relief Trend: The Stats screen shows your last result and if your pain is going down.",
+      "👑 PRO Insights: Filter by area, see a before vs after chart, your monthly progress, and which routine helps you most.",
+      "⏭️ Your Choice: Not in the mood? Just tap Skip and start stretching.",
+      "🛠️ Small Fixes: Smoother pain slider and better stability."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.15.0",
     "force_update": false,
     "title": "⏱️ Stretch on Your Time: 1 to 20 Minutes! 🎯",
