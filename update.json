@@ -1,5 +1,23 @@
 [
   {
+    "id": "11.10.0",
+    "force_update": false,
+    "title": "🛠️ 6 Pro Developer Tools Are Here! (v11.10.0) 🚀",
+    "message": "The Tools tab is now a full developer toolbox. Everything works offline, right inside DevDuo IDE, and your data never leaves your phone.",
+    "points": [
+      "🧩 NEW: JSON Studio — Paste any JSON to check it for errors (we show the exact line), make it neat with Beautify, shrink it with Minify, sort keys, or explore it as a tree.",
+      "🎨 NEW: Color Lab — Pick any color and copy it as HEX, RGB, HSL, Flutter, SwiftUI or Android code with one tap. Check text contrast and build your own palette.",
+      "📸 Pick Colors From Photos — Open any image and touch a spot to grab its color. A zoom loupe shows the exact pixel, and arrow buttons let you move 1 pixel at a time.",
+      "🔀 NEW: Diff & Merge — Compare two versions of your code. Red lines were removed, green lines were added. Choose which changes to keep and merge them.",
+      "🖼️ Share Diffs as Images — Copy the changes as text or share a clean image, perfect for websites, blogs and team chats.",
+      "🔑 NEW: JWT Decoder — Paste a login token to see what's inside, when it expires, and if it's still active. Decoded only on your phone.",
+      "⚡ NEW: Boilerplates — Get ready-to-use starter code for Flutter, Python, JavaScript, HTML, Java, C++, Go, SQL and TypeScript. Just set a name and copy.",
+      "🔒 100% Offline & Private — None of these tools send your data anywhere.",
+      "🔧 Bug fixes and small improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.9.0",
     "force_update": false,
     "title": "💾 Never Lose Your Code Again! (v11.9.0) 🛟",
