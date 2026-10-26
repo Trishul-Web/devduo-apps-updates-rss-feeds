@@ -1,5 +1,20 @@
 [
   {
+    "id": "1.5.0",
+    "force_update": false,
+    "title": "🎓 Version 1.5.0 • Learn by Playing!",
+    "message": "Welcome, Rail Boss! New to the game? A friendly coach now shows you exactly where to tap, step by step, so you can start running trains in just a minute.",
+    "points": [
+      "👆 Tap-Along Guide: A glowing finger points to the exact button to press. No long reading needed.",
+      "🚆 First Train in Seconds: Accept a contract and send your first train out with easy steps.",
+      "🎁 Rewards & Contracts: Learn where to collect your daily rewards and see all contracts.",
+      "🏗️ Build Your Own Train: Pick an engine, add a coach, and deploy your very first custom train.",
+      "💰 Starter Cash: New players get a one-time cash boost to help them begin.",
+      "🔁 Replay Anytime: Open Settings → Interactive Tutorial to watch it again."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire"
+  },
+  {
     "id": "1.4.0",
     "force_update": false,
     "title": "🚉 Version 1.4.0 • Living, Busy Stations!",
