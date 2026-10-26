@@ -1,34 +1,51 @@
 [
     {
-    "id": "3.1.0",
-    "force_update": false,
-    "title": "📱 Your QR on the Home Screen!",
-    "message": "No more opening the app and searching for your code! Now you can put any QR right on your phone's home screen. One tap shows it big and bright, ready to scan.",
-    "points": [
-      "📱 Home Screen Widget: Add your UPI, Wi-Fi or any QR to your home screen. Perfect when a customer wants to pay or a guest asks for the Wi-Fi.",
-      "✏️ Name Your Widgets: Give each widget a name like \"Shop UPI\" or \"Guest Wi-Fi\" and add as many as you like.",
-      "↔️ Any Size You Want: Long-press the widget to resize it, from big down to a tiny 1×1.",
-      "🔆 Full Screen View: Tap the widget to show your QR full-screen with the brightness boosted, so it scans instantly.",
-      "🕘 Works From History Too: Tap the 👁 eye on any saved QR to open it full screen or add it as a widget.",
-      "🎨 Colors That Match: Your \"Scan Me\" text now uses your chosen color, and the branding banner can match your QR design with one switch."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+        "id": "3.2.0",
+        "force_update": false,
+        "title": "🖨️ Print Your QR, Perfectly!",
+        "message": "Made a great QR but it prints too small or blurry? Not anymore! The new Print Studio turns your QR into ready-to-print stickers, posters, table stands and cards, sharp and at the exact size, every time.",
+        "points": [
+          "🖨️ Print Studio: Tap \"Export for Print\" at the bottom of the Customize screen to open it.",
+          "🏷️ Sticker Sheets: Print 6, 12 or 24 stickers on one A4 page, with cut lines to help you cut them neatly.",
+          "⛺ Table Tents: A fold-in-half stand for shop counters and café tables, like \"Scan to Pay\" or \"Scan for Menu\".",
+          "📄 Posters: A big A4 or A5 poster with your own headline, like \"Wi-Fi: Scan to Connect\".",
+          "💳 Card Size: Print your QR on standard business card size, 10 on each A4 sheet.",
+          "🎨 Your Design, Printed: Your frame, banner, logo and colors all come out exactly as you made them.",
+          "📦 Bulk Made Easy: Made many codes in Bulk mode? They fill the sheets automatically, each with its own label.",
+          "👀 See Before You Print: A live preview shows exactly what will print. Then print it or share it as a PDF."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
     },
     {
-    "id": "3.0.0",
-    "force_update": false,
-    "title": "🔗 All Your Links in One QR!",
-    "message": "We're now called Custom QR! Create your own mini page with all your links, like Instagram, WhatsApp, website and payments, and share it with just one QR code. No account and no monthly fee, and it never expires.",
-    "points": [
-      "🔗 All Links in One QR: Add your social media, WhatsApp, website, phone, email and payment links. One scan shows them all on a beautiful page.",
-      "🎨 11 Page Designs: Pick from Classic List, Grid, Bento, Neon, Business Card and more, with 6 color themes.",
-      "✏️ Your Own Button Names: Rename buttons to anything you like, such as \"Order on WhatsApp\" or \"My Portfolio\".",
-      "📇 Save Contact Button: People who scan your QR can save your number and email in one tap.",
-      "👀 Live Preview: See exactly how your page looks before you create it, and view the full design on the web.",
-      "✨ New Name and Fresh Look: QR Code Generator is now Custom QR, with a cleaner home screen and a tidier History.",
-      "🎯 Real Brand Icons: Your page now shows real WhatsApp, Instagram, YouTube and website logos."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+        "id": "3.1.0",
+        "force_update": false,
+        "title": "📱 Your QR on the Home Screen!",
+        "message": "No more opening the app and searching for your code! Now you can put any QR right on your phone's home screen. One tap shows it big and bright, ready to scan.",
+        "points": [
+          "📱 Home Screen Widget: Add your UPI, Wi-Fi or any QR to your home screen. Perfect when a customer wants to pay or a guest asks for the Wi-Fi.",
+          "✏️ Name Your Widgets: Give each widget a name like \"Shop UPI\" or \"Guest Wi-Fi\" and add as many as you like.",
+          "↔️ Any Size You Want: Long-press the widget to resize it, from big down to a tiny 1×1.",
+          "🔆 Full Screen View: Tap the widget to show your QR full-screen with the brightness boosted, so it scans instantly.",
+          "🕘 Works From History Too: Tap the 👁 eye on any saved QR to open it full screen or add it as a widget.",
+          "🎨 Colors That Match: Your \"Scan Me\" text now uses your chosen color, and the branding banner can match your QR design with one switch."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+    },
+    {
+        "id": "3.0.0",
+        "force_update": false,
+        "title": "🔗 All Your Links in One QR!",
+        "message": "We're now called Custom QR! Create your own mini page with all your links, like Instagram, WhatsApp, website and payments, and share it with just one QR code. No account and no monthly fee, and it never expires.",
+        "points": [
+          "🔗 All Links in One QR: Add your social media, WhatsApp, website, phone, email and payment links. One scan shows them all on a beautiful page.",
+          "🎨 11 Page Designs: Pick from Classic List, Grid, Bento, Neon, Business Card and more, with 6 color themes.",
+          "✏️ Your Own Button Names: Rename buttons to anything you like, such as \"Order on WhatsApp\" or \"My Portfolio\".",
+          "📇 Save Contact Button: People who scan your QR can save your number and email in one tap.",
+          "👀 Live Preview: See exactly how your page looks before you create it, and view the full design on the web.",
+          "✨ New Name and Fresh Look: QR Code Generator is now Custom QR, with a cleaner home screen and a tidier History.",
+          "🎯 Real Brand Icons: Your page now shows real WhatsApp, Instagram, YouTube and website logos."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
   },
   {
     "id": "2.0.0",
