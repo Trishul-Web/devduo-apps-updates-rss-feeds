@@ -1,5 +1,22 @@
 [
   {
+    "id": "8.14.0",
+    "title": "Blur Box: Hide Private Info",
+    "message": "Sharing your ID card or a document with someone? Now you can hide your private details like card numbers, phone numbers and addresses with a simple blur box before you share!",
+    "force_update": false,
+    "points": [
+      "🔒 Blur Box: Place a box over any private detail and it gets blurred instantly.",
+      "✋ Easy to Adjust: Drag the box to move it and pull the white dots to make it bigger or smaller.",
+      "➕ Add Many Boxes: Hide as many things as you want on the same page.",
+      "❌ Remove Anytime: Tap the red cross on a box to delete it, or use Clear All.",
+      "🪪 ID Card Mode: Tap the new blur button on the Finalize screen to hide numbers on your cards.",
+      "✏️ Documents: Open Draw and choose the new Blur tab to hide anything on your scanned pages.",
+      "📌 Stays in Place: Your blur boxes stay exactly where you put them, even when you edit again later.",
+      "📤 Safe Sharing: The blur is included in your saved and shared PDF, so your details stay hidden."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
     "id": "8.13.0",
     "title": "Page Numbers & Date Stamp",
     "message": "Submitting documents to an office or school? Now you can add page numbers and today's date to your PDF in just one tap!",
