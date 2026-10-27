@@ -1,5 +1,23 @@
 [
   {
+    "id": "6.15.0",
+    "force_update": false,
+    "title": "✨ New: Scan Enhancer!",
+    "message": "Took a photo of a document and it came out dark, crooked or full of shadows? Now you can fix it in a few taps. Open any PDF, tap Edit, then tap Enhance to make your pages look clean and professional.",
+    "points": [
+      "🪄 Magic Color: Removes dark shadows from phone photos while keeping colors bright and natural.",
+      "⬛ B&W Doc Mode: Turns pages into crisp black-and-white text, perfect for forms, notes and receipts.",
+      "🎨 More Filters: Choose Auto, Grayscale or Lighten to get the look you want.",
+      "✂️ Crop & Rotate: Drag the corners to cut out extra background, and rotate pages that are sideways.",
+      "🔆 Light & Contrast: Use simple sliders to make any page brighter or sharper.",
+      "↩️ Undo Anytime: Changed your mind? Tap 'Original' to bring back the page as it was.",
+      "💾 Saved Everywhere: Enhanced pages appear in your saved PDF, shared files and editable projects.",
+      "📱 Smoother Editor: Edit tools now scroll sideways, so everything fits nicely on smaller phones.",
+      "🔧 Under-the-hood stability and performance improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.14.0",
     "force_update": false,
     "title": "📸 New: Scan Documents to PDF!",
