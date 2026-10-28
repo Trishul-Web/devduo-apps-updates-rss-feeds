@@ -1,5 +1,24 @@
 [
   {
+    "id": "4.9.0",
+    "title": "🧩 HOME SCREEN WIDGETS ARE HERE!",
+    "message": "Stay disciplined without even opening the app! Put your tasks, trackers and dots right on your home screen and update them with a single tap. ⚒️🔥",
+    "points": [
+      "📅 Daily Tasks Widget: See all of today's tasks, tick them done with one tap and earn your DP right from the home screen.",
+      "◀️▶️ Change the Date: Use the arrows on the widget to look at past or upcoming days, and tap the date to jump back to today.",
+      "➕ Quick Add: Tap the + on the widget to create a new task or daily habit in seconds, without opening the app.",
+      "🛡️ Proof in One Tap: Tap 'PROOF' on any completed task or protocol to jump straight to adding your photos, notes or voice proof.",
+      "🎯 Tracker Widget: Your full tracker card with the − and + buttons and the progress ring. Log water, pages, steps and more instantly.",
+      "🔵 Dots Widget: Your protocol card with the full month of dots. Tap any day to secure it, and use ‹ › and TODAY to move between months.",
+      "🧩 Add Many Widgets: Place one widget for each tracker or protocol, so every goal gets its own spot on your home screen.",
+      "📲 One-Tap Add: Tap the widget icon on the Home screen, or choose 'Add to Home Screen' from any tracker or protocol menu.",
+      "📐 Smooth Resizing: Make any widget bigger or smaller and everything scales evenly to fit perfectly.",
+      "🔒 Same Rules, Same Progress: Everything you do on a widget instantly syncs with the app, and your Premium limits stay the same."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
     "id": "4.8.0",
     "title": "🎙️ VOICE PROOF IS HERE!",
     "message": "Now you can speak your proof of work! Record voice clips to capture your wins, struggles and progress in your own words. ⚒️🔥",
