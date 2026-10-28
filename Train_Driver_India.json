@@ -1,5 +1,27 @@
 [
     {
+        "id": "1.7.0",
+        "force_update": false,
+        "title": "🚂 Loco change & Skip stations! (v1.7.0)",
+        "message": "Change your engine at a stop, run through stations without stopping, and many fixes you asked for!",
+        "points": [
+            "🔄 NEW: Loco change — at any stop, uncouple your engine, park it in the siding, then drive your new engine (1 or 2 locos) onto the train. Electric to diesel, or anything you like!",
+            "↩️ Loco change with REV: the new engine couples at the other end — no run-round needed.",
+            "🔁 What you pick is what you get: engines and bankers now look exactly like their picture. Tap FLIP to turn an engine round.",
+            "⏩ NEW: Skip stops — tap SKIP and your train runs through that station on the main line, green signals all the way, like a real Duronto.",
+            "🚉 At skipped stations, other trains may wait for you on another platform — you cross them or overtake them.",
+            "🏷️ Smarter train names: passing trains now match your route, for example 'Pune – Howrah Duronto' when you drive Pune to Mumbai.",
+            "💾 Saved Journeys now show your full route with REV, banker, loco change and skip marks — tap ROUTE to see where you are.",
+            "🧭 Saves now keep your direction and your engine after a reversal or loco change.",
+            "🚦 Signal fixes: no more red signals that never turn green. If you wait 20 seconds, the station master lets you pass and tells you why you were stopped.",
+            "🏆 Activities support loco change and skip stops too, with clear limits shown while you build.",
+            "📋 Cleaner stop rows: all options (PF, REV, Banker, Loco, Skip) sit neatly below the station name, and the whole journey list scrolls.",
+            "💾 Your old saved journeys and activities still work.",
+            "✨ Many small fixes and improvements."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+    },
+    {
         "id": "1.6.0",
         "force_update": false,
         "title": "⏰ Choose your time speed! (v1.6.0)",
