@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.6.0",
+    "force_update": false,
+    "title": "YOUR COINS ARE SAFE!",
+    "message": "You told us coins at the ticket windows disappeared after closing the game. Now they are saved, so you never lose your earnings!",
+    "points": [
+      "💰 Ticket Coins Saved: Coins waiting at your ticket windows now stay safe even after you close or restart the game.",
+      "🛋️ Faster Lounge Refresh: Quick Refresh in the VIP Lounge now finishes a guest's rest instantly, so the seat opens right away.",
+      "🛏️ Better Cabin Refresh: Quick Refresh in Deluxe Cabins now works more smoothly and reliably.",
+      "⚙️ Smoother Station: Bug fixes and stability improvements across the game.",
+      "🙏 Thanks for the Feedback: This update comes from your suggestions. Keep telling us what you think!"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager"
+  },
+  {
     "id": "1.5.0",
     "force_update": false,
     "title": "SMOOTHER VIP GUESTS!",
