@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.4.0",
+    "force_update": false,
+    "title": "👷 Version 1.4.0 • Shunter Overtime!",
+    "message": "Station Master, busy shunters will not stop your station anymore! When every yard shunter is out working, you can now hire a temporary shunter for one trip. Watch a short ad and an extra engine arrives to do the job. VIP players hire instantly with no ads.",
+    "points": [
+      "👷 Temporary Shunter: All shunters busy? Hire an extra one for a single trip.",
+      "🚃 Platform Help: Use the temporary shunter to send a yard rake to any free platform.",
+      "🛠️ Maintenance Help: Use it to take empty coaches to the maintenance depot.",
+      "🎲 Surprise Engine: Every temporary shunter is a different engine.",
+      "🔁 One Trip Only: The temporary shunter leaves after its job, and your own shunters stay the same.",
+      "👑 VIP Bonus: VIP Lifetime Pass players hire temporary shunters instantly with no ads.",
+      "🛠️ Small fixes and improvements for a smoother game."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
+  },
+  {
     "id": "1.3.0",
     "force_update": false,
     "title": "⏩ Version 1.3.0 • No More Waiting!",
