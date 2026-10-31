@@ -77,13 +77,13 @@
       <font size="1"><b>Metro Driver India</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/metro-driver-india-updates.json"><font size="1">📡 Feed</font></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/DheZ43QvWfA5nPyawQKrnCLxFxQUKgk6pNiy7Od6gzG1pD1GlN61-c6uHgYywL_Hztt6jHeZXdIFCkw-J2At=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Newszio: Personalize Your News</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Newszio_Personalize_Your_News.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/HSDpQXH1EtUjbbD3w7NjBRG9AN5Gd09sW7d4_kTld-nZdbNfmxfWBajxbfOj2VcXB7E3Ac7M641HyiMmU9a4rUI=s512-rw" width="100" height="100"><br>
       <font size="1"><b>NoMoreDistraction Launcher</b></font><br>
@@ -109,13 +109,13 @@
       <font size="1"><b>SafeKey: Password Manager Safe</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SafeKey_Password_Manager_Safe.json"><font size="1">📡 Feed</font></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/Y-vEXw1NXdcXe6uSVeucD6Bv2TtN5uBQTNT8ah07H--sXo9IcO5E8h0WYPADhyMp8w=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Safekeep: Secure Folder Vault</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Safekeep_Secure_Folder_Vault.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
      <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/ddvFW3biXwZqg5CRC3Kz3shsYXH4eP7bLaIHuwUr3nTOcnhybmLZXzerzCppRk4w7lTRUdyM-z7rVOdBu2EdrA=s512-rw" width="100" height="100"><br>
       <font size="1"><b>SaveAnything: Link & File Save</b></font><br>
@@ -141,7 +141,6 @@
       <font size="1"><b>Web to PDF: URL & HTML</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Web_to_PDF_URL_%26_HTML.json"><font size="1">📡 Feed</font></a>
     </td>
-    <td align="center" width="16.66%"></td>
   </tr>
 </table>
 
