@@ -1,5 +1,23 @@
 [
   {
+    "id": "2.16.0",
+    "force_update": false,
+    "title": "No Time? Read the Summary! 📝✨",
+    "message": "This update helps you understand the news in seconds. Get the 3 most important points of any story, or quickly read summaries of your whole feed in one place.",
+    "points": [
+      "📝 Quick Summary: Tap the Summary button on any story card to see its 3 most important points instantly.",
+      "📋 Summaries Screen: Tap 'Summaries' next to Daily Brief to read short summaries of all your stories in one list. It's also in Explore, search, your mixes, Good News and Saved stories.",
+      "⚡ Automatic Full Summaries: As you scroll, the app reads each full article and gives you a better summary. No need to tap anything.",
+      "🔄 Keep Reading: Finished all summaries? Tap 'Load New Stories' to get fresh news for the same topic.",
+      "🔖 Save From Summaries: Tap the bookmark on any summary to save that story for later.",
+      "📴 Works Offline: Summaries of your saved stories work even without internet.",
+      "🤖 Faster AI Summarize: The Summarize button in the AI Assistant now answers instantly and does not use your daily AI questions.",
+      "🖥️ Better Full Screen: Full Screen mode now hides the bottom bar too, so you get more space to read.",
+      "⚡ Bug Fixes & Polish: Small improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.15.0",
     "force_update": false,
     "title": "Smarter Mixes & Easier Sharing! 🔗✨",
