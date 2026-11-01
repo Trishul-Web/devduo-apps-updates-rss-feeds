@@ -1,5 +1,20 @@
 [ 
   {
+    "id": "1.15.0",
+    "force_update": false,
+    "title": "✨ Clearer & Easier to Use",
+    "message": "This update makes the app clearer for you. Your saved files now have easy-to-find names, and the PRO plan screen shows exactly what you get, with no confusion.",
+    "points": [
+      "📁 Easy to Find Files: Photos, ZIP and PDF files you save or share now start with the app name, so you can spot them quickly in your gallery and file manager.",
+      "🔢 Neat Numbering: Photos inside a ZIP file now start from 1 instead of 0.",
+      "👑 Clear PRO Table: The PRO screen now shows the real daily limits for Batch Save, Target KB, ZIP and PDF export, Combine photos and Page Studio pages.",
+      "🔒 Privacy Made Clear: Your photos are processed on your phone and never uploaded. Location and camera details can be removed before you share.",
+      "🏠 Better Home Screen: Feature cards now explain each tool in simple, accurate words.",
+      "🚀 Smoother Experience: Small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.14.0",
     "force_update": false,
     "title": "🧩 New! Combine & Page Studio",
