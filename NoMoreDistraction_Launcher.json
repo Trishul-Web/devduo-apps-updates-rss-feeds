@@ -1,5 +1,21 @@
 [
   {
+    "id": "8.14.0",
+    "force_update": false,
+    "title": "⏳ Doom-Scroll Alarm: Catch the Endless Scroll!",
+    "message": "Ever opened an app for a minute and looked up 40 minutes later? Now your launcher gently taps you on the shoulder before time slips away.",
+    "points": [
+      "⏳ Doom-Scroll Alarm: Pick the apps that steal your time, like Reels, Shorts or social feeds. If you stay in one non-stop for too long, a calm full-screen reminder appears.",
+      "⏱️ Your Own Time Limit: Choose 15, 20 or 30 minutes for each app, or set a custom time that fits you.",
+      "🏠 One Tap to Escape: Tap 'Take me home' to close the app and get back to your day.",
+      "✋ Hold for More: Need a little longer? Hold the button to get 5 more minutes. Each extra snooze needs a longer hold, so you stay in control.",
+      "🔐 Easy Setup: The app shows exactly which permissions are needed and why, with simple Grant buttons. If a permission gets turned off later, you'll see a clear warning to fix it.",
+      "🛡️ Works Alongside Real Lock: Use the Doom-Scroll Alarm on its own or together with your App Locks, Zen Mode and Mindful Intercepts.",
+      "✨ Smoother performance and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.13.0",
     "force_update": false,
     "title": "🔍 Search Inside Your Apps, Now Working Perfectly!",
