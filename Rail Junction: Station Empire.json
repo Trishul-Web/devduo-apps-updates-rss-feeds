@@ -1,5 +1,20 @@
 [
   {
+    "id": "1.14.0",
+    "force_update": false,
+    "title": "⚡ Faster & Smoother Update! 🚂",
+    "message": "Welcome to Version 1.14.0! Thanks to your feedback, the game now runs faster and your ad rewards work just right.",
+    "points": [
+      "💰 3X Coins Fixed: Watch an ad to stop a train at your station and you now get the full 3X coins, just as promised.",
+      "⭐ See Your Bonus: Boosted trains now show a 3X BONUS sign on the track board, so you know it worked.",
+      "🚀 Faster Game Start: The game opens much quicker, even on slower phones and networks.",
+      "🛠️ No More Freezing: Station Manager, Terminal Manager and Coach Upgrades now open and scroll smoothly.",
+      "🎵 Smoother Music: Background music now starts after the game loads, so the start feels quicker.",
+      "⚙️ Better Stability: Fixed app freezes and improved performance so your railway empire keeps running."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.13.0",
     "force_update": false,
     "title": "📊 Clear Train Levels Update! 🚂",
