@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.22.0",
+    "force_update": false,
+    "title": "📄 New Update: One Long Resume Page, No Page Breaks! 🚀",
+    "message": "Now you can turn your resume into one continuous page instead of separate A4 pages. It looks clean on phones, emails and job websites, with no awkward breaks in the middle of your experience.",
+    "points": [
+      "📄 Continuous Page: Your whole resume can now be one long page. No more sections getting cut between pages!",
+      "⚙️ Easy to Turn On: Open Preview, tap Spacing, and switch on 'Continuous Page (No Breaks)'.",
+      "🎨 Works with Every Design: Side panels and colored headers stretch neatly to match your full resume length.",
+      "📤 Better for Sharing: Long-page resumes look great when sent by email, WhatsApp or uploaded to job portals.",
+      "🖨️ A4 Pages Still Here: Need to print? Just switch it off to get normal A4 pages again.",
+      "🔄 Reset Anytime: 'Reset to Default' brings back normal A4 pages in one tap.",
+      "✨ Bug Fixes & Speed: Improved stability and made the app smoother."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.21.0",
     "force_update": false,
     "title": "👀 New Update: Try PRO Templates Before You Upgrade! 🚀",
