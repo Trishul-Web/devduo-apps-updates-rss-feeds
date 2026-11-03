@@ -1,5 +1,22 @@
 [
   {
+    "id": "1.12.0",
+    "force_update": false,
+    "title": "📅 No More Double Saves + Browse by Date",
+    "message": "Ever saved the same video or link twice without knowing? SaveAnything now tells you when something is already in your vault, and your saves are neatly grouped by day.",
+    "points": [
+      "🔍 Already Saved Check: Save a link, note, photo or file you already have and we'll show it to you first. Tap View to see it, or Save again if you want another copy.",
+      "📍 Takes You Right There: Tap View and the app scrolls straight to your saved item and makes it glow, so you can open, edit or delete it.",
+      "⬆️⬇️ Jump Between Copies: Saved the same thing more than once? Use the up and down buttons to move between every copy, just like search in a PDF.",
+      "🧹 New Repeated Filter: On Home, tap Repeated to see only the items you saved more than once, grouped together so cleaning up is easy.",
+      "📤 Smarter Sharing: When you share many items at once, the ones you already saved are skipped for you.",
+      "📅 Saves by Date: Home, Favorites and Folders now show your items under Today, Yesterday and the date you saved them.",
+      "🗓️ Jump to Any Day: Tap a date and a calendar opens with only the days you saved something. Pick a day and we take you there.",
+      "🛠️ Small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.11.0",
     "force_update": false,
     "title": "🔔 Reminders Are Here! Never Forget Your Saves",
