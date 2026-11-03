@@ -1,5 +1,22 @@
 [
   {
+    "id": "6.9.0",
+    "force_update": false,
+    "title": "🔁 New Revision Mode: Remember What You Learn! 🧠",
+    "message": "Learning something once is good, but remembering it is even better! Now you can quickly practice questions from lessons you have already finished, so your knowledge stays fresh.",
+    "points": [
+      "🔁 Revision Button: Find the new 'Revision' button on every course card in My Learning, right next to Continue Learning.",
+      "❓ Practice Old Questions: Get up to 10 random questions from the lessons you have already completed in that course. Every round gives you a new mix.",
+      "📖 Read Lesson Again: Forgot something? Tap 'Read Lesson' to open the full lesson, read it quickly, and then answer the question.",
+      "💡 Smart Hints: Tap 'Use Hint' to see grey guide text and a marked answer. Nothing is filled in for you, so you still answer by yourself and learn better.",
+      "🔄 Try Again Anytime: Got it wrong? No stress. Try again or reread the lesson first, then answer.",
+      "📊 Your Results: At the end, see how many you got right on the first try and which lessons you should review again.",
+      "🟢 Fresh Look: The Continue Learning button is now green, so it's easier to spot.",
+      "🚀 Smoother Experience: Performance improvements and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.8.0",
     "force_update": false,
     "title": "🤖 Meet Your AI Tutor: Ask This Lesson! ✨",
