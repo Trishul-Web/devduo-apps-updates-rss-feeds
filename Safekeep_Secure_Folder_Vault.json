@@ -1,5 +1,22 @@
 [
      {
+       "id": "7.13.0",
+       "title": "Emergency Recovery Kit 🔑",
+       "message": "Forgot your Master Key? Now you never lose your vault. Safekeep can turn your key into 3 secret QR codes called shards. Any 2 shards bring your key back, and 1 shard alone shows nothing to anyone.",
+       "points": [
+         "🔑 Create Recovery Kit: Go to Profile and tap Create Recovery Kit. You get 3 QR shards.",
+         "👨‍👩‍👧 Keep Them Apart: Keep one yourself, give one to a family member, and print one for a locker or safe.",
+         "🖼️ Save or Share: Save any shard straight to your gallery, or share it with someone you trust.",
+         "🆘 Forgot Your Key? On the lock screen, tap 'Recover with Shards', pick 2 shard photos from your gallery or scan them with the camera, and your vault opens.",
+         "☁️ Works Everywhere: Recovery also works when connecting Google and when restoring a vault backup.",
+         "🔒 Safe by Design: One shard alone reveals nothing, and shards from different kits can't be mixed.",
+         "🎁 For Everyone: The Recovery Kit is included for all users.",
+         "🛡️ Privacy and stability fixes."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider",
+       "force_update": false
+     },
+     {
        "id": "7.12.0",
        "title": "Auto-Lock & Privacy Shield 🛡️",
        "message": "Your vault now protects itself, just like a banking app. If you put your phone down or switch apps, Safekeep locks automatically so nobody can see your files.",
