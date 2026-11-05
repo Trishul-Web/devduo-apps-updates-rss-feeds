@@ -1,5 +1,21 @@
 [
   {
+    "id": "3.13.0",
+    "force_update": false,
+    "title": "🌅 Meet Living Sky: a clock that follows your day! ✨",
+    "message": "Your clock now changes with the real time of day. Watch the sun rise in the morning, set in the evening, and the moon and stars come out at night.",
+    "points": [
+      "🌅 New Living Sky Theme: Find it in the Sky collection. The sky changes by itself from sunrise to daytime, sunset and night.",
+      "☀️ Real Sun and Moon: The sun moves across the sky during the day, and the moon rises with twinkling stars at night.",
+      "🏷️ Time of Day Label: A small tag above the time shows if it's Sunrise, Morning, Afternoon, Sunset, Dusk or Night.",
+      "🌌 Full Screen Scenery: All Sky and Space themes now fill your whole screen with their rain, snow, planets and stars.",
+      "🔍 Smoother View: The clock now grows and shrinks evenly when you open or hide the studio, with no jumping around.",
+      "🛏️ Works Everywhere: Living Sky also works in StandBy and the Screen Saver while charging.",
+      "🛠️ Fixed a box that showed behind some clocks, plus speed and stability improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.12.0",
     "force_update": false,
     "title": "📱 Home Screen Widgets are here! ✨",
