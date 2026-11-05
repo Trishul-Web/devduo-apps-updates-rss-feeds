@@ -1,5 +1,23 @@
 [
     {
+        "id": "1.8.0",
+        "force_update": false,
+        "title": "🚆 New trains added! (v1.8.0)",
+        "message": "Drive famous new trains — a classic express, a royal luxury train, a blue express and two double deckers!",
+        "points": [
+            "👑 NEW: Deccan Queen Express — AC and sleeper coaches with its own power cars at both ends. Every train mixes the coach designs, so no two look the same.",
+            "🏰 NEW: Maharaja Express — a royal luxury train with saloons, deluxe coaches and AC sleepers.",
+            "💙 NEW: Royal Blue Express — a classic blue train with general, sleeper and AC coaches.",
+            "🚃 NEW: Two non-AC double deckers — Sinhagad Double Decker and Flying Ranee Double Decker.",
+            "🛠️ Find all the new coaches in the Train Builder, in their own groups above Freight.",
+            "⭐ 5 new presets — pick one and your train is ready in one tap.",
+            "🚉 The new trains also run on the line: they cross you, overtake you and stand at the platforms, each with a random engine.",
+            "💾 Your old saved journeys and activities still work.",
+            "✨ Small fixes and improvements."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+    },
+    {
         "id": "1.7.0",
         "force_update": false,
         "title": "🚂 Loco change & Skip stations! (v1.7.0)",
