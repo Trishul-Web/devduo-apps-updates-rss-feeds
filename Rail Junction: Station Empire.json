@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.15.0",
+    "force_update": false,
+    "title": "👑 New Royal Trains Update! 🚂",
+    "message": "Welcome to Version 1.15.0! Four brand new premium train families have joined your railway empire.",
+    "points": [
+      "👑 Crown Queen Express: A grand sleeper and AC train with 2 different coach styles, so it looks fresh every time.",
+      "🚃 Double Decker Fleet: Meet the Classic and Coastal Ranee double decker trains rolling through your station.",
+      "💙 Royal Blue Express: A smart blue sleeper and AC train that comes in 2 different coach layouts.",
+      "✨ Royal Majesty Express: Luxury sleeper coaches with a special royal saloon right in the middle.",
+      "🏪 Buy & Schedule: Find all new trains in the Terminal Train Shop and add them to your timetable.",
+      "💰 Earn & Upgrade: Unlock stoppages, boost earnings and service the new coaches in Coach Maintenance.",
+      "🎲 Always Different: Each train gets random coaches and 1 or 2 engines, so no two trips look the same."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.14.0",
     "force_update": false,
     "title": "⚡ Faster & Smoother Update! 🚂",
