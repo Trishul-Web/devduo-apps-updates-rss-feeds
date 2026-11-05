@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.5.0",
+    "force_update": false,
+    "title": "🚆 Version 1.5.0 • New Trains Arrive!",
+    "message": "Station Master, four new trains are now running through your station! Watch for the luxury Crown Queen and Royal Majesty premier trains, the classic Royal Blue Express, and the new Double Decker trains. Each train comes with different coach styles and engines, so no two trains look the same.",
+    "points": [
+      "👑 Crown Queen Express: A grand premier train with sleeper and AC coaches in different styles.",
+      "💎 Royal Majesty Express: A luxury premier train with a special saloon coach in the middle.",
+      "🔵 Royal Blue Express: A classic blue train with sleeper and AC coaches.",
+      "🚃 Double Decker Trains: New Classic and Coastal Ranee double decker coaches.",
+      "🎨 More Variety: Coach styles and engines change every time, so trains always look fresh.",
+      "💰 Premier Rewards: Crown Queen and Royal Majesty give premier coins when you complete them.",
+      "🛠️ Small fixes and improvements for a smoother game."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
+  },
+  {
     "id": "1.4.0",
     "force_update": false,
     "title": "👷 Version 1.4.0 • Shunter Overtime!",
