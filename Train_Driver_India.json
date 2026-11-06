@@ -1,14 +1,35 @@
 [
     {
+        "id": "1.9.0",
+        "force_update": false,
+        "title": "✨ Better looking new trains! (v1.9.0)",
+        "message": "The new trains now look brighter and more detailed, and the Crown Queen got a new coach and a real train order!",
+        "points": [
+            "🎨 IMPROVED: All new train coaches now have better lighting and more detail.",
+            "👑 Crown Queen Express: a second AC coach style added, and the train now runs in a real order — power car, sleeper coaches, AC coaches, more sleepers, power car.",
+            "🏰 Royal Majesty Express: a neat new order — AC sleepers, deluxe coaches and the royal saloon in the middle.",
+            "🚆 In case you missed the last update — these new trains are in the game:",
+            "👑 Crown Queen Express — a classic intercity train with sleeper and AC coaches.",
+            "🏰 Royal Majesty Express — a royal luxury tourist train with saloons and deluxe coaches.",
+            "💙 Royal Blue Express — a classic blue train with general, sleeper and AC coaches.",
+            "🚃 Classic Double Decker and Coastal Ranee Double Decker — two non-AC double deckers, each with its own look.",
+            "🛠️ Find all of them in the Train Builder (in their own groups above Freight) and in 5 ready-made presets.",
+            "🚉 They also run on the line: they cross you, overtake you and stand at the platforms.",
+            "💾 Your saved journeys and activities still work.",
+            "✨ Small fixes and improvements."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+    },
+    {
         "id": "1.8.0",
         "force_update": false,
         "title": "🚆 New trains added! (v1.8.0)",
-        "message": "Drive famous new trains — a classic express, a royal luxury train, a blue express and two double deckers!",
+        "message": "Drive new trains — a classic intercity express, a royal luxury train, a blue express and two double deckers!",
         "points": [
-            "👑 NEW: Deccan Queen Express — AC and sleeper coaches with its own power cars at both ends. Every train mixes the coach designs, so no two look the same.",
-            "🏰 NEW: Maharaja Express — a royal luxury train with saloons, deluxe coaches and AC sleepers.",
+            "👑 NEW: Crown Queen Express — a classic intercity train with sleeper and AC coaches.",
+            "🏰 NEW: Royal Majesty Express — a royal luxury train with saloons, deluxe coaches and AC sleepers.",
             "💙 NEW: Royal Blue Express — a classic blue train with general, sleeper and AC coaches.",
-            "🚃 NEW: Two non-AC double deckers — Sinhagad Double Decker and Flying Ranee Double Decker.",
+            "🚃 NEW: Two non-AC double deckers — Classic Double Decker and Coastal Ranee Double Decker.",
             "🛠️ Find all the new coaches in the Train Builder, in their own groups above Freight.",
             "⭐ 5 new presets — pick one and your train is ready in one tap.",
             "🚉 The new trains also run on the line: they cross you, overtake you and stand at the platforms, each with a random engine.",
