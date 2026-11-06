@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.7.0",
+    "force_update": false,
+    "title": "5 NEW TRAINS ARRIVED!",
+    "message": "Your station just got busier! Five new premium trains now pass through your platforms. Halt them, route them and earn bigger rewards!",
+    "points": [
+      "👑 Crown Queen Express: A colourful train with sleeper and AC coaches, now running on your main lines.",
+      "🏰 Royal Majesty Express: A luxury train with a special saloon car right in the middle.",
+      "💙 Royal Blue Express: A blue sleeper and AC train that comes in two different coach layouts.",
+      "🚃 Classic Double Decker: A heritage double decker train with two floors of passengers.",
+      "🌊 Coastal Ranee Double Decker: A new double decker train for coastal routes.",
+      "🎟️ New Upgrades: Unlock stoppage permits and boost earnings for every new train in the Upgrade screen.",
+      "⚙️ Smoother Station: Bug fixes and stability improvements across the game."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager"
+  },
+  {
     "id": "1.6.0",
     "force_update": false,
     "title": "YOUR COINS ARE SAFE!",
