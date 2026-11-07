@@ -1,5 +1,23 @@
 [
   {
+    "id": "1.12.0",
+    "force_update": false,
+    "title": "💾 Backup & Restore Is Here!",
+    "message": "Your progress is now safe! Save all your data in one backup file and bring it back anytime, even on a new phone.",
+    "points": [
+      "📦 Full Backup: Save all your habits, daily logs, events, event history, milestones, folders, reminders and streak shields in one file.",
+      "📁 Easy to Find: Each backup is named with the date and time, like 2026-11-07_14-30-45.AllInOneTracker, so you always know which one is newest.",
+      "📲 Save or Share: Keep the backup on your phone, or send it to Google Drive, email or chat to keep it extra safe.",
+      "📥 Restore Anytime: Pick your backup file and see what's inside before anything changes.",
+      "🔀 Merge Option: Keep your current data and add only the missing items and history from your backup.",
+      "♻️ Replace Option: Clear current data and restore your backup exactly as it was. Perfect when moving to a new phone.",
+      "🛡️ Safe Import: If something goes wrong, your current data stays untouched.",
+      "📊 Find It Easily: Open the new Backup & Restore card in the Analytics tab.",
+      "✨ Better Stability: Small bug fixes and improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
     "id": "1.11.0",
     "force_update": false,
     "title": "🔔 Smart Reminders Are Here!",
