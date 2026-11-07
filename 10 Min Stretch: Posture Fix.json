@@ -1,5 +1,22 @@
 [
   {
+    "id": "1.17.0",
+    "force_update": false,
+    "title": "🗺️ New: 30-Day Posture Fix Challenge!",
+    "message": "Don't know what to do each day? Just follow the plan. One short routine a day for 30 days.",
+    "points": [
+      "🗺️ Journey Map: See all 30 days on a fun level map and unlock one new day at a time.",
+      "📈 Gets Better Each Week: Gentle Reset, Open Up, Deep Mobility and Lock It In. Holds get a little longer as you grow.",
+      "📋 Posture Check: Answer 6 quick self-tests on Day 1 and again after Day 30 to see your score go up.",
+      "🔔 Never Lose Progress: Missed a day? Your challenge waits for you. The Home screen shows 'Day 12 waiting for you'.",
+      "🏆 Share Your Result: Finish all 30 days and share your result card, like 'Posture Score 54 → 78'.",
+      "🎁 Try It Now: The first 7 days are open to everyone.",
+      "👑 PRO Members: Unlock Days 8 to 30 and complete the full challenge.",
+      "🛠️ Small Fixes: Smoother design and better stability."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.16.0",
     "force_update": false,
     "title": "📉 Is Stretching Working? Now You Can See It!",
