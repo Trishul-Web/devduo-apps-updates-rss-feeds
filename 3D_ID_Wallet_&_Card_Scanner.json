@@ -1,5 +1,25 @@
 [
   {
+    "id": "2.5.0",
+    "force_update": false,
+    "title": "🔐 Never Lose Your Cards Again!",
+    "message": "Version 2.5.0 brings Secure Backup. Save all your cards in one locked file and bring them back anytime, even on a new phone.",
+    "points": [
+      "Secure Backup: Save all your cards in one file, with every page, finish, tag and lock included.",
+      "Password Protected: Your backup is locked with your own password. Nobody can open it without the password, not even us.",
+      "Save or Share: Keep the backup on your phone, or send it to Drive, email, WhatsApp or any app you like.",
+      "Easy Restore: Changed your phone? Open the menu, tap Restore, pick your backup file and enter your password.",
+      "Nothing Gets Replaced: Restoring only adds cards. Your current cards always stay safe.",
+      "Backup Copies: If a card is already on your phone or has the same name, it is added as \"Name (backup)\", so you can compare and delete what you don't need.",
+      "Clear Progress: See exactly which card, page and side is being saved or restored, like \"Card 5 of 12, Page 2, Back side\".",
+      "Wrong Password Check: If the password is wrong, you are told right away and can try again.",
+      "Locked Cards Stay Safe: Cards with a lock ask for your fingerprint or PIN before backup, and stay locked after restore.",
+      "New Menu Button: Tap the menu button beside the search bar for Backup, Restore and more DevDuo apps.",
+      "Backup Reminder: The menu shows when you last backed up and reminds you after 30 days."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "2.4.0",
     "force_update": false,
     "title": "✨ Share Your Cards in Real 3D!",
