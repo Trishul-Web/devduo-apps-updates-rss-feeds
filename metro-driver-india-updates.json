@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.3.0",
+    "force_update": false,
+    "title": "🔒 Your Privacy, Your Choice",
+    "message": "A small update that gives you more control over your privacy, plus a few fixes.",
+    "points": [
+      "🔒 Privacy Choice: If you play in Europe, the UK or Switzerland, the game now asks how your data can be used for ads. You decide.",
+      "🛡️ Privacy Button: Changed your mind? Tap the new shield button on the home screen to change your choice anytime.",
+      "🌍 Everyone Else: Nothing changes for you. Just open the game and drive.",
+      "🛠️ Small Fixes: Smoother play and small improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.metro_driver_india"
+  },
+  {
     "id": "1.2.0",
     "force_update": false,
     "title": "🚇 New Cities: Indore & Navi Mumbai!",
