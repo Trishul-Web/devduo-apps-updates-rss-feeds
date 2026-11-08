@@ -1,5 +1,20 @@
 [
     {
+        "id": "3.3.0",
+        "force_update": false,
+        "title": "🎨 Your Designs, Saved Perfectly!",
+        "message": "Spent time making your QR look just right, then opened it from History and the frame or logo was gone? Not anymore! History now remembers every part of your design, so you can come back and keep editing anytime.",
+        "points": [
+            "🖼️ Frames Remembered: Your frame style, frame text and whether the text sits on top or bottom are now saved in History.",
+            "🌈 Gradients Saved: Your two-color gradient comes back exactly the same when you reopen a QR.",
+            "🏷️ Logo & Banner Photo Kept Safe: Photos you add are now stored safely inside the app, so they don't disappear later.",
+            "🔄 Auto-Save While Editing: Change your frame after creating a QR and History updates the same item. No duplicate copies.",
+            "📶 Clearer PRO Screen: If prices can't load because of a weak connection, you'll see a simple \"Try Again\" button.",
+            "⚡ Smoother & More Reliable: Small fixes to make creating and editing your QR codes feel better."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+    },
+    {
         "id": "3.2.0",
         "force_update": false,
         "title": "🖨️ Print Your QR, Perfectly!",
