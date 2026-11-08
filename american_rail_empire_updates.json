@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.6.0",
+    "force_update": false,
+    "title": "🏷️ Version 1.6.0 • Clearer Yard Store Prices",
+    "message": "Hello, Rail Boss! We fixed the price labels in the Yard Store, so the prices you see are now the prices you pay. No surprises.",
+    "points": [
+      "🏢 Building Styles: The label now correctly shows $80K for each yard building style.",
+      "🛤️ Track Styles: The label now correctly shows $20K for each yard track style.",
+      "✨ Small Polish: Minor text cleanups to keep the store neat and easy to read.",
+      "💬 Tell Us More: Spot something odd? Open Settings → Send Dispatch Feedback and we will look into it."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire"
+  },
+  {
     "id": "1.5.0",
     "force_update": false,
     "title": "🎓 Version 1.5.0 • Learn by Playing!",
