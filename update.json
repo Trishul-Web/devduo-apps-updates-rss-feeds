@@ -1,5 +1,20 @@
 [
   {
+    "id": "11.11.0",
+    "force_update": false,
+    "title": "📂 Smoother File Opening & Fewer Interruptions (v11.11.0) ✨",
+    "message": "This update makes opening files from other apps fast and smooth, fixes an issue for Premium users, and removes popups that got in your way.",
+    "points": [
+      "💎 FIXED: Premium users can now open shared files without seeing the 5-file limit or the Premium page.",
+      "📂 Open From Any App — Share a code file from WhatsApp, Files, email or any app, and DevDuo opens it straight in the editor.",
+      "⚡ Instant Opening — Files shared while DevDuo is already open now jump directly into the editor.",
+      "🚫 No Popups in Your Way — When you open a file, no offer or Premium screen appears first. You go straight to your code.",
+      "⭐ Fewer Interruptions — The rating request no longer appears every time you open a file. It now shows only now and then, and you choose whether to rate.",
+      "🔧 Stability improvements and bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.10.0",
     "force_update": false,
     "title": "🛠️ 6 Pro Developer Tools Are Here! (v11.10.0) 🚀",
