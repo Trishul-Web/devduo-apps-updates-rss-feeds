@@ -1,5 +1,22 @@
 [
   {
+    "id": "8.15.0",
+    "title": "One Tap to Every Tool",
+    "message": "Finding your favorite tools is now much quicker! Every feature on the home screen opens directly, so you spend less time searching and more time getting things done.",
+    "force_update": false,
+    "points": [
+      "⚡ Direct Access: Tap any tile in Powerful Features and it opens that tool right away.",
+      "🪪 ID Card & Passport: Jump straight into ID Card Mode or the Passport Photo maker from the home screen.",
+      "🧾 Long Receipt: Start scanning a long bill with one tap and get your PDF ready instantly.",
+      "🔤 OCR, Translate & Ask AI: Pick a photo from camera or gallery and the tool opens with it.",
+      "📊 Scan to Excel: Turn a table into an Excel file straight from the home screen.",
+      "✍️ Signature: Opens your Asset Library so you can create and save your signatures.",
+      "🛠️ Page Tools: Magic Eraser, Multi-Crop and Watermark now show you exactly where to find them inside your project.",
+      "💡 Better Tips: The Pro Tips on the home screen are refreshed with helpful tricks you can really use."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
     "id": "8.14.0",
     "title": "Blur Box: Hide Private Info",
     "message": "Sharing your ID card or a document with someone? Now you can hide your private details like card numbers, phone numbers and addresses with a simple blur box before you share!",
