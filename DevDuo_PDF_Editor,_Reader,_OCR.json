@@ -1,5 +1,18 @@
 [
   {
+    "id": "6.16.0",
+    "force_update": false,
+    "title": "🛠️ Polish & Fixes",
+    "message": "A small update to make things clearer and more reliable. We cleaned up names and links across the app so everything points to the right place.",
+    "points": [
+      "🏷️ New Name: Our studio is now shown as DevDuo Software everywhere in the app.",
+      "🛍️ Find Our Apps: The 'More Apps' page now opens our official developer page, so you can see all our apps in one place.",
+      "💬 Feedback Fix: After sending feedback, the thank-you message now shows the correct app name.",
+      "🔧 Under-the-hood stability and performance improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.15.0",
     "force_update": false,
     "title": "✨ New: Scan Enhancer!",
