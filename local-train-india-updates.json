@@ -1,25 +1,17 @@
 [
   {
-    "id": "2.0.0",
+    "id": "1.1.0",
     "force_update": false,
-    "title": "🚆 Welcome to Local Train India (v1.0.0)",
-    "message": "Drive suburban locals across Mumbai, Chennai, Kolkata, Delhi and more.",
+    "title": "💎 PRO, Secret Offer & Endless Run Results (v1.1.0)",
+    "message": "This update brings Local Train India PRO, a secret scratch card offer, a proper ending for endless runs and many small improvements.",
     "points": [
-      "🚉 Real suburban lines with stations, signals and level crossings",
-      "🛠️ Line Studio: build and share your own lines",
-      "🚉 Real suburban lines with stations, signals and level crossings",
-      "🛠️ Line Studio: build and share your own lines",
-      "🚉 Real suburban lines with stations, signals and level crossings",
-      "🛠️ Line Studio: build and share your own lines",
-      "🚉 Real suburban lines with stations, signals and level crossings",
-      "🛠️ Line Studio: build and share your own lines",
-      "🚉 Real suburban lines with stations, signals and level crossings",
-      "🛠️ Line Studio: build and share your own lines",
-      "🚉 Real suburban lines with stations, signals and level crossings",
-      "🛠️ Line Studio: build and share your own lines",
-      "🚉 Real suburban lines with stations, signals and level crossings",
-      "🛠️ Line Studio: build and share your own lines",
-      "💎 Lifetime PRO: no ads and everything unlocked"
+      "💎 NEW: Local Train India PRO. Pay once and keep it forever. No ads, and every rake, line and journey option is open.",
+      "🎟️ NEW: Secret scratch card. Open the PRO page and scratch the card to reveal a special price. It lasts only 1 hour, so do not miss it!",
+      "🏁 NEW: End your endless run anytime. Tap PAUSE, then END RUN to see your total runs, score and distance.",
+      "🔔 NEW: Update notices. The game now tells you when a new version is ready and shows what is new.",
+      "⭐ Rate the game without leaving it. After a good trip you can give stars right inside the game.",
+      "🎉 New sounds and confetti when you unlock the offer or become a PRO member.",
+      "🔧 Bug fixes and smoother driving."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.local_train_india"
   },
@@ -31,7 +23,7 @@
     "points": [
       "🚉 Real suburban lines with stations, signals and level crossings",
       "🛠️ Line Studio: build and share your own lines",
-      "💎 Lifetime PRO: no ads and everything unlocked"
+      "🌦️ Day, night, monsoon and winter haze driving"
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.local_train_india"
   }
