@@ -1,7 +1,7 @@
 [
   {
     "id": "2.0.0",
-    "force_update": true,
+    "force_update": false,
     "title": "🚆 Welcome to Local Train India (v1.0.0)",
     "message": "Drive suburban locals across Mumbai, Chennai, Kolkata, Delhi and more.",
     "points": [
