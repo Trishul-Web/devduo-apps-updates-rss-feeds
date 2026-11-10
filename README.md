@@ -73,12 +73,17 @@
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/indian_train_master.json"><font size="1">📡 Feed</font></a>
     </td>
     <td align="center" width="16.66%">
+      <img src="https://play-lh.googleusercontent.com/2_MtlYME3-4RXq69N5sXRZXyKi5ksPWY2GqQwuzUwF91CX6zFWfVRO5jcNBEZrt9QaImbB7RFGyLa2TFPnEGgw=s256-rw" width="100" height="100"><br>
+      <font size="1"><b>Indian Station Master</b></font><br>
+      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/indian_train_master.json"><font size="1">📡 Feed</font></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/s7c8oRTZYmab9St-56EOkKf6zqFBmFrxyZzwLg8EyGJIpskMjbhYQVodZQr8ogfkaYcTvNwVp_X2gP24lHsaeA=s256-rw" width="100" height="100"><br>
       <font size="1"><b>Metro Driver India</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/metro-driver-india-updates.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/DheZ43QvWfA5nPyawQKrnCLxFxQUKgk6pNiy7Od6gzG1pD1GlN61-c6uHgYywL_Hztt6jHeZXdIFCkw-J2At=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Newszio: Personalize Your News</b></font><br>
@@ -104,13 +109,13 @@
       <font size="1"><b>ResuMateAI: Smart Resume Tools</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/ResuMateAI_Smart_Resume_Tools.json"><font size="1">📡 Feed</font></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/fL1szEF80gdjwkI9JD393XiW8Njy5qw38oTTWs9QRLGb_hAAkHoQl2gL1EQnGmKGme8Qn7rD9xDFzeO-TaKRUA=s512-rw" width="100" height="100"><br>
       <font size="1"><b>SafeKey: Password Manager Safe</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/SafeKey_Password_Manager_Safe.json"><font size="1">📡 Feed</font></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/Y-vEXw1NXdcXe6uSVeucD6Bv2TtN5uBQTNT8ah07H--sXo9IcO5E8h0WYPADhyMp8w=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Safekeep: Secure Folder Vault</b></font><br>
@@ -136,6 +141,13 @@
       <font size="1"><b>Tymio: Aesthetic Clock & Timer</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Tymio_Aesthetic_Clock_%26_Timer.json"><font size="1">📡 Feed</font></a>
     </td>
+    <td align="center" width="16.66%">
+      <img src="https://play-lh.googleusercontent.com/-YSkETFKDcweeJ6ayK2UQxxgFsk_btZWSut3qu8PY17tkXKNT8O4-bYeUaWT04gNVIpm3tzXNx4V43Az_TmDaQ=s512-rw" width="100" height="100"><br>
+      <font size="1"><b>Web to PDF: URL & HTML</b></font><br>
+      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Web_to_PDF_URL_%26_HTML.json"><font size="1">📡 Feed</font></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="16.66%">
       <img src="https://play-lh.googleusercontent.com/-YSkETFKDcweeJ6ayK2UQxxgFsk_btZWSut3qu8PY17tkXKNT8O4-bYeUaWT04gNVIpm3tzXNx4V43Az_TmDaQ=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Web to PDF: URL & HTML</b></font><br>
