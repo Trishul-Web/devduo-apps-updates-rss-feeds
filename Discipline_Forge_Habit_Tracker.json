@@ -1,5 +1,23 @@
 [
   {
+    "id": "4.10.0",
+    "title": "🎙️ VOICE PROOF IS HERE!",
+    "message": "Now you can prove your work with your own voice! Record how it went, what you learned or how hard you pushed, and lock it in with your proof. ⚒️🔥",
+    "points": [
+      "🎙️ Record Voice Proof: Open any proof and tap 'TAP TO RECORD VOICE' to save a voice note with your photos and notes.",
+      "➕ Many Clips: Add more than one voice note to the same proof. Each clip can be up to 3 minutes long.",
+      "▶️ Play Anytime: Listen to your voice proofs with a simple play button and progress bar.",
+      "🕒 Inside Your Timelines: Voice notes show up in your protocol and tracker timelines, so you can hear your journey day by day.",
+      "🎤 Mic Badge: A small mic badge on your tasks shows when a proof has voice notes. Tap it to listen.",
+      "🗑️ Easy to Remove: Don't like a clip? Delete it with one tap before saving.",
+      "🔒 100% Private: Your recordings stay only on your phone and are never uploaded anywhere.",
+      "🛡️ Safe Recording: If you leave the app while recording, the clip stops and saves safely.",
+      "⚡ Smoother Experience: Bug fixes and performance improvements for a faster, more stable Forge."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
     "id": "4.9.0",
     "title": "🧩 HOME SCREEN WIDGETS ARE HERE!",
     "message": "Stay disciplined without even opening the app! Put your tasks, trackers and dots right on your home screen and update them with a single tap. ⚒️🔥",
