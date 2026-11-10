@@ -73,9 +73,9 @@
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/indian_train_master.json"><font size="1">📡 Feed</font></a>
     </td>
     <td align="center" width="16.66%">
-      <img src="https://play-lh.googleusercontent.com/2_MtlYME3-4RXq69N5sXRZXyKi5ksPWY2GqQwuzUwF91CX6zFWfVRO5jcNBEZrt9QaImbB7RFGyLa2TFPnEGgw=s256-rw" width="100" height="100"><br>
-      <font size="1"><b>Indian Station Master</b></font><br>
-      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/indian_train_master.json"><font size="1">📡 Feed</font></a>
+      <img src="https://play-lh.googleusercontent.com/YeLFjYp4wwJ-YjTu_r6sy48xisWvD5VBClsRELSCWLiHiKHymxKfK7kp-6ocjmO159SU7TEumT8uaHOJSxUg=s256-rw" width="100" height="100"><br>
+      <font size="1"><b>Local Train India</b></font><br>
+      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/local-train-india-updates.json"><font size="1">📡 Feed</font></a>
     </td>
   </tr>
   <tr>
@@ -140,11 +140,6 @@
       <img src="https://play-lh.googleusercontent.com/FIrBkwfgzyOz-0E1-ip0PM9Z8cxC9voXLVHRvY3faXkk9WTpr9m9_pyTy9wTN-QuA80OFJsKDhW5FlZ7DSgLKLs=s512-rw" width="100" height="100"><br>
       <font size="1"><b>Tymio: Aesthetic Clock & Timer</b></font><br>
       <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Tymio_Aesthetic_Clock_%26_Timer.json"><font size="1">📡 Feed</font></a>
-    </td>
-    <td align="center" width="16.66%">
-      <img src="https://play-lh.googleusercontent.com/-YSkETFKDcweeJ6ayK2UQxxgFsk_btZWSut3qu8PY17tkXKNT8O4-bYeUaWT04gNVIpm3tzXNx4V43Az_TmDaQ=s512-rw" width="100" height="100"><br>
-      <font size="1"><b>Web to PDF: URL & HTML</b></font><br>
-      <a href="https://github.com/Trishul-Web/devduo-apps-updates-rss-feeds/blob/main/Web_to_PDF_URL_%26_HTML.json"><font size="1">📡 Feed</font></a>
     </td>
   </tr>
   <tr>
