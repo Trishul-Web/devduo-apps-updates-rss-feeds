@@ -1,5 +1,18 @@
 [ 
   {
+    "id": "1.16.0",
+    "force_update": false,
+    "title": "📊 See Your Save Progress",
+    "message": "This update makes saving many photos easier to follow. You can now see exactly how many photos are saved, and you decide whether to keep or remove photo details.",
+    "points": [
+      "📊 Live Save Progress: When you save many photos at once, you now see \"Saving 12 of 40\" with a progress bar, so you know how much is left.",
+      "📍 Your Choice for Photo Details: Location and camera details are now kept by default. Turn on \"Remove EXIF Data\" in the editor if you want to remove them before sharing.",
+      "✅ Clear Messages: If saving fails for any reason, the app now tells you clearly instead of staying silent.",
+      "🚀 Smoother Experience: Small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.15.0",
     "force_update": false,
     "title": "✨ Clearer & Easier to Use",
