@@ -1,5 +1,24 @@
 [
   {
+    "id": "2.17.0",
+    "force_update": false,
+    "title": "News on Your Home Screen! 📱✨",
+    "message": "Newszio now has home screen widgets. See the latest headlines with photos right on your home screen, flip through stories with arrows, and refresh anytime without opening the app.",
+    "points": [
+      "📰 Top News Widget: See the top headlines of your country with photos, right on your home screen.",
+      "☀️ Good News Widget: Only happy and uplifting stories, perfect for a positive start to your day.",
+      "⭐ Your Own Widgets: Long-press any city, topic, country, source or pinned search in Explore and tap 'Add as home screen widget'. For your mixes, tap the widget icon on the mix card.",
+      "➕ Add As Many As You Like: Make one widget for cricket, one for your city and one for your mix. There is no limit.",
+      "◀️▶️ Flip Through 25 Stories: Tap the arrows on the widget to see up to 25 stories, one by one.",
+      "🔄 Refresh Anytime: Tap the refresh button on the widget to get the latest news without opening the app. Widgets also refresh on their own every hour.",
+      "📐 Any Size: Make the widget small or big. It always fits nicely with the photo and headline.",
+      "📲 Open in Newszio: Tap a headline on the widget to open it in the app. Then read the full article, see the summary, save it or share it.",
+      "🧩 Easy Setup: Long-press your home screen, tap Widgets, find Newszio and pick Top News, Good News or Custom Feed. Custom Feed lets you choose from your mixes, cities, topics and more.",
+      "⚡ Bug Fixes & Polish: Small improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.16.0",
     "force_update": false,
     "title": "No Time? Read the Summary! 📝✨",
