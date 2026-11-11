@@ -1,5 +1,24 @@
 [
   {
+    "id": "8.15.0",
+    "force_update": false,
+    "title": "⏱️ Time Before Opening: Decide First, Then Scroll!",
+    "message": "Open an app on purpose, not by habit. Now your launcher asks how long you need before an app opens, and reminds you when your time is up.",
+    "points": [
+      "⏱️ Time Before Opening: Choose the apps you want to control. Every time you open one, you pick how long you need first.",
+      "🎯 Pick Any Time: Choose 5, 10, 15, 30 or 60 minutes, or tap Custom to set anything from 1 minute up to 4 hours.",
+      "🔔 Time's Up Reminder: When your time ends, a calm full-screen message shows how long you used the app.",
+      "✋ Close or Hold for 5 More: Tap 'Close app' to get back to your day, or hold the button for 5 extra minutes when you really need it. Your app continues right where you left it.",
+      "🔁 Asks Every Time: Once you leave the app, the next time you open it you choose your time again, so every visit stays your choice.",
+      "📲 Works Everywhere: Opening from the home screen, recent apps, notifications or search all ask for your time.",
+      "🔐 Easy Setup: The app shows exactly which permissions are needed, guides you step by step, and warns you if a permission gets turned off later.",
+      "🛡️ Works With Your Other Limits: Your daily screen time limits, App Locks, Zen Mode and Mindful Intercepts still apply on top of it.",
+      "💎 PRO: Add as many apps as you like to Time Before Opening.",
+      "✨ Smoother performance and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.14.0",
     "force_update": false,
     "title": "⏳ Doom-Scroll Alarm: Catch the Endless Scroll!",
