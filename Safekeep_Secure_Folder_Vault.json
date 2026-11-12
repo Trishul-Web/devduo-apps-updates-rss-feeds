@@ -1,5 +1,25 @@
 [
      {
+       "id": "8.0.0",
+       "title": "Family Profiles 👨‍👩‍👧",
+       "message": "Keep everyone's documents neatly separated in one vault. Create a profile for yourself, your parents, kids or work, each with its own files, folders and tags. Your existing files are safe and are now in your 'Me' profile.",
+       "points": [
+         "👤 Create Profiles: Go to Profile, tap Family Profiles, then Add Profile. Give it a name like Mom, Dad or Work.",
+         "📸 Your Photo or Emoji: Pick a fun emoji or choose a photo from your gallery and crop it into a perfect circle.",
+         "🎬 Who's Using Safekeep?: After unlocking, choose which profile to open, just like your favourite streaming apps.",
+         "🔄 Quick Switch: Tap the profile picture at the top of the Home screen to switch profiles anytime.",
+         "📁 Neatly Separated: Each profile has its own files, folders and tags, so nothing gets mixed up.",
+         "🔐 Profile PIN: Lock any profile with a PIN. Forgot it? Use your master key to open it.",
+         "✏️ Rename 'Me': Your main profile can be renamed and given your own photo.",
+         "☁️ Synced and Backed Up: Profiles and their photos sync with Google Drive and are included in vault backups.",
+         "♻️ Safer Restore: Restoring a backup brings back your profiles and original file dates, and never replaces your existing files.",
+         "🎁 For Everyone: Every user gets 2 profiles. Premium unlocks unlimited profiles.",
+         "🛡️ Stability and privacy fixes."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider",
+       "force_update": false
+     },
+     {
        "id": "7.13.0",
        "title": "Emergency Recovery Kit 🔑",
        "message": "Forgot your Master Key? Now you never lose your vault. Safekeep can turn your key into 3 secret QR codes called shards. Any 2 shards bring your key back, and 1 shard alone shows nothing to anyone.",
