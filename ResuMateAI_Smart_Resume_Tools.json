@@ -1,5 +1,22 @@
 [
   {
+    "id": "1.23.0",
+    "force_update": false,
+    "title": "📄 New Update: Fit Your Resume on One Page in One Tap! 🚀",
+    "message": "Is your resume spilling onto a second page by just a few lines? Now the app fixes it for you. Turn on 'Fit to Single Page' and your resume automatically adjusts to fit neatly on one A4 page, no more playing with sliders.",
+    "points": [
+      "📄 Fit to Single Page: One switch makes your whole resume fit on a single A4 page automatically.",
+      "⚙️ Easy to Turn On: Open Preview, tap Spacing, and switch on 'Fit to Single Page'.",
+      "🔍 Stays Easy to Read: The app keeps your text as large as possible and only shrinks what it needs to.",
+      "✂️ Smart Tips: If your resume is too long for one page, we show which section is longest and how to shorten it.",
+      "🎨 Works with Every Design: Change your template and it fits the new design on one page automatically.",
+      "🔄 No Confusion: Fit to Single Page and Continuous Page work separately, so turning one on turns the other off.",
+      "↩️ Back to Normal Anytime: Switch it off or tap 'Reset to Default' to get your original layout back.",
+      "✨ Bug Fixes & Speed: Improved stability and made the app smoother."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai"
+  },
+  {
     "id": "1.22.0",
     "force_update": false,
     "title": "📄 New Update: One Long Resume Page, No Page Breaks! 🚀",
