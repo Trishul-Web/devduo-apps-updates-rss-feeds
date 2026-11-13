@@ -1,5 +1,23 @@
 [
   {
+    "id": "1.13.0",
+    "force_update": false,
+    "title": "🎨 Emojis, Colors + New Sub-folder Look",
+    "message": "Make your vault feel like yours. Give your tags and sub-folders any emoji you like, pick any color for your tags, and enjoy a cleaner sub-folder view.",
+    "points": [
+      "😀 Emojis for Tags: When you make a new tag, tap the emoji box and pick any emoji from your keyboard. It shows on your tag everywhere, like 🎮 Gaming or 🍳 Recipes.",
+      "📂 Emojis for Sub-folders: Give your sub-folders an emoji too, so you can find them at a glance.",
+      "🎨 Pick Any Color: Choose from ready colors, or tap the rainbow circle to open the new color picker. Drag to find the exact shade you want, or type a color code.",
+      "✏️ Edit Your Tags: Hold a tag while saving an item to change its emoji and color, or delete it. Locked tags stay locked.",
+      "🔲 New Sub-folder Grid: Sub-folders now show as neat tiles in a grid, just like your Folders tab.",
+      "👆 Hold to Change: In the Folders tab, hold your own tag folder to set its emoji. Inside a folder, hold a sub-folder to change its emoji.",
+      "↩️ Reset Anytime: Don't like the new look? Tap Reset to go back to the original icon.",
+      "🛡️ Smart Folders Stay Smart: Folders made for you automatically, like YouTube, PDF or Images, keep their own icons.",
+      "🛠️ Small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.12.0",
     "force_update": false,
     "title": "📅 No More Double Saves + Browse by Date",
