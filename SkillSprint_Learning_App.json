@@ -1,5 +1,20 @@
 [
   {
+    "id": "6.10.0",
+    "force_update": false,
+    "title": "📊 Your Real Progress, Clearer Than Ever! ✨",
+    "message": "This update is all about honesty and clarity. Everything you see now comes from your own learning, so you always know exactly where you stand.",
+    "points": [
+      "📈 Your Learning Journey: The banner in Explore now shows how many courses you have started and your real average progress. Keep learning and watch it grow!",
+      "✅ Lessons Completed: Every course page now shows how many lessons you have finished, right next to Chapters and Lessons.",
+      "🏷️ Clearer Course Cards: Courses now show a simple 'Self-paced' or 'PRO' label, so you know what you can open right away.",
+      "🎓 Certificate Update: Your certificates and skill cards now show the correct publisher name, DevDuo Software.",
+      "🔓 Simpler Unlock Screen: The unlock popup now clearly says it's a one-time payment for lifetime access. No subscriptions, ever.",
+      "🚀 Smoother Experience: Performance improvements and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.9.0",
     "force_update": false,
     "title": "🔁 New Revision Mode: Remember What You Learn! 🧠",
