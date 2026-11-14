@@ -1,5 +1,20 @@
 [
   {
+    "id": "2.12.0",
+    "force_update": false,
+    "title": "🔗 New: Share Any Link to Web To PDF!",
+    "message": "No more copy and paste! Found a page you want to save? Just tap Share in your browser or any app and pick Web To PDF.",
+    "points": [
+      "📤 Share Menu: Web To PDF now shows up when you tap Share on any link in Chrome, other browsers and social apps.",
+      "⚡ Opens Instantly: The shared link opens straight in Preview, ready to clean and save as PDF or image.",
+      "🧠 Smart Link Finder: Shared a message with text and a link? We pick out the website link for you.",
+      "🕘 Auto History: Every shared link is saved in your History so you can open it again later.",
+      "📱 Better Home Screen: Improved spacing and layout, especially on smaller phones.",
+      "⚡ Bug fixes and smoother performance."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.11.0",
     "force_update": false,
     "title": "↩️ New: Undo Your Changes!",
