@@ -1,5 +1,22 @@
 [
   {
+    "id": "3.14.0",
+    "force_update": false,
+    "title": "🔥 Meet Focus Stats: see your focus grow every day! 📊",
+    "message": "Tymio now remembers your focus time. Every Pomodoro, Timer and Stopwatch session is saved, so you can see your progress, build a daily streak and share your week.",
+    "points": [
+      "🔥 Daily Streak: Focus for at least 1 minute a day to keep your streak flame burning. Can you beat your best streak?",
+      "📊 Weekly Chart: See how many minutes you focused each day this week, and whether you did better than last week.",
+      "🟩 Year in Focus: A colourful calendar that shows every day you focused over the whole year.",
+      "⏰ Best Focus Hour: Tymio finds the time of day when you focus the most, so you can plan your hardest work then.",
+      "📤 Share Your Week: Turn your focus week into a stylish card and share it with friends.",
+      "💾 Saved Automatically: Pomodoro steps, finished timers and saved stopwatch runs all count. Breaks are not counted as focus.",
+      "☰ New Menu: Tap the menu button at the top to find Focus Stats, StandBy, Splash Video, Updates and Support in one neat place.",
+      "🛠️ Speed and stability improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.13.0",
     "force_update": false,
     "title": "🌅 Meet Living Sky: a clock that follows your day! ✨",
