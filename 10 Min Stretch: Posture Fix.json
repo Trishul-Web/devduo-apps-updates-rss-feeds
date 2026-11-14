@@ -1,5 +1,23 @@
 [
   {
+    "id": "1.18.0",
+    "force_update": false,
+    "title": "🪑 New: Sitting Alert & Home Screen Widget!",
+    "message": "Sitting all day? We'll remind you to move, and you can stretch exactly where it feels tight in just 1 minute.",
+    "points": [
+      "🔔 Sitting Alert: Get a gentle nudge when you've been sitting too long. Pick 30, 45, 60, 90 or 120 minutes.",
+      "🕘 Your Hours, Your Days: Alerts only come during your work hours and days, so no pings at night or on weekends.",
+      "📱 Home Screen Widget: See how long you've been sitting. It turns green, then orange, then red when it's time to move.",
+      "🧍 What Feels Tight?: Tap your neck, back, hips or any area on the body, or pick Full Body, and start a 1-minute stretch.",
+      "⭐ My Routines: Your own plans now show up in the stretch picker too, so you can start them with one tap.",
+      "😴 Snooze: Busy right now? Snooze an alert for 15 minutes.",
+      "♻️ Timer Resets When You Stretch: Finish any stretch and your sitting timer goes back to 0.",
+      "👑 PRO Members: Set your own custom alert time and do 3 or 5-minute stretch breaks.",
+      "🛠️ Fixes: Reminders now work properly on new phones and keep working after a phone restart."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.17.0",
     "force_update": false,
     "title": "🗺️ New: 30-Day Posture Fix Challenge!",
