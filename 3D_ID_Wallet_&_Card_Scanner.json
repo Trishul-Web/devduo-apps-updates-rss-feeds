@@ -1,5 +1,31 @@
 [
   {
+    "id": "3.0.0",
+    "force_update": false,
+    "title": "✨ Your Cards, Now Faster and Fully 3D!",
+    "message": "Version 3.0.0 is our biggest update yet. Your Wallet now opens cards in live 3D, finding any card takes just one tap, and every screen feels smoother.",
+    "points": [
+      "Live 3D Wallet: Tap a card in your Wallet and it opens in full 3D. Drag it to turn it around, just like in the Studio.",
+      "Easy Buttons: Flip, Studio and Done now sit at the bottom of the screen when a card is open, right under your thumb.",
+      "Back Where You Were: Close a card and the Wallet takes you back to the same spot in your list.",
+      "New Grid View: See 3 cards in every row, grouped by letter, A, B, C and so on. Pick Stack, List or Grid from the view button.",
+      "Swipe Pages in Grid: Cards with more than one page let you swipe between pages right inside the grid.",
+      "Find Cards Faster: Tap a letter or number at the top of the Wallet to jump straight to that card. Only letters you actually use are shown.",
+      "Tag Filter in Wallet: Show only the cards with a tag you pick, like Government Documents.",
+      "Smoother 3D View: Changing cards with the side wheel is now smooth, snaps neatly onto each card, and a quick swipe skips several cards at once.",
+      "Quick Select Strip: Tap the arrow button to see all your cards as small previews. Scroll and tap one to open it instantly.",
+      "Quick Buttons: Play, Flip and Add New Card buttons are now one tap away in the 3D View.",
+      "Add From Anywhere: Create a new card straight from the Wallet or the 3D View.",
+      "Page Previews on Home: Cards with more than one page show small page previews. Tap a preview to see that page, then tap the card to open it.",
+      "Always the Front Side: Cards now open showing the front. If you left a card on its back, it turns over smoothly by itself.",
+      "Smooth Flip Everywhere: Flipping a card in the Studio, Wallet and 3D View is now one smooth turn, with no flicker.",
+      "Same Look Everywhere: The 3D View now has the same glowing background as the Studio.",
+      "Faster and Smoother: The Wallet and 3D View run much smoother, even with lots of cards.",
+      "Fixes: Long card names no longer break the top bar, cards don't change by mistake when you touch the bottom buttons, and menus open in the right place."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "2.5.0",
     "force_update": false,
     "title": "🔐 Never Lose Your Cards Again!",
