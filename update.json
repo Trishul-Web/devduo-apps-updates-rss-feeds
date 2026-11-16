@@ -1,5 +1,23 @@
 [
   {
+    "id": "11.12.0",
+    "force_update": false,
+    "title": "🎬 New: Step-by-Step Code Visualizer (v11.12.0) ✨",
+    "message": "Watch your code run one line at a time and see exactly what happens inside it. A great way to learn, understand and find mistakes, and it works without internet.",
+    "points": [
+      "🎬 NEW: Code Visualizer — Tap Visualize and your code runs one line at a time. The line that is running is highlighted so you always know where you are.",
+      "🧠 See Every Change — Variables, lists, maps and objects are shown live. NEW and CHANGED badges tell you exactly what just changed.",
+      "🌍 4 Languages — Works with Python, JavaScript, Java and C++.",
+      "📦 Functions & Classes — Every function call and object gets its own box, so recursion and classes are easy to follow.",
+      "▶️ Easy Controls — Use Next, Back, Autoplay and the speed button to go at your own pace.",
+      "⌨️ Programs With Input — If your code asks for input, just type your values and watch it run.",
+      "📖 Syntax Cheat Sheet — See how the same code is written in all 4 languages, side by side.",
+      "📴 Works Offline — Everything runs on your phone. No internet needed.",
+      "🔧 Stability improvements and bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.11.0",
     "force_update": false,
     "title": "📂 Smoother File Opening & Fewer Interruptions (v11.11.0) ✨",
