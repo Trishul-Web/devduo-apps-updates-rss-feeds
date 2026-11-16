@@ -1,5 +1,19 @@
 [
   {
+    "id": "1.8.0",
+    "force_update": false,
+    "title": "COLLECTING COINS IS EASIER!",
+    "message": "We listened to your feedback! Collecting coins in your Retiring Suites is now smooth and easy on every row and every room.",
+    "points": [
+      "🛋️ Recliner Coins Fixed: You can now collect coins from all recliner rows, including the bottom row.",
+      "👆 Bigger Tap Area: Tap the coin badge or anywhere on a recliner row to collect your earnings.",
+      "🏨 Deluxe Cabins Fixed: Guests walking or sleeping in rooms no longer block your coin badges.",
+      "💰 Fair Row Pricing: New recliner rows now get steadily more expensive instead of resetting in every new hall.",
+      "⚙️ Smoother Station: Bug fixes and stability improvements across the game."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager"
+  },
+  {
     "id": "1.7.0",
     "force_update": false,
     "title": "5 NEW TRAINS ARRIVED!",
