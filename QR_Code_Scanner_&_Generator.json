@@ -1,5 +1,21 @@
 [
     {
+        "id": "3.4.0",
+        "force_update": false,
+        "title": "✨ Ready-Made Templates Are Here!",
+        "message": "Not sure what to create? Just pick a template! Each one comes with the right frame, colors, banner and print layout already set. Add your details and your QR is ready in 30 seconds.",
+        "points": [
+            "☕ 8 Templates to Start With: Café Table, Shop UPI Stand, Guest Wi-Fi Card, Wedding Invite, Business Card, Lost Pet Tag, Rate Us Stand and Creator Links.",
+            "👀 See Before You Tap: Every template shows a live preview, so you know exactly how your QR will look.",
+            "🖨️ Ready to Print: Templates open the matching print layout for you, like a Table Tent for your café table.",
+            "🎠 Explore Everything: Swipe the new cards on the home screen to discover every QR type the app can make.",
+            "📱 Your Buttons in the Preview: Your Link-in-Bio preview now shows your own button names, like 'View Our Menu' or 'Rate Us on Maps'.",
+            "✅ No More Broken Codes: The app now reminds you to add your UPI ID or Wi-Fi name before creating, so every code works.",
+            "⚡ Smoother & Better: Small design improvements and fixes all around."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+    },
+    {
         "id": "3.3.0",
         "force_update": false,
         "title": "🎨 Your Designs, Saved Perfectly!",
