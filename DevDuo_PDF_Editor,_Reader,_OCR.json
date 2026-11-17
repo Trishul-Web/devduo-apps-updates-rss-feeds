@@ -1,5 +1,19 @@
 [
   {
+    "id": "6.17.0",
+    "force_update": false,
+    "title": "🔖 Bookmarks & Continue Reading",
+    "message": "No more scrolling to find your place. Pick up right where you left off and save important pages with your own notes.",
+    "points": [
+      "📖 Continue Reading: When you open a PDF again, tap 'Continue' to jump straight back to the page you were reading.",
+      "🔖 Bookmarks: Tap the bookmark button in the viewer menu to save any page with a title, like 'Chapter 4'.",
+      "📝 Add Notes: Write a short note on each bookmark so you remember why you saved that page.",
+      "👆 Easy to Manage: Tap a bookmark to jump to it, hold it to edit, or swipe left to delete.",
+      "🔧 Under-the-hood stability and performance improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.16.0",
     "force_update": false,
     "title": "🛠️ Polish & Fixes",
