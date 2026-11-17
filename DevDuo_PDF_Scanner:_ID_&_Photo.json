@@ -1,5 +1,19 @@
 [
   {
+    "id": "8.16.0",
+    "title": "Easier PDF Preview",
+    "message": "Making your PDF is now simpler and clearer! Every button has a name, and you have more control over how your pages look on A4.",
+    "force_update": false,
+    "points": [
+      "🏷️ Clear Labels: Share, Save, Compress, Page Size, View All and Page No. now show their names under each button.",
+      "📄 A4 Stretch: Turn it on to fill the whole A4 page with your scan, or keep it off to keep the original shape.",
+      "🎨 New Page Size Screen: Pick Original Size or A4 with simple, easy-to-read option cards.",
+      "👀 Live Preview: What you see in the preview is exactly how your final PDF will look.",
+      "⚙️ Small fixes and improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
     "id": "8.15.0",
     "title": "One Tap to Every Tool",
     "message": "Finding your favorite tools is now much quicker! Every feature on the home screen opens directly, so you spend less time searching and more time getting things done.",
