@@ -1,5 +1,21 @@
 [
   {
+    "id": "4.11.0",
+    "title": "⏱️ TIMERS YOU CAN TRUST!",
+    "message": "This update makes your focus timers rock solid. Lock your phone, switch apps, come back later. Your time is always counted right. ⚒️🔥",
+    "points": [
+      "🔒 Lock Your Phone Freely: Your timers keep correct time even when the screen is off or you switch to another app.",
+      "↩️ No More Jumping Back: Task timers now remember exactly where they were when you return to the app.",
+      "⚖️ Fair Time Counting: Time away from the app is counted once, so your timer never runs too fast or too slow.",
+      "🏆 Rewards Always Count: Reach your focus goal while the phone is locked and you still get your points, once and correctly.",
+      "🧈 Smoother App: Screens no longer reload every second while a timer runs, so scrolling feels faster.",
+      "🔋 Better Battery Life: Less background work while timers are running.",
+      "⚡ Stability Boost: Bug fixes and performance improvements for a more reliable Forge."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
     "id": "4.10.0",
     "title": "🎙️ VOICE PROOF IS HERE!",
     "message": "Now you can prove your work with your own voice! Record how it went, what you learned or how hard you pushed, and lock it in with your proof. ⚒️🔥",
