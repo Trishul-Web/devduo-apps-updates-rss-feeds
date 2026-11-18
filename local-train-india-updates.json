@@ -1,5 +1,24 @@
 [
   {
+    "id": "1.2.0",
+    "force_update": false,
+    "title": "🚆 Busier Lines, Train Races & Smart Signals (v1.2.0)",
+    "message": "This update makes every line feel alive. More trains pass you, you can race them side by side, and signals now warn you properly before you have to stop.",
+    "points": [
+      "🚆 NEW: Busier lines. Passing trains now run on every track, both coming towards you and going your way.",
+      "🏁 NEW: Train races. Other trains can run side by side with you, overtake you, or fall behind.",
+      "🔀 NEW: Who goes first at the points. When two trains need the same track, one waits. Passenger trains always go first, and locals take turns fairly.",
+      "🚦 Better signals. You always see a yellow signal before a red one, so you have time to slow down. Signals are also closer together now.",
+      "🛤️ Changing tracks. In Mixed mode the number of tracks changes between stations, from 1 to 4. Your train also uses a different track on each run.",
+      "⏱️ Better traffic timing. Light, Normal and Peak traffic now leave a proper gap between trains, and you get a good mix of crossing and overtaking trains.",
+      "🚃 Passing local trains are now full 12-car rakes.",
+      "🧍 Faster boarding. Passengers get on and off much quicker at every station.",
+      "💡 Auto headlight. Your headlight turns on by itself in the evening and off in the morning.",
+      "🔧 Trains no longer get stuck or block each other, and waiting trains stop properly at the platform. Plus many bug fixes and smoother driving."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.local_train_india"
+  },
+  {
     "id": "1.1.0",
     "force_update": false,
     "title": "💎 PRO, Secret Offer & Endless Run Results (v1.1.0)",
