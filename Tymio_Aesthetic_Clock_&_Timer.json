@@ -1,5 +1,21 @@
 [
   {
+    "id": "3.15.0",
+    "force_update": false,
+    "title": "⚡ Tymio is now lighter and faster! 🚀",
+    "message": "We rebuilt how Tymio is packed inside your phone. The app is now smaller, opens faster and runs smoother, with all your clocks, timers and focus stats just as you left them.",
+    "points": [
+      "📦 Smaller Size: Tymio now takes less space on your phone and updates download quicker.",
+      "🚀 Faster Start: The app opens faster, so your clock is ready in a moment.",
+      "✨ Smoother Animations: Clock effects and themes run more smoothly.",
+      "🧠 Less Memory: Tymio uses less memory, so it runs better even on older phones.",
+      "🏠 Reliable Widget: Your home screen clock widget and StandBy screen saver work more reliably.",
+      "💾 Nothing Lost: Your themes, focus stats, streaks and settings are all kept safe.",
+      "🛠️ Bug fixes and stability improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock"
+  },
+  {
     "id": "3.14.0",
     "force_update": false,
     "title": "🔥 Meet Focus Stats: see your focus grow every day! 📊",
