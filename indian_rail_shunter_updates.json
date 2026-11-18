@@ -1,5 +1,17 @@
 [
   {
+    "id": "1.6.0",
+    "force_update": false,
+    "title": "🛠️ Version 1.6.0 • Smoother Controls!",
+    "message": "Station Master, browsing upgrades is now easier! Before, pressing the phone's back button while the Upgrade shop was open closed the whole game. Now it just closes the shop and takes you back to your station, so you never lose your place by mistake.",
+    "points": [
+      "🔙 Back Button Fix: Pressing back now closes the Upgrade shop instead of exiting the game.",
+      "🚉 Stay in the Game: Shop, compare and go back to your station without the game closing by mistake.",
+      "🛠️ Small fixes and improvements for a smoother game."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.indian_rail_shunter"
+  },
+  {
     "id": "1.5.0",
     "force_update": false,
     "title": "🚆 Version 1.5.0 • New Trains Arrive!",
