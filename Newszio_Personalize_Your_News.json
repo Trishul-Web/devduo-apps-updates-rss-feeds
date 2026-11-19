@@ -1,5 +1,26 @@
 [
   {
+    "id": "2.18.0",
+    "force_update": false,
+    "title": "Get Alerts for News You Care About! 🔔",
+    "message": "Now you can watch any topic, like your city, cricket, a new phone or petrol prices. When new news about it comes, Newszio sends you a notification. You decide how often we check.",
+    "points": [
+      "🔔 Watch Alerts: Pick a topic and get a notification when new headlines about it appear.",
+      "⭐ Watch Anything: Open any topic, city, country, source, search or mix and tap 'Watch for updates'. Mix cards also have a bell icon.",
+      "⏰ Your Time, Your Choice: Check every few hours, every day, on chosen days of the week, once a month or once a year, at the time you like.",
+      "📋 All in One Place: Open Watch Alerts from the Library tab to see all your watches and their new alerts.",
+      "📰 Alerts for Each Watch: Tap a watch to see only its news. New headlines are marked NEW.",
+      "⏸️ Pause Anytime: Use the switch to stop a watch for a while. Your old alerts stay saved. Delete it when you don't need it anymore.",
+      "📲 Works When App Is Closed: You still get alerts even if Newszio is not open. If notifications are off, the app shows you how to turn them on.",
+      "👑 Premium: Watch 2 topics for free, or go Premium for unlimited watches and no ads.",
+      "✨ New Welcome Screens: A fresh new look when you open Newszio for the first time.",
+      "🧭 Easier Buttons: Summary, Refresh, Undo, Pin, Add to home screen and Watch are now in one row at the top, each with its name.",
+      "📚 Better Library: Your mixes are now at the top, then Read Later and Watch Alerts.",
+      "⚡ Bug Fixes & Polish: Small improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.17.0",
     "force_update": false,
     "title": "News on Your Home Screen! 📱✨",
