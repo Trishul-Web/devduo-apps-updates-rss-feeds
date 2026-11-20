@@ -1,5 +1,21 @@
 [ 
   {
+    "id": "1.17.1",
+    "force_update": false,
+    "title": "⭐ Save Your Favourite Settings",
+    "message": "Use the same settings every time? Now you can save them as a preset with your own name and use them again in just one tap, for one photo or many photos at once. The app now also works on more devices.",
+    "points": [
+      "⭐ My Presets: Set your quality, size and format, tap \"Save\" and give it a name like \"Shop Photos\". Next time, just tap it and everything is set for you.",
+      "📚 Works for Many Photos Too: Your saved presets also show in Batch, so one tap sets up all your photos together.",
+      "✏️ Easy to Manage: Long-press a preset (or tap ⋮) to rename or delete it anytime. Change any setting and the preset unselects, so you can save a new one.",
+      "💚 Share My Savings: On the home screen, tap \"Share My Savings\" to share a nice card showing how much phone storage you saved.",
+      "📱 More Devices Supported: The app can now be installed on more tablets and Chromebooks, and the crop screen rotates with your device.",
+      "📐 Better Resizing: Changing the photo size now works even at 100% quality.",
+      "🚀 Smoother Experience: Small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor"
+  },
+  {
     "id": "1.16.0",
     "force_update": false,
     "title": "📊 See Your Save Progress",
