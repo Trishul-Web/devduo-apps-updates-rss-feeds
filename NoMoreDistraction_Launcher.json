@@ -1,5 +1,25 @@
 [
   {
+    "id": "9.0.0",
+    "force_update": false,
+    "title": "🌱 Focus Garden: Watch Your Focus Grow!",
+    "message": "Your focus now has a home. Every time you choose focus over distraction, your own plant grows a little bigger. Keep it healthy, grow a full forest, and share it with friends.",
+    "points": [
+      "🌱 Focus Garden: A living plant now lives in Settings and Wellbeing. It grows every time you make a focus choice.",
+      "🧘 Grow With Every Choice: Finishing a Zen session, tapping 'I don't need this app right now', closing an app when your time is up, or leaving a doom scroll all help your plant grow.",
+      "☀️ Daily Visit: Your plant also gets a little growth bonus once a day, just for showing up.",
+      "📈 See It Grow: Your plant gets bigger with every point, from Seed to Sprout to Grand Tree, with a little +1 so you can see every step.",
+      "🥀 Keep It Healthy: Going over your screen-time limits makes your plant wilt a little. Focus brings it back to life.",
+      "🌳 Grow a Forest: When your tree is fully grown, it moves into your forest and a new seed starts. Your forest has no limit, and it earns new titles from Grove to Legend Forest.",
+      "🎨 10 Plants and 4 Pots: Start with Classic Oak or Lemon Tree, and unlock Sakura, Cactus, Palm, Bonsai, Willow and more with Zen streaks.",
+      "📸 Share Your Garden: Pick from 5 beautiful card designs and share your plant, forest or focus stats to WhatsApp or Instagram Stories.",
+      "📖 How to Grow: Tap 'How to grow' on the card to see every rule in one place.",
+      "💎 PRO: Unlock all premium plants and pots, plus 5 exclusive Gold share designs, including the Certificate of Focus.",
+      "✨ Smoother performance and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher"
+  },
+  {
     "id": "8.15.0",
     "force_update": false,
     "title": "⏱️ Time Before Opening: Decide First, Then Scroll!",
