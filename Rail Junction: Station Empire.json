@@ -1,5 +1,20 @@
 [
   {
+    "id": "1.16.0",
+    "force_update": false,
+    "title": "🛠️ Smoother & Fairer Rewards Update! 🚂",
+    "message": "Welcome to Version 1.16.0! We fixed some issues to make your railway empire run smoother than ever.",
+    "points": [
+      "🎁 Reliable Welcome Back Rewards: Your offline earnings now show once and are added correctly every time you return.",
+      "✅ No More Double Popups: Fixed an issue where the Welcome Back reward window could open twice.",
+      "🎬 Bonus Videos Fixed: Watching a bonus video no longer counts as time away from your station.",
+      "🏦 Smooth Shopping: Visiting the Bank shop or rating the game no longer affects your offline timer.",
+      "📱 Better App Switching: The game now behaves better when you leave and come back.",
+      "⚡ Faster & Stable: General performance improvements and bug fixes for a smoother ride."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction"
+  },
+  {
     "id": "1.15.0",
     "force_update": false,
     "title": "👑 New Royal Trains Update! 🚂",
