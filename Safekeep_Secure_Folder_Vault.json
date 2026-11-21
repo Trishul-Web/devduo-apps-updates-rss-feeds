@@ -1,5 +1,24 @@
 [
      {
+       "id": "8.1.0",
+       "title": "Recycle Bin ♻️",
+       "message": "Deleted something by mistake? No worries. Deleted files and profiles now go to the Recycle Bin and stay there for 30 days, so you can bring them back anytime.",
+       "points": [
+         "🗑️ Safe Delete: When you delete a file, it moves to the Recycle Bin instead of being erased.",
+         "↩️ Instant Undo: Tap UNDO right after deleting to get your file back at once.",
+         "📂 Easy Restore: Go to Profile, tap Recycle Bin, and restore any file. It goes back to its original folder.",
+         "👨‍👩‍👧 Restore Profiles: Deleted a profile? Restore it with all its files, folders, photo and PIN.",
+         "🔐 Still Private: Each profile sees only its own deleted files, and locked profiles need their PIN to open in the bin.",
+         "⏳ Auto Clean: Files in the bin are deleted forever after 30 days, so your storage stays clean.",
+         "❌ Your Choice: Delete files forever or empty the whole bin whenever you want.",
+         "☁️ Synced Everywhere: The Recycle Bin syncs with Google Drive, so deleting or restoring on one phone shows on your other devices too.",
+         "💾 Clean Backups: Vault backups now include only the files you can see. Files in the bin are not added.",
+         "🛡️ Sync fixes: Deleted files and folders no longer come back on your other devices."
+       ],
+       "url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider",
+       "force_update": false
+     },
+     {
        "id": "8.0.0",
        "title": "Family Profiles 👨‍👩‍👧",
        "message": "Keep everyone's documents neatly separated in one vault. Create a profile for yourself, your parents, kids or work, each with its own files, folders and tags. Your existing files are safe and are now in your 'Me' profile.",
