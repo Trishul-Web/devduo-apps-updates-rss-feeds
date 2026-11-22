@@ -1,5 +1,23 @@
 [
   {
+    "id": "1.14.0",
+    "force_update": false,
+    "title": "📊 Tap Your Insights to See Your Items",
+    "message": "Your Insights page can now be tapped. Tap any number, day, source or tag to see the items behind it, right there in a quick list.",
+    "points": [
+      "👆 Tap to Explore: Tap Total Saved, Favorites, This Week or Needs Tags to see those exact items in a list.",
+      "🧬 See One Type at a Time: In Vault DNA, tap Links, Media, Files or Notes to see only that kind of item.",
+      "📅 Heatmap Days: Tap any day on the Activity Heatmap, like Mon or Sat, to see everything you saved on that day.",
+      "🌐 Top Sources: Tap a website like YouTube or Instagram to see all the links you saved from it.",
+      "#️⃣ Tag Universe: Tap any tag to see every item with that tag.",
+      "📋 Same Look as Home: Items show with the same cards as your Home screen, so you can open, like or edit them right from the list.",
+      "🏷️ Tag Faster: Use Needs Tags to find untagged items and sort them quickly.",
+      "✨ Smoother Insights: The Insights page stays still when you close the list and no longer plays its animation again.",
+      "🛠️ Small fixes and improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything"
+  },
+  {
     "id": "1.13.0",
     "force_update": false,
     "title": "🎨 Emojis, Colors + New Sub-folder Look",
