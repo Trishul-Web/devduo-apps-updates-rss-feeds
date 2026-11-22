@@ -1,5 +1,19 @@
 [
   {
+    "id": "6.11.0",
+    "force_update": false,
+    "title": "⚡ Smoother, Faster, More Reliable! 🚀",
+    "message": "This update makes SkillSprint run better behind the scenes. Your progress, saved courses and certificates are safe and exactly where you left them.",
+    "points": [
+      "🧭 Same Courses Everywhere: Home, Explore and Saved now show the same course details, so nothing looks different from screen to screen.",
+      "🏷️ Correct PRO Labels: A course's PRO status now stays the same wherever you open it.",
+      "⚡ Lighter and Quicker: We cleaned up the app so screens open faster and use less memory.",
+      "💾 Your Learning Is Safe: All your progress, saved courses and certificates stay just as they were.",
+      "🚀 Smoother Experience: Performance improvements and small bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint"
+  },
+  {
     "id": "6.10.0",
     "force_update": false,
     "title": "📊 Your Real Progress, Clearer Than Ever! ✨",
