@@ -1,5 +1,29 @@
 [
     {
+        "id": "1.10.1",
+        "force_update": false,
+        "title": "🚨 Engine failure is here! (v1.10.1)",
+        "message": "Your engine can now break down on the line — call a relief engine from the next station and rescue your train!",
+        "points": [
+            "🚨 NEW: ENGINE FAIL — turn it on for any stop (or the last station) in your route. Somewhere on the way, your engine loses power and the train rolls to a stop.",
+            "📞 Tap CALL RELIEF ENGINE — a relief engine waits at the next station. Drive it back to your train and couple it gently.",
+            "🚂 Choose your own relief engine (up to 2) — or leave it and you get one like yours.",
+            "⚡ Trains with power cars at both ends can fail too — a WAP-7 comes to help them.",
+            "🔄 At a LOCO REV stop, the relief engine runs round your train like a real loco.",
+            "🔁 At a LOCO CHANGE stop, the relief engine is swapped for your new engine.",
+            "🛠️ Also in custom activities: add ENGINE FAIL to any stop.",
+            "💬 NEW: clear warning windows — the game now tells you before a setting is turned off (skipping a stop, moving or removing a stop, a train that can't change engines).",
+            "🏷️ The LOCO chip is now called LOCO CHANGE, so it's easier to understand.",
+            "🗺️ Cleaner route map — station cards no longer overlap.",
+            "🚆 Journey complete: your train is now shown big — swipe to see every coach.",
+            "✨ Special addon trains now come rarer, so they feel special.",
+            "📱 More devices supported — tablets, Chromebooks and PC can now install the game.",
+            "💾 Your saved journeys and activities still work.",
+            "✨ Small fixes and improvements."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.train_driver_india"
+    },
+    {
         "id": "1.9.0",
         "force_update": false,
         "title": "✨ Better looking new trains! (v1.9.0)",
