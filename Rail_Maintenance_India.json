@@ -1,39 +1,23 @@
 [
-   {
-    "id": "2.0.0",
-    "force_update": false,
-    "title": "💎 Lifetime Premium, Secret Offer & Smoother Play (v1.0.0) ✨",
-    "message": "This update brings Lifetime Premium with a secret scratch-card offer, a new update notes screen, cleaner messages and faster sounds.",
-    "points": [
-      "💎 NEW: Lifetime Premium — Pay once and keep it forever. No ads, every Manual Task unlocked and refuel without ads.",
-      "🎟️ Secret Scratch Card — Scratch the gold card on the Premium screen to reveal a special 1-hour Lifetime price.",
-      "🎉 Premium Celebration — Confetti, sounds and your own Premium member page after you join.",
-      "✅ Premium Badge — The home screen now shows a green PREMIUM badge so you always know it is active.",
-      "🔄 Restore Anytime — Your Premium is linked to your Google account and comes back on any device.",
-      "🔔 Update Notes — See what is new in every version, right inside the game. Check anytime from Settings.",
-      "🔐 Privacy & Ad Choices — Players in Europe and the UK can change their ad choices from Settings.",
-      "🔊 Faster Sounds — Buttons and effects are ready the moment the game opens.",
-      "💬 Clearer Messages — New, easy-to-read message bars.",
-      "🔧 Stability improvements and bug fixes."
-    ],
-    "url": "https://play.google.com/store/apps/details?id=com.devduo.railway_maintenance_india"
-  },
   {
-    "id": "1.0.0",
+    "id": "1.1.0",
     "force_update": false,
-    "title": "💎 Lifetime Premium, Secret Offer & Smoother Play (v1.0.0) ✨",
-    "message": "This update brings Lifetime Premium with a secret scratch-card offer, a new update notes screen, cleaner messages and faster sounds.",
+    "title": "💎 Lifetime Premium & Secret Scratch Card (v1.1.0) ✨",
+    "message": "Go Premium once and keep it forever. Scratch the gold card to find a special price, and enjoy faster sounds and clearer messages.",
     "points": [
-      "💎 NEW: Lifetime Premium — Pay once and keep it forever. No ads, every Manual Task unlocked and refuel without ads.",
-      "🎟️ Secret Scratch Card — Scratch the gold card on the Premium screen to reveal a special 1-hour Lifetime price.",
-      "🎉 Premium Celebration — Confetti, sounds and your own Premium member page after you join.",
-      "✅ Premium Badge — The home screen now shows a green PREMIUM badge so you always know it is active.",
-      "🔄 Restore Anytime — Your Premium is linked to your Google account and comes back on any device.",
-      "🔔 Update Notes — See what is new in every version, right inside the game. Check anytime from Settings.",
-      "🔐 Privacy & Ad Choices — Players in Europe and the UK can change their ad choices from Settings.",
-      "🔊 Faster Sounds — Buttons and effects are ready the moment the game opens.",
+      "💎 NEW: Lifetime Premium — Pay once and keep it forever. No subscription.",
+      "🚫 No Ads — Play without any ads between your work.",
+      "🔓 Every Manual Task Unlocked — Start any job right away, no ads to watch.",
+      "⛽ Refuel Without Ads — Fill up any machine at the depot any time.",
+      "🎟️ Secret Scratch Card — Scratch the gold card on the Premium screen to find a special price. It lasts for 1 hour only!",
+      "🎉 Premium Celebration — Confetti, music and your own Premium page when you join.",
+      "✅ Premium Badge — A green PREMIUM badge on the home screen shows that Premium is on.",
+      "🔄 Restore Anytime — Premium is linked to your Google account. Tap Restore to get it back on any phone.",
+      "🔔 Update Notes — See what's new in every update, right inside the game. Check any time in Settings.",
+      "🔐 Privacy & Ad Choices — Players in Europe and the UK can change their ad choices in Settings.",
+      "🔊 Faster Sounds — Buttons and sounds are ready as soon as the game opens.",
       "💬 Clearer Messages — New, easy-to-read message bars.",
-      "🔧 Stability improvements and bug fixes."
+      "🔧 Bug fixes and smoother play."
     ],
     "url": "https://play.google.com/store/apps/details?id=com.devduo.railway_maintenance_india"
   }
