@@ -1,5 +1,20 @@
 [
   {
+    "id": "2.13.0",
+    "force_update": false,
+    "title": "🧹 New: Clean Page in One Tap!",
+    "message": "Cookie banners, popups and ads ruining your PDF? Tap the new CLEAN button in Preview and remove them all at once. Your page, only the content you want.",
+    "points": [
+      "🧹 Clean Page: One tap removes cookie bars, sticky headers, popups, subscribe boxes, ads and chat bubbles.",
+      "💬 You Stay in Control: A quick message shows what will be removed. Tap Clean Page to go ahead or Cancel to keep the page as it is.",
+      "↩️ Easy Undo: Every removed item is added to your changes list, so you can bring back anything with one tap.",
+      "🧽 Works with Erase: Something still left? Use Erase to remove it by hand, just like before.",
+      "🔄 Nothing Automatic: Pages only change when you tap Clean. Reloading the page shows the original website again.",
+      "⚡ Bug fixes and smoother performance."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf"
+  },
+  {
     "id": "2.12.0",
     "force_update": false,
     "title": "🔗 New: Share Any Link to Web To PDF!",
