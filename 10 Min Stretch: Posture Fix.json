@@ -1,5 +1,18 @@
 [
   {
+    "id": "1.19.0",
+    "force_update": false,
+    "title": "👑 Get Your PRO Back with One Tap!",
+    "message": "New phone or reinstalled the app? Your PRO purchase is safe. Just tap Restore and it's back in seconds.",
+    "points": [
+      "♻️ Restore PRO: Open the PRO screen and tap Restore. Use the same Google account you bought PRO with.",
+      "📶 Works Offline: Your PRO now stays unlocked even when you open the app without internet.",
+      "💬 Clear Messages: The app tells you if PRO was restored, if no purchase was found, or if your internet is off.",
+      "🛠️ Fixes: Small improvements to make the app smoother and more reliable."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch"
+  },
+  {
     "id": "1.18.0",
     "force_update": false,
     "title": "🪑 New: Sitting Alert & Home Screen Widget!",
