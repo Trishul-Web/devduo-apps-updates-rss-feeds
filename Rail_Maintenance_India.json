@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.2.0",
+    "force_update": false,
+    "title": "⏸️ New Pause Menu & Smoother Ads (v1.2.0) ✨",
+    "message": "A beautiful new Pause menu, clearer ad choices and smoother play after a checkpoint.",
+    "points": [
+      "🎬 You Choose — Manual Tasks now ask first: tap Watch Ad to unlock the job, or Cancel.",
+      "⏳ Loading Ad Card — See a loading card while the ad gets ready, so the game never looks stuck.",
+      "🚩 Back to Work Faster — After a Last Checkpoint ad, you go straight back to driving.",
+      "⏸️ New Pause Menu — A fresh, premium look with Resume, Restart, Quit and sound buttons.",
+      "📏 Neater Buttons — The buttons on the failed journey screen are now the same size.",
+      "⭐ Rate Inside the Game — Give the game a rating without leaving it.",
+      "🔧 Bug fixes and smoother play."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.railway_maintenance_india"
+  },
+  {
     "id": "1.1.0",
     "force_update": false,
     "title": "💎 Lifetime Premium & Secret Scratch Card (v1.1.0) ✨",
