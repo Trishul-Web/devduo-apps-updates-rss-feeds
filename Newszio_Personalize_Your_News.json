@@ -1,5 +1,24 @@
 [
   {
+    "id": "2.19.0",
+    "force_update": false,
+    "title": "Your Newszio, Your Way! ⚙️",
+    "message": "Newszio now has a full Settings page. Make the text bigger or smaller, choose your country and hide news from publishers you don't like. Tap the gear icon on the home screen to open it.",
+    "points": [
+      "⚙️ New Settings Page: Tap the gear icon on the home screen to change how Newszio looks and works.",
+      "🔠 App Text Size: Pick Extra Small, Small, Default, Large or Extra Large. All text in the app changes at once.",
+      "📖 Reader Font Size: Use the slider to make article text bigger or smaller, from 50% up to 160%. You see a preview right away.",
+      "🌓 High Contrast Text: Turn it on to make all text bold and easier to read.",
+      "🌍 Default Country: Choose which country's news you see first.",
+      "🔤 Always English News: Get English headlines even for countries like Germany, France or Japan.",
+      "🚫 Hide Publishers: Turn off any news source you don't want. Its stories disappear from all your feeds. Search to find a source fast, or tap 'Show all' to bring them all back.",
+      "🔄 Reset Button: One tap brings text size, reader size and contrast back to default.",
+      "ℹ️ Contact & About: Support email, Watch Alerts, app updates and more are now in one place inside Settings.",
+      "⚡ Bug Fixes & Polish: Small improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio"
+  },
+  {
     "id": "2.18.0",
     "force_update": false,
     "title": "Get Alerts for News You Care About! 🔔",
