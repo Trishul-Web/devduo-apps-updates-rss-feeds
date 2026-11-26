@@ -1,5 +1,20 @@
 [
   {
+    "id": "1.8.0",
+    "force_update": false,
+    "title": "⚡ Version 1.8.0 • Rush Contracts Are Here",
+    "message": "Hello, Rail Boss! About once an hour, one contract now turns into a gold Rush Contract that pays double. Be quick, they don't last long!",
+    "points": [
+      "⚡ Double Payout: A Rush Contract pays 2x its normal reward.",
+      "⏱️ Live Countdown: A small gold badge on the card shows how much time is left to grab it.",
+      "📍 Always on Top: Rush Contracts show first on the Station and Contracts screens, whatever filter you have picked.",
+      "✅ Lock It In: Accept the Rush Contract before the timer ends and the 2x payout is yours.",
+      "💰 Stack the Bonus: Use the 2x Reward button on a Rush Contract to earn even more.",
+      "💬 Tell Us More: Spot something odd? Open Settings → Send Dispatch Feedback and we will look into it."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire"
+  },
+  {
     "id": "1.7.0",
     "force_update": false,
     "title": "🚉 Version 1.7.0 • A Fresh Look for the Departures Board",
