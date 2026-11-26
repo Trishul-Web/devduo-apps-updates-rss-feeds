@@ -1,5 +1,27 @@
 [
   {
+    "id": "3.1.0",
+    "force_update": false,
+    "title": "🛡️ New: Expiry Guard Reminders!",
+    "message": "Version 3.1.0 helps you look after your cards. Add an expiry date to your licence, insurance or any ID, and the app will remind you before it runs out.",
+    "points": [
+      "Add Expiry Date: Open any card in the Studio, go to Design, and tap Set Expiry Date under any page. Every page can have its own date.",
+      "Get Reminded in Time: Choose when you want a reminder, 30 days, 7 days or 1 day before. You can pick more than one.",
+      "Your Own Days: Tap Custom to add any number of days you like, for example 45 or 90 days before.",
+      "Reminder on the Day: You also get a reminder on the day the card expires.",
+      "Works When the App Is Closed: Reminders arrive at 10 AM even if the app is closed, and keep working after you restart your phone.",
+      "Open From the Reminder: Tap a reminder to open that card straight away. Locked cards still ask for your fingerprint or PIN first.",
+      "Expiry Labels: When a card is 30 days or less from expiring, it shows a small label like 12D LEFT on the home screen, in the Wallet and in the 3D View.",
+      "Easy Colours: The label turns red when only 7 days or less are left, or when the card has already expired.",
+      "Expiring Soon Filter: A new Expiring Soon tab on the home screen shows only the cards that need renewing soon.",
+      "Turn Reminders On or Off: Use the Remind Me switch any time. Your expiry date stays saved either way.",
+      "Notifications Help: If notifications are turned off for the app, you'll see a clear message with a quick button to turn them back on.",
+      "Safe in Backups: Expiry dates and reminder settings are saved in your vault backup and come back when you restore.",
+      "Fixes: The card name bar in the 3D View no longer gets cut off on small screens."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d"
+  },
+  {
     "id": "3.0.0",
     "force_update": false,
     "title": "✨ Your Cards, Now Faster and Fully 3D!",
