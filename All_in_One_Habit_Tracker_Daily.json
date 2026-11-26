@@ -1,5 +1,21 @@
 [
   {
+    "id": "1.14.0",
+    "force_update": false,
+    "title": "🎉 Getting Started Is Now Easier!",
+    "message": "Empty screens got a beautiful new look, and you can now add popular trackers with just one tap.",
+    "points": [
+      "🎨 New Empty Screens: Habits, Events, Milestones and Folders now show a lively animated design instead of plain text.",
+      "⚡ One-Tap Starters: Add popular items instantly, like Drink Water, Steps, Haircut, Water Plants, New Year or a 30-Day Challenge.",
+      "📁 Ready-Made Folders: Create Health, Work, Home or Learning folders with a single tap.",
+      "➕ Easier Folders: Inside any folder, use the new Create New and Add Existing buttons to fill it quickly.",
+      "📜 Better Scrolling: Empty screens now scroll smoothly, so nothing hides behind the bottom bar.",
+      "🔒 Your Data Is Safe: All your current trackers, logs, streaks and settings stay exactly as they were.",
+      "✨ Better Stability: Small bug fixes and improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker"
+  },
+  {
     "id": "1.13.0",
     "force_update": false,
     "title": "✨ Fresh Widgets & A Smarter Start!",
