@@ -1,5 +1,25 @@
 [
   {
+    "id": "11.13.0",
+    "force_update": false,
+    "title": "🏆 New: Practice Arena – Daily Coding Challenges (v11.13.0) ✨",
+    "message": "Not sure what to code today? Open Practice Arena from the Tools tab, pick a language and solve real coding challenges. Practice a little every day and watch your skills grow.",
+    "points": [
+      "🏆 NEW: Practice Arena — Find it as the first card in the Tools tab.",
+      "🌍 3 Languages — Python, Java and C++, with 20 challenges in each, going from Easy to Hard.",
+      "✍️ Write It Yourself — Every challenge starts with a clean code template, just like real coding tests. You write the full solution.",
+      "✅ Hidden Test Cases — Tap Run & Submit and your code is checked against several tests. See ✅ or ❌ for each one, and what went wrong if the sample fails.",
+      "📅 Daily Challenge — A new challenge every day that gives 2x XP.",
+      "💡 Hint & Explanation — Stuck? Read a hint, then a simple explanation of how to solve it. The full solution is there too, but using it gives half XP.",
+      "🔥 Streaks, XP & Badges — Solve challenges on back-to-back days to grow your streak, earn XP, level up and unlock badges like 7-Day Coder and Arena Master.",
+      "⌨️ Your Coding Keyboard — Practice uses the DevDuo coding keyboard, and you can switch to your phone keyboard any time.",
+      "💾 Auto Save — Your code for each challenge is saved, so you can come back later.",
+      "🌐 Internet needed to check code — The challenges are inside the app, but running tests needs an internet connection.",
+      "🔧 Stability improvements and bug fixes."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer"
+  },
+  {
     "id": "11.12.0",
     "force_update": false,
     "title": "🎬 New: Step-by-Step Code Visualizer (v11.12.0) ✨",
