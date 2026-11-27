@@ -1,5 +1,20 @@
 [
   {
+    "id": "6.18.0",
+    "force_update": false,
+    "title": "💧 Safe Share Watermark",
+    "message": "Worried someone may misuse the ID copy or document you share? Now you can stamp your own watermark on it before sharing.",
+    "points": [
+      "💧 Add Watermark: Open the editor and tap 'Watermark' to type your own text, like 'Only for Bank KYC, 17 Nov 2026'.",
+      "📄 This Page or All Pages: Choose to put the watermark on the current page only, or on every page of the PDF.",
+      "🎚️ Easy Controls: Use simple sliders to change the size, gap, rotation and opacity.",
+      "🎨 Pick a Color: Light gray is the default, or choose any color you like.",
+      "👀 Live Preview: See the watermark on your page as you change it, before you save or share.",
+      "🔧 Under-the-hood stability and performance improvements."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer"
+  },
+  {
     "id": "6.17.0",
     "force_update": false,
     "title": "🔖 Bookmarks & Continue Reading",
