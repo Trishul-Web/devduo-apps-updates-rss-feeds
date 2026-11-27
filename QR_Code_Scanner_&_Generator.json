@@ -1,5 +1,22 @@
 [
     {
+        "id": "3.5.0",
+        "force_update": false,
+        "title": "📦 Smart Bulk Import Is Here!",
+        "message": "Need QR codes for 100 products or 30 tables? No more typing them one by one. Paste a list or open your CSV or Excel file, and the app makes all of them for you in seconds.",
+        "points": [
+            "📋 Paste a List: Paste your links or text, one per line. Every line becomes its own QR code.",
+            "📊 Open CSV or Excel: Pick your file and tell the app what each column is, like Link, Text, Phone, UPI ID, Email or Label. You stay in control.",
+            "🔢 Auto Numbering: Need Table 1 to Table 30? Type it once and all 30 codes are made, each with its own number added to the link.",
+            "🏷️ Smart Labels: Your product or table names are used for ZIP file names and printed under each QR on sticker sheets.",
+            "👀 Preview First: See your first codes and the total count before you import.",
+            "➕ Replace or Add: Start a new batch or add more codes after the ones you already have.",
+            "✈️ Works Offline: Everything happens on your phone. No internet needed.",
+            "⚡ Smoother & Better: Small design improvements and fixes all around."
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator"
+    },
+    {
         "id": "3.4.0",
         "force_update": false,
         "title": "✨ Ready-Made Templates Are Here!",
