@@ -1,5 +1,19 @@
 [
   {
+    "id": "8.17.0",
+    "title": "Your Recent Scans on Home",
+    "message": "Finding your documents is now quicker! Your latest scans now show right on the Home screen with big, clear previews.",
+    "force_update": false,
+    "points": [
+      "🖼️ Recent Scans: See your latest scans on the Home screen with large page previews.",
+      "👆 One Tap Open: Tap any recent scan to open it and keep editing right away.",
+      "📅 Quick Details: Each scan shows its name, number of pages and the date.",
+      "📂 See All: Tap 'See all' to view every project you have saved.",
+      "⚙️ Small fixes and improvements for a smoother experience."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro"
+  },
+  {
     "id": "8.16.0",
     "title": "Easier PDF Preview",
     "message": "Making your PDF is now simpler and clearer! Every button has a name, and you have more control over how your pages look on A4.",
