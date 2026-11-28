@@ -1,5 +1,20 @@
 [
   {
+    "id": "4.12.0",
+    "title": "💾 YOUR FOCUS TIME IS SAFE!",
+    "message": "Close the app, restart your phone, come back anytime. Your timer time is saved and waits for you. ⚒️🔥",
+    "points": [
+      "💾 Time Is Saved: Your focus time for the day stays even if the app is closed or your phone restarts.",
+      "⏸️ No Surprise Restarts: After the app closes, timers come back paused right where you left off. Just tap to continue.",
+      "🎯 Exact Task Timers: Your countdown time is saved every few seconds, so you never lose your progress.",
+      "🌅 Fresh Start Every Day: The daily focus timer resets at midnight, so each day starts from zero.",
+      "🏆 Daily Rewards Fixed: Reach your focus goal and earn your points again every new day.",
+      "⚡ Stability Boost: Bug fixes and performance improvements for a more reliable Forge."
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+    "isForced": false
+  },
+  {
     "id": "4.11.0",
     "title": "⏱️ TIMERS YOU CAN TRUST!",
     "message": "This update makes your focus timers rock solid. Lock your phone, switch apps, come back later. Your time is always counted right. ⚒️🔥",
